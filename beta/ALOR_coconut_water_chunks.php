@@ -281,14 +281,16 @@
 		  </div>
 		  
 		  <div class="span7">
-			<h3>Product Description</h3>
+			<!--<h3>Product Description</h3>-->
 			
 			<div class="description">
-					Introducing Alor Coconut Water wth Coconut Chunks- delicious water and tender coconut pieces together give you a natural burst of energy. Anytime anywhere!<br>
+					<p>Imagine this. You’re on a vacation at an exotic beach; lying by the sea side, enjoying the cool breeze in your hair after a revitalizing dip in the water. What else would you need to make the picture perfect? A big drink of coconut water of course! And with some delicious bits of coconut chunks added in to bite into, the experience becomes all the more wonderful.</p>
 
-					It is naturally enriched with potassium, electrolytes and minerals to replenish hydration levels within the body. And it's totally devoid of fats. While you enjoy the succulent coconut chunks, the naturally occurring bioactive enzymes helps in digestion and metabolism.<br>
+					<p>With ALOR Coconut Water with Coconut Chunks available now, you don’t need to go to some far-flung place to savour this delight. Relish it in the comfort of your home, office or sip it while you take a stroll in the park; it’s easily available, totally refreshing and mouth-wateringly scrumptious! Plus, it’s also very, very good for you. </p>
 
-					Discover an active you. Just crack open a pack of Alor Coconut Water with Coconut Chunks.
+					<p>Coconuts are rare fruits that are an excellent source of nutrients and coconut water is an amazing thirst quencher. What’s more is that it’s completely devoid of fats which means you can have all you want without any worry of weight-gain. The more coconut water you consume, the better it is for your digestion and metabolism. Also coconuts are full of potassium, electrolytes, calcium and magnesium and amazingly healthy for you!</p>
+
+					<p>ALOR takes great care to ensure that the best quality coconuts reach you, our consumers. You can be assured that you drink the freshest coconut water and tastiest chunks whenever you’re having ALOR…We promise it’s that good!</p>
 			</div>
 			
 			<!--<div class="price-box">

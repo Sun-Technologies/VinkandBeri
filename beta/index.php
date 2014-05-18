@@ -307,10 +307,8 @@
 			  data-easing="Power4.easeOut"
 			  data-endspeed="500"
 			  data-endeasing="Power1.easeIn">
-			  <p>Alor Aloe Vera Juice is a All Natural Drink packed <br>
-			  with ample benefits and goodness. It made from the real<br>
-			  Aloe Vera pieces and contains no artificial colour or flavor.
-</p>
+			  <p>Our products are delicious and packed with nutrients<br>
+			   to give you many nourishing health benefits.</p>
 			</div>
 
 			<a href="#" class="btn cherry tp-caption lfb"
@@ -361,10 +359,10 @@
 			  data-easing="Power4.easeOut"
 			  data-endspeed="400"
 			  data-endeasing="Power1.easeIn">
-			  <p>Alor Aloe Vera Juice is a All Natural Drink packed<br>
-			  with ample benefits and goodness. It made from the real<br>
-			  Aloe Vera pieces and contains no artificial colour or flavor.
-</p>
+			  <p>Think of Aloe Vera as inedible? Try our Aloe Vera juice with real<br>
+			   Aloe Vera pieces in it and your opinion will change forever!<br>
+			   With an amazing burst of flavor that you’ll love, we guarantee<br>
+			   you will get addicted to it – it’s that good!</p>
 			</div>
 
 			<a href="#" class="btn tp-caption customin cherry"
@@ -435,11 +433,10 @@
 			  data-easing="Power4.easeOut"
 			  data-endspeed="400"
 			  data-endeasing="Power1.easeIn">
-			  <p>Filled with natural minerals, vitamins and amino acids,<BR>
-			  ALOE VERA DICED PIECES IN SYRUP WITH ADDED HONEY offers <br>
-			  a wide range of health benefits.
-
-</p>
+			  <p>Our lip-smacking Orange Nectar Juice is made from<br>
+			   Brazilian oranges and contains Jeju Island orange pieces<br>
+			   for that exceptional taste and a healthy dose of natural minerals,<br>
+			   vitamins and amino acids.</p>
 			</div>
 
 			<a href="#" class="btn btn-primary tp-caption customin"
@@ -539,11 +536,9 @@
 			  data-easing="Back.easeInOut"
 			  data-endspeed="400"
 			  data-endeasing="Power1.easeIn">
-			  <p>It's naturally enriched with potassium, electrolytes<br>
-			  and minerals to replenish hydration levels within the body.<br>
-			  And it's totally devoid of fats. Its naturally occurring<br>
-			  bioactive enzymes help in digestion and metabolism.
-</p>
+			  <p> Is it water or is it juice? It’s both! Enjoy the exotic taste of tasty coconuts<br>
+			   and bite into its chunks as you go. Enriched with potassium, electrolytes<br>
+			   and minerals, it’ll also give you all the hydration you need.</p>
 			</div>
 
 			<a href="#" class="tp-caption btn orang lfb skewtobottom"
@@ -574,30 +569,26 @@
 		<div class="span4">
 		<h4 class="title">Our Products</h1>
 			<div>
-				<a class="work" href="portfolio-single.php">
+				<a class="work" href="products.php">
 					<img width="370" height="270" alt="" src="img/content/portfolio-1.jpg">
 					<span class="shadow"></span>
 					<div class="bg-hover"></div>
 					<div class="work-title">
-					<h3 class="title">Aloe Vera Juice</h3>
-					<div class="description">vink & beri</div>
+					<!--<h3 class="title">Aloe Vera Juice</h3>-->
+					<div class="description">Explore our products OR Know More about Our Products</div>
 					</div>
 				</a>
 				<br>
-				<div data-appear-animation="bounceInLeft" class="text-small appear-animation bounceInLeft appear-animation-visible">
+				<!--<div data-appear-animation="bounceInLeft" class="text-small appear-animation bounceInLeft appear-animation-visible">
 					Explore here for our products <a href="http://beta.vinkandberi.com/products.php">more</a>
 					<div class="clearfix"></div><br>
-				</div>
+				</div>-->
 			</div>
-			<h4 class="title">Latest News</h1>
+			<h4 class="title">More on V&B</h1>
 			<div style="border:1px solid #ccc; border-radius:10px; padding:10px;">
 				
 					
-					<p style="color:#000; text-align:left;text-shadow: 0 0px #000000; font-size:14px; "> V&B is US arm of TGI group, providing a wide range of natural nutritious food products.TGI group is a leading player in food products having operations in 11 countries in Europe, Asia and Middle East, Africa besides US. 
-					<a class="btn btn-link" href="#">Read more</a></p>
-					
-					
-					<p style="color:#000; text-align:left;text-shadow: 0 0px #000000; font-size:14px; ">TGI group is a leading player in food products having operations in 11 countries in Europe, Asia and Middle East, Africa besides US.<a class="btn btn-link" href="#">Read more</a></p>
+					<p style="color:#000; text-align:left;text-shadow: 0 0px #000000; font-size:14px; "> V&B is the US arm of TGI Group, a leading player offering a wide range of nutritious food products in Europe, Asia, Africa, Middle East and the US. V&B is committed to excellence and aims to offer great tasting products without compromising on health benefits.At V&B, we don’t believe in....<br><a class="btn btn-link" href="about.php">Read more</a><br></p>
 			</div>
 			
 			
@@ -607,20 +598,21 @@
 		<div class="span4">
 		<h4 class="title">Recipes</h1>
 			<div>
-				<a class="work" href="portfolio-single.php">
+				<a class="work" href="recipes.php">
 					<img width="370" height="270" alt="" src="img/content/portfolio-4.jpg">
 					<span class="shadow"></span>
 					<div class="bg-hover"></div>
-					<!--<div class="work-title">
-					<h3 class="title">Discover simple healthy recipes</h3>
-					<div class="description">vink & beri</div>
-					</div>-->
+					<div class="work-title">
+					<!--<h3 class="title">Discover simple healthy recipes</h3>-->
+					<div class="description">Discover simple and delicious recipes </div>
+					</div>
 				</a>
 				<br>
-				<div data-appear-animation="bounceInLeft" class="text-small appear-animation bounceInLeft appear-animation-visible">
+				<!--<div data-appear-animation="bounceInLeft" class="text-small appear-animation bounceInLeft appear-animation-visible">
 					Discover simple healthy recipes <a href="#">Read more</a>
 					<div class="clearfix"></div><br>
 				</div>
+			-->
 			</div>
 		<h4 class="title">Sales & Promotions</h1>
 			<div>
@@ -647,20 +639,20 @@
 		<div class="span4">
 		<h4 class="title">Health & Nutrition</h1>
 			<div>
-				<a class="work" href="portfolio-single.php">
+				<a class="work" href="healthnutrion.php">
 					<img width="370" height="270" alt="" src="img/content/portfolio-5.jpg">
 					<span class="shadow"></span>
 					<div class="bg-hover"></div>
 					<div class="work-title">
-					<h3 class="title">Coming soon</h3>
-					<div class="description">vink & beri</div>
+					<!--<h3 class="title">Coming soon</h3> -->
+					<div class="description">Explore more about Health & Nutrition / Learn More on Health & Nutrition</div>
 					</div>
 				</a>
 				<br>
-				<div data-appear-animation="bounceInLeft" class="text-small appear-animation bounceInLeft appear-animation-visible">
+				<!--<div data-appear-animation="bounceInLeft" class="text-small appear-animation bounceInLeft appear-animation-visible">
 					Check back this section for information on Health and Nutrition
 					<div class="clearfix"></div><br>
-				</div>
+				</div>-->
 			</div>
 			<h4 class="title">Recent Tweetes</h1>
 			<div>

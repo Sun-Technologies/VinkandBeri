@@ -5,11 +5,11 @@
 	<div class="banners">
 	  <a href="products.php" class="banner">
 		<img src="img/content/banner1.jpg" width="253" height="158" alt="">
-		<h2 class="title">ALOR Aloe Vera Juice</h2>
+		<h2 class="title">ALOR Aloe Vera Juice with Aloe Vera Pieces</h2>
 	  </a>
 	  <a href="ALOR_aloevera_chunks.php" class="banner">
 		<img src="img/content/banner2.jpg" width="253" height="158" alt="">
-		<h2 class="title">ALOR Aloe Vera Chunks</h2>
+		<h2 class="title">ALOR Aloe Vera Pieces in Syrup</h2>
 	  </a>
 	  <a href="ALOR_aloevera_coconut_water.php" class="banner">
 		<img src="img/content/banner3.jpg" width="253" height="158" alt="">

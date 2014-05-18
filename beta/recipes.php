@@ -1,10 +1,9 @@
 <!DOCTYPE html>
 <html>
 <head>
-  <title>Vink & Beri LLC | Product | ALOR Aloe Vera Chunks</title>
+  <title>Recipes | Vink & Beri LLC</title>
   <meta class="viewport" name="viewport" content="width=device-width, initial-scale=1.0">
   <meta charset="utf-8">
-  <meta content="Vink & Beri LLC (V&B) is US arm of TGI group. TGI Group is one of the most respected groups and has businesses in 11 countries in Africa, Europe, Asia and Middle East besides US. TGI is the leading player in food products in African Continent. TGI has interest in production and trading of Commodities like Cotton, Insecticides, Sesame seeds and bulk Chemicals besides Pharmaceuticals, Deep Sea Fishing and as a support company to the majors companies in Deep Sea Oil Drilling.VINK & BERI LLC Company makes and sells branded plant-based foods and beverages, and premium dairy products throughout North America and Europe. And we do it in a way that's unlike any company in our industry. " name="keywords">
   <link href="img/favicon.png" rel="shortcut icon">
 
   <link rel='stylesheet' href="css/docs.css">
@@ -75,10 +74,10 @@
 	.accordion-tab > li > a .open-sub:after,
 	.products-tab .accordion-tab > li > a .open-sub:before,
 	.products-tab .accordion-tab > li > a .open-sub:after {
-	  background-color: #008644;
+	  background-color: #ef7f1a;
 	}
     .slider .slider-nav {
-      background-color: rgba(64,73,155,.97);
+      background-color: #008644;
     }
     .county-days-wrapper,
     .county-hours-wrapper,
@@ -86,7 +85,7 @@
     .county-seconds-wrappe,
 	.product .product-hover,
 	.rotation .employee-hover {
-      background-color: #008644;
+      background-color: rgba(0,152,202,.9);
     }
     .btn:hover,
     .btn:focus,
@@ -94,8 +93,8 @@
     .btn.active,
     .btn.disabled,
     .btn[disabled] {
-      background-color: #008644;
-      background-color: rgba(64,73,155,.8);
+      background-color: #ef7f1a;
+      background-color: rgba(0,152,202,.8);
     }
     #catalog .category-img .description,
     .toolbar .sort-catalog .dropdown-toggle,
@@ -106,24 +105,24 @@
     .pagination ul > .active > a,
     .pagination ul > .active > span,
     .sidebar .tags a {
-      background-color: rgba(64,73,155,.7);
+      background-color: rgba(0,152,202,.7);
     }
     .sidebar .banners .banner-text {
-      background-color: rgba(64,73,155,.65);
+      background-color: rgba(0,152,202,.65);
     }
     #slider.rs-slider .tparrows,
 	.product-page .add-cart-form .number .regulator a:hover {
-      background-color: rgba(64,73,155,.5);
+      background-color: rgba(0,152,202,.5);
     }
 	.pricing .bottom-box {
-	  background-color: rgba(64,73,155,.05);
+	  background-color: rgba(0,152,202,.05);
 	}
 	.pricing {
-	  background-color: rgba(64,73,155,.06);
+	  background-color: rgba(0,152,202,.06);
 	}
 	.pricing .options li,
 	.pricing .bottom-box {
-	  border-color: rgba(64,73,155,.1);
+	  border-color: rgba(0,152,202,.1);
 	}
 	.header .cart-header .dropdown-toggle,
 	#footer .newsletter input:focus + .submit,
@@ -146,13 +145,13 @@
     .pricing .title a,
     .pricing .options li span,
 	.pricing .options li.active {
-	  color: #008644;
+	  color: #ef7f1a;
 	}
 	.pricing .bottom-box .more {
-	  color: rgba(64,73,155,.7);
+	  color: rgba(0,152,202,.7);
 	}
 	.pricing .options li {
-	  color: rgba(64,73,155,.4);
+	  color: rgba(0,152,202,.4);
 	}
 	.phone-header a svg path,
 	.search-header a svg path,
@@ -165,7 +164,7 @@
 	.product-bottom .related-products li .button-box .wishlist:hover svg path,
 	.jslider .jslider-pointer svg path,
 	.rating-box .rating svg polygon {
-	  fill: #008644;
+	  fill: #ef7f1a;
 	}
     .carousel-box .pagination a.selected,
     .banner-set .pagination a.selected {
@@ -182,7 +181,7 @@
 	  .accordion-tab > .active:hover > a,
 	  .products-tab .accordion-tab > .active > a,
 	  .products-tab .accordion-tab > .active:hover > a {
-		background-color: #008644;
+		background-color: #ef7f1a;
 	  }
 	}
 	.navbar-inverse .brand,
@@ -207,7 +206,7 @@
     <link rel='stylesheet' href="css/ie/ie9.css">
   <![endif]-->
 </head>
-<body class="fixed-header">
+<body>
 <div class="page-box">
 <div class="page-box-content">
 
@@ -217,97 +216,173 @@
   <div class="container">
     <ul class="breadcrumb">
       <li><a href="index.html">Home</a> <span class="divider">/</span></li>
-      <li><a href="catalog-grid.html">Products</a> <span class="divider">/</span></li>
-      <li class="active">ALOR Aloe Vera Pieces in Syrup</li>
+      <li class="active">Recipes</li>
     </ul>	
   </div>
 </div><!-- .breadcrumb-box -->
 
-<?php include 'product_links.php'; ?>
 
-<div id="main" class="page">
+
+<section id="main">
   <header class="page-header">
     <div class="container">
-      <h1 class="title">ALOR Aloe Vera Pieces in Syrup</h1>
+      <h1 class="title">Recipes</h1>
     </div>	
   </header>
-  
   <div class="container">
     <div class="row">
-      <article class="content span12 product-page">
+      <article class="content span12">
 		<div class="row">
-		  <div class="span5">
-			<div class="image-box">
-			  <span class="sale top"></span>
-			  <div class="general-img">
-				<img alt="" src="img/content/single-11.png" data-zoom-image="img/content/single-11.png" width="700" height="700">
-			  </div><!-- .general-img -->
-			  
-			  <div class="thumblist-box load">
-				<a href="#" class="prev">
-				  <svg version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
-					width="9px" height="16px" viewBox="0 0 9 16" enable-background="new 0 0 9 16" xml:space="preserve">
-					<polygon fill-rule="evenodd" clip-rule="evenodd" fill="#fcfcfc" points="8,15.999 9,14.999 2,8 9,1.001 8,0.001 0,8 "/>
-				  </svg>
-				</a>
-				<a href="#" class="next">
-				  <svg version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
-					width="9px" height="16px" viewBox="0 0 9 16" enable-background="new 0 0 9 16" xml:space="preserve">
-					<polygon fill-rule="evenodd" clip-rule="evenodd" fill="#fcfcfc" points="1,0.001 0,1.001 7,8 0,14.999 1,15.999 9,8 "/>
-				  </svg>
-				</a>
-				
-				<div id="thumblist" class="thumblist">
-				  <a href="#" data-image="img/content/single-11.png" data-zoom-image="img/content/single-11.png">
-					<img alt="" src="img/content/single-11.png" width="700" height="700">
-				  </a>
-				  <a class="active" href="#" data-image="img/content/single-14.png" data-zoom-image="img/content/single-14.png">
-					<img alt="" src="img/content/single-14.png">
-				  </a>
-				  <a href="#" data-image="img/content/single-13.png" data-zoom-image="img/content/single-13.png">
-					<img alt="" src="img/content/single-13.png" width="700" height="700">
-				  </a>
-				</div><!-- #thumblist -->
-			  </div><!-- .thumblist -->
-			</div>
-		  </div>
-		  
-		  <div class="span7">
-			<!--<h3>Product Description</h3>-->
-			
-			<div class="description">
-			 <p>Does syrup go with everything? If yes, then why not make it healthy and add some Aloe Vera in it? When you discover the natural benefits of this wonder plant, you will realize that it is one of the healthiest additions you can make to your diet. The rewards are many and include excellent health advantages, a greater sense of well-being and enhanced energy. And when real Aloe Vera pieces are added in the syrup, you can rest assured that you’re body is absorbing the best nutrients the plant can offer.</p>
-       <p>ALOR Aloe Vera pieces in Syrup is a potent product; enjoy it plain, spread it on fruits as an evening snack or dessert and make the most of it with frozen yogurts, you will love it always. Our product boasts of a thick consistency, the texture is smooth, always fresh and delicious. Try it today and make the most of it, every single time! </p>
-			</div>
-			
-			<!--<div class="price-box">
-			  <span class="price-old">$150</span> 
-			  <span class="price">$119.00</span>
-			</div>-->
-			
-			<h3>Nutrition Facts</h3>
-			 
-			<img width="300" align="right" src="img/content/Facts.png" alt="" style="margin-top:-120px;">
-			
-			
-			
-			<div class="description">
-			  ALOE VERA JUICE DRINK WITH ALOE VERA PIECES : Alor Aloe Vera Juice is a All Natural Drink packed with ample benefits and goodness.It made from the real Aloe Vera pieces and contains no artificial colour or flavor. Prepared keeping in mind of providing ultimate taste of the Real Aloe Vera which can boost the energy to the peak.
-Now, pick your favorite since it is an anytime drink- the taste and health which you always look for.
-			</div>
-		  </div>
-		  
 		  <div class="clearfix"></div>
-		  
+		  <div class="span6 bottom-padding">
+			<div class="accordion" id="accordion2">
+			  <div class="accordion-group">
+				<div class="accordion-heading">
+				  <a class="accordion-toggle" data-toggle="collapse" data-parent="#accordion2" href="#collapseOne">
+					Recipe 1 : Lemony Aloe Vera 
+				  </a>
+				</div>
+				<div id="collapseOne" class="accordion-body collapse in">
+				  <div class="accordion-inner">
+					<h6>Ingredients</h6>
+					<ul style="margin-left: 5%;">
+					 <li>1 Cucumber</li>
+					 <li>1 Apple</li>
+					 <li>1 Lemon</li>
+					 <li>2 Cans - ALOR Aloe Vera Juice (without pieces)</li>
+					</ul>
+					<h6>Method</h6>
+					<ul style="margin-left: 5%;">
+					 <li>Blend the apple and the cucumber together </li>
+					 <li>Add in the lemon juice</li>
+					 <li>Add this mixture in the Alor Aloe Vera Juice. </li>
+					 <li>Add some ice cubes and enjoy chilled! </li>
+					</ul>
+				  </div>
+				</div>
+			  </div>
+			  
+			  <div class="accordion-group">
+				<div class="accordion-heading">
+				  <a class="accordion-toggle" data-toggle="collapse" data-parent="#accordion2" href="#collapseTwo">
+					Recipe 2: Healthy Aloe Vera 
+				  </a>
+				</div>
+				<div id="collapseTwo" class="accordion-body collapse">
+				  <div class="accordion-inner">
+					<h6>Ingredients</h6>
+					<ul style="margin-left: 5%;">
+					 <li>2 Carrots </li>
+					 <li>2 Apples</li>
+					 <li>1 Orange, peeled</li>
+					 <li>2 Cans – ALOR Aloe Vera Juice</li>
+					</ul>
+					<h6>Method</h6>
+					<ul style="margin-left: 5%;">
+					 <li>Cut the apples, carrots and orange into small pieces</li>
+					 <li>Blend them together into a juice</li>
+					 <li>Then add this juice mixture into the ALOR Aloe Vera Juice</li>
+					 <li>Enjoy your fruity, healthy drink chilled with loads of ice! </li>
+					</ul>
+				  </div>
+				</div>
+			  </div>
+			  
+			  <div class="accordion-group">
+				<div class="accordion-heading">
+				  <a class="accordion-toggle" data-toggle="collapse" data-parent="#accordion2" href="#collapseThree">
+					Recipe 3: Coconut Magic
+				  </a>
+				</div>
+				<div id="collapseThree" class="accordion-body collapse">
+				  <div class="accordion-inner">
+					<h6>Ingredients</h6>
+					<ul style="margin-left: 5%;">
+					 <li>1 cup watermelon (154 gms / 5.4 oz approx) </li>
+					 <li>1 Lemon </li>
+					 <li>2 Cans - ALOR Coconut water with coconut chunks </li>
+					</ul>
+					<h6>Method</h6>
+					<ul style="margin-left: 5%;">
+					 <li>Slice the watermelon into small pieces</li>
+					 <li>Add the watermelon pieces into the ALOR Coconut water with coconut chunks </li>
+					 <li>Add a dash of lemon </li>
+					 <li>Serve chilled and enjoy the exotic taste of coconuts on a hot summer day. </li>
+					</ul>
+				  </div>
+				</div>
+			  </div>
+			  
+			  <div class="accordion-group">
+				<div class="accordion-heading">
+				  <a class="accordion-toggle" data-toggle="collapse" data-parent="#accordion2" href="#collapsefour">
+					Recipe 4: Coconut and Strawberries
+				  </a>
+				</div>
+				<div id="collapsefour" class="accordion-body collapse">
+				  <div class="accordion-inner">
+					<h6>Ingredients</h6>
+					<ul style="margin-left: 5%;">
+					 <li>1 cup strawberries (154 gms / 5.4 oz approx) </li>
+					 <li>2 Cans - ALOR Coconut water with coconut chunks </li>
+					</ul>
+					<h6>Method</h6>
+					<ul style="margin-left: 5%;">
+					 <li>Slice the strawberries into small pieces</li>
+					 <li>Add it into the ALOR Coconut water with coconut chunks </li>
+					 <li>Serve super chilled! </li>
+					</ul>
+				  </div>
+				</div>
+			  </div>
+			  <div class="accordion-group">
+				<div class="accordion-heading">
+				  <a class="accordion-toggle" data-toggle="collapse" data-parent="#accordion2" href="#collapsefive">
+					Recipe 5: Refreshing Orange Drink 
+				  </a>
+				</div>
+				<div id="collapsefive" class="accordion-body collapse">
+				  <div class="accordion-inner">
+					<h6>Ingredients</h6>
+					<ul style="margin-left: 5%;">
+					 <li>1 cup strawberries (154 gms / 5.4 oz approx) </li>
+					 <li>2 Cans - ALOR Orange Nectar with Mandarin pieces A dash of ginger </li>
+					</ul>
+					<h6>Method</h6>
+					<ul style="margin-left: 5%;">
+					 <li>Slice the strawberries into small pieces</li>
+					 <li>Add it into the ALOR Orange Nectar with Mandarin pieces </li>
+					 <li>Serve super chilled with just a dash of ginger!</li>
+					</ul>  
+				  </div>
+				</div>
+			  </div>
+			</div>	
+		  </div>
+		  <div class="span6 bottom-padding">
+			<img src="img/content/portfolio-4.jpg" alt="Recipes Image">
+			
+			
+		  </div>
+		<div class="clearfix"></div>
+		</div>
       </article><!-- .content -->
     </div>
-  </div>
-</div><!-- #main -->
+  </div><!-- .container -->
+  
+  
+  
+</section><!-- #main -->
 
 </div><!-- .page-box -->
+
 </div><!-- .page-box-content -->
 
+
+
+
 <?php include 'footer.php'; ?>
+
 
 <script src="http://ajax.googleapis.com/ajax/libs/jquery/1.10.2/jquery.min.js"></script>
 <script src="http://code.jquery.com/jquery-migrate-1.2.0.js"></script>

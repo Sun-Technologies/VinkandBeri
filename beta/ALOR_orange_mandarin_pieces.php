@@ -281,11 +281,13 @@
 		  </div>
 		  
 		  <div class="span7">
-			<h3>Product Description</h3>
+			<!--<h3>Product Description</h3>-->
 			
 			<div class="description">
-			  ALOE VERA JUICE DRINK WITH ALOE VERA PIECES : Alor Aloe Vera Juice is a All Natural Drink packed with ample benefits and goodness.It made from the real Aloe Vera pieces and contains no artificial colour or flavor. Prepared keeping in mind of providing ultimate taste of the Real Aloe Vera which can boost the energy to the peak.
-Now, pick your favorite since it is an anytime drink- the taste and health which you always look for.
+			  <p>Perk your senses and awaken your taste buds with our unique and delicious Orange juice to give your mornings a great kick-start and your body all the nutrition it needs. The best picked oranges with mandarin pieces added in offer you your daily dose of Vitamin C to help you maintain a healthy immune system. A regular dose of freshly squeezed orange juice provides essential minerals that help to build and maintain healthy bones and strong teeth. It is also a great source of Vitamin D that lets your body absorb more calcium. </p>
+			  <p>Orange juice is consumed the world over, especially for breakfast, and is relished for its exquisite taste and benefits. Pour over some refreshing ALOR Orange juice for breakfast or delight in its texture, smoothness and fragrance over again at other time of the day – it’s refreshing, natural, 100% pure and full of flavor! </p>
+			  <p>We taken great care to bring alive the taste of the best oranges found in the world to let you savor an experience you’ve never had before. The addition of pure mandarin pieces makes the drink all the more enjoyable and is the most amazing way to replenish your body with lost nutrients. </p>
+			  <p>Pour a glass full and enjoy it to your heart’s content! </p>
 			</div>
 			
 			<!--<div class="price-box">

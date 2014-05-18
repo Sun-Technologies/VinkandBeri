@@ -272,13 +272,15 @@
 		  </div>
 		  
 		  <div class="span7">
-			<h3>Product Description</h3>
+			<!--<h3>Product Description</h3>-->
 			
 			<div class="description">
-				Get ready to taste the natural burst of energy.Anytime, anywhwre! With Alor Coconut Water.<br>
-				It's naturally enriched with potassium, electrolytes and minerals to replenish hydration levels within the body. And it's totally devoid of fats. Its naturally occurring bioactive enzymes help in digestion and metabolism.<br>
-				It has no artificial flavor & colour. It is 100% natural.Discover an active you. Just crack open a pack of Alor Coconut Water.
-			</div>
+        <p>Open, pour, pause, sip, enjoy. This is the process of enjoying any juice. But when the juice happens to be energizing and flavoursome coconut water, you can never have enough. Did you know that coconut water happens to be one of the most commonly drunk juices by the general population the world over? If yes is the answer that’s dripping off your tongue, then you must be a coconut fan and certainly love our newest offering – ALOR Coconut water! </p>
+        <p>Be it a pool-party or just another mundane day at work, our Coconut water will turn out to be your best companion – just open the can, sip and quench your thirst for this appetizing water! </p>
+        <p>We bring to you the freshest, the purest and the best tasting water you’ve ever savoured. Whether you’re a child, a true spirit enthusiast or an absolute teetotal, we’re sure you’ll love our coconut water and get addicted to its smooth and scrumptious texture and taste over and over again!</p>
+        <p>Wake up in the morning and tickle your taste buds with coconut water for breakfast or enjoy a healthy drink in the evening, its great tasting and healthy any time of the day. What’s more is that with these, you get your necessary intake of potassium, electrolytes, calcium, antioxidants and magnesium – it’ll even do wonders for your digestion and metabolism!</p>
+        <p>Hawaiians refer to it as ‘Neolani’ which implies that the water is like ‘dews from heaven’. So go ahead, pick a Can and enjoy your very own ‘dews from heaven’ in the form of ALOR Coconut water with friends and family today!</p>
+      </div>
 			
 			<!--<div class="price-box">
 			  <span class="price-old">$150</span> 

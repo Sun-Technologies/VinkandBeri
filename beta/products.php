@@ -218,7 +218,7 @@
     <ul class="breadcrumb">
       <li><a href="index.html">Home</a> <span class="divider">/</span></li>
       <li><a href="catalog-grid.html">Products</a> <span class="divider">/</span></li>
-      <li class="active">ALOR Aloe Vera Juice</li>
+      <li class="active">ALOR Aloe Vera Juice with Aloe Vera Pieces</li>
     </ul>	
   </div>
 </div><!-- .breadcrumb-box -->
@@ -228,7 +228,7 @@
 <div id="main" class="page">
   <header class="page-header">
     <div class="container">
-      <h1 class="title">ALOR Aloe Vera Juice</h1>
+      <h1 class="title">ALOR Aloe Vera Juice with Aloe Vera Pieces</h1>
     </div>	
   </header>
   
@@ -282,11 +282,12 @@
 		  </div>
 		  
 		  <div class="span7">
-			<h3>Product Description</h3>
+			<!--<h3>Product Description</h3>-->
 			
 			<div class="description">
-			  ALOE VERA JUICE DRINK WITH ALOE VERA PIECES : Alor Aloe Vera Juice is a All Natural Drink packed with ample benefits and goodness.It made from the real Aloe Vera pieces and contains no artificial colour or flavor. Prepared keeping in mind of providing ultimate taste of the Real Aloe Vera which can boost the energy to the peak.
-Now, pick your favorite since it is an anytime drink- the taste and health which you always look for.
+			 <p>Always thought of Aloe Vera as an incredible plant with amazing benefits for external applications on the skin? Well, there’s much more to it! You can now even drink the goodness of this incredible plant without compromising on the taste. </p>
+			 <p>ALOR Aloe Vera juice now contains Aloe Vera chunks in it and is endowed with wonderful health advantages that cannot be missed. It contains over 200 active components including vitamins, minerals, amino acids, enzymes, polysaccharide, and fatty acids making it a miracle plant for a wide range of remedies. The bulk of the Aloe Vera leaf is filled with a clear gel-like substance that is mostly 99% water. Aloe Vera helps to strengthen the immune system, aids in detoxification and digestion, is heart-friendly, reduces inflammation, helps in weight-loss and improves skin texture making it blemish-free and beautiful. </p>
+			 <p>You may think of this gel-like substance as inedible but is now made delightfully tasty with ALOR Aloe Vera Juice. Make it your best-buddy during summers and your body will thank you for nourishing it so! Enjoy the benefit and even the exquisite taste of ALOR guilt-free – it contains no harmful ingredients so you can have all you want! </p>
 			</div>
 			
 			<!--<div class="price-box">
