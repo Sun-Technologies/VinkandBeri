@@ -307,7 +307,10 @@
 
 </div><!-- .page-box -->
 </div><!-- .page-box-content -->
-
+<?php
+include ('footer.php');
+?>
+<!--
 <footer id="footer">
   <div class="footer-top">
     <div class="container">
@@ -353,6 +356,7 @@
       </div>
     </div>
   </div><!-- .footer-top -->
+  <!--
   <div class="footer-bottom">
     <div class="container">
       <div class="row">
@@ -393,7 +397,9 @@
       </div>
     </div>
   </div><!-- .footer-bottom -->
+  <!--
 </footer>
+-->
 <script src="http://ajax.googleapis.com/ajax/libs/jquery/1.10.2/jquery.min.js"></script>
 <script src="http://code.jquery.com/jquery-migrate-1.2.0.js"></script>
 <script src="js/bootstrap.min.js"></script>

@@ -605,6 +605,23 @@
 		</div><!-- .services-box-two -->
 		
 		<div class="span4">
+		<h4 class="title">Recipes</h1>
+			<div>
+				<a class="work" href="portfolio-single.php">
+					<img width="370" height="270" alt="" src="img/content/portfolio-4.jpg">
+					<span class="shadow"></span>
+					<div class="bg-hover"></div>
+					<!--<div class="work-title">
+					<h3 class="title">Discover simple healthy recipes</h3>
+					<div class="description">vink & beri</div>
+					</div>-->
+				</a>
+				<br>
+				<div data-appear-animation="bounceInLeft" class="text-small appear-animation bounceInLeft appear-animation-visible">
+					Discover simple healthy recipes <a href="#">Read more</a>
+					<div class="clearfix"></div><br>
+				</div>
+			</div>
 		<h4 class="title">Sales & Promotions</h1>
 			<div>
 				<a class="work" href="portfolio-single.php">
@@ -622,24 +639,7 @@
 					<div class="clearfix"></div><br>
 				</div>
 			</div>
-			<h4 class="title">Recipes</h1>
-			<div>
-				<a class="work" href="portfolio-single.php">
-					<img width="370" height="270" alt="" src="img/content/portfolio-4.jpg">
-					<span class="shadow"></span>
-					<div class="bg-hover"></div>
-					<!--<div class="work-title">
-					<h3 class="title">Discover simple healthy recipes</h3>
-					<div class="description">vink & beri</div>
-					</div>-->
-				</a>
-				<br>
-				<div data-appear-animation="bounceInLeft" class="text-small appear-animation bounceInLeft appear-animation-visible">
-					Discover simple healthy recipes <a href="#">Read more</a>
-					<div class="clearfix"></div><br>
-				</div>
-			</div>
-			
+				
 			
 		  
 		</div><!-- .services-box-two -->
@@ -704,7 +704,7 @@
 		</li>			  
 		<li class="">				<a data-toggle="tab" href="#features2">				<img width="180" src="img/content/Commurtioals02.jpg" alt=""></a></li>			  
 		
-		<li class="">				<a data-toggle="tab" href="#text2">				<img width="180" src="img/content/Commurtioals01.jpg" alt="">				</a>			  </li>
+		<li class="">				<a data-toggle="tab" href="#text2">				<img width="180" src="img/content/Commurtioals03.jpg" alt="">				</a>			  </li>
 
 		<!--<li class="active">				<a data-toggle="tab" href="#video2">				<img width="180" src="img/content/Commurtioals01.jpg" alt="">				</a>			  </li>	-->
 		</ul>	

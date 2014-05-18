@@ -22,11 +22,11 @@
   <link rel='stylesheet' href="css/pages.css">
     
   <style>
-	#top-box,
-	.carousel-box .next:hover,
-	.carousel-box .prev:hover,
-	.product .product-hover,
-	#footer .up:hover,
+  #top-box,
+  .carousel-box .next:hover,
+  .carousel-box .prev:hover,
+  .product .product-hover,
+  #footer .up:hover,
     .btn,
     .btn:visited,
     .slider .slider-nav,
@@ -60,22 +60,22 @@
     .accordion-heading .accordion-toggle:before,
     .accordion-heading .accordion-toggle:after,
     .new-radio.checked span,
-	.list .product .actions a:hover,
-	.product-page .span7 .actions a:hover,
-	.product-page .image-box .thumblist-box .prev:hover,
-	.product-page .image-box .thumblist-box .next:hover,
+  .list .product .actions a:hover,
+  .product-page .span7 .actions a:hover,
+  .product-page .image-box .thumblist-box .prev:hover,
+  .product-page .image-box .thumblist-box .next:hover,
     .btn.btn-inverse:hover,
     .btn.btn-inverse:focus,
     .btn.btn-inverse:active,
     .btn.btn-inverse.active,
     .btn.btn-inverse.disabled,
     .btn.btn-inverse[disabled],
-	.accordion-tab > li > a .open-sub:before,
-	.accordion-tab > li > a .open-sub:after,
-	.products-tab .accordion-tab > li > a .open-sub:before,
-	.products-tab .accordion-tab > li > a .open-sub:after {
-	  background-color: #ef7f1a;
-	}
+  .accordion-tab > li > a .open-sub:before,
+  .accordion-tab > li > a .open-sub:after,
+  .products-tab .accordion-tab > li > a .open-sub:before,
+  .products-tab .accordion-tab > li > a .open-sub:after {
+    background-color: #ef7f1a;
+  }
     .slider .slider-nav {
       background-color: rgba(0,152,202,.97);
     }
@@ -83,8 +83,8 @@
     .county-hours-wrapper,
     .county-minutes-wrapper,
     .county-seconds-wrappe,
-	.product .product-hover,
-	.rotation .employee-hover {
+  .product .product-hover,
+  .rotation .employee-hover {
       background-color: rgba(0,152,202,.9);
     }
     .btn:hover,
@@ -111,21 +111,21 @@
       background-color: rgba(0,152,202,.65);
     }
     #slider.rs-slider .tparrows,
-	.product-page .add-cart-form .number .regulator a:hover {
+  .product-page .add-cart-form .number .regulator a:hover {
       background-color: rgba(0,152,202,.5);
     }
-	.pricing .bottom-box {
-	  background-color: rgba(0,152,202,.05);
-	}
-	.pricing {
-	  background-color: rgba(0,152,202,.06);
-	}
-	.pricing .options li,
-	.pricing .bottom-box {
-	  border-color: rgba(0,152,202,.1);
-	}
-	.header .cart-header .dropdown-toggle,
-	#footer .newsletter input:focus + .submit,
+  .pricing .bottom-box {
+    background-color: rgba(0,152,202,.05);
+  }
+  .pricing {
+    background-color: rgba(0,152,202,.06);
+  }
+  .pricing .options li,
+  .pricing .bottom-box {
+    border-color: rgba(0,152,202,.1);
+  }
+  .header .cart-header .dropdown-toggle,
+  #footer .newsletter input:focus + .submit,
     .icon,
     .big-icon,
     .big-icon:visited,
@@ -138,67 +138,67 @@
     .features-block .header-box .icon-box,
     .features-block .header-box,
     .sidebar .newsletter input:focus + .submit,
-	.sidebar .section .selected .close:hover,
+  .sidebar .section .selected .close:hover,
     .package .title a,
     .package .price-box .price,
     .package .price-box .icon,
     .pricing .title a,
     .pricing .options li span,
-	.pricing .options li.active {
-	  color: #ef7f1a;
-	}
-	.pricing .bottom-box .more {
-	  color: rgba(0,152,202,.7);
-	}
-	.pricing .options li {
-	  color: rgba(0,152,202,.4);
-	}
-	.phone-header a svg path,
-	.search-header a svg path,
-	.product .actions a svg path,
+  .pricing .options li.active {
+    color: #ef7f1a;
+  }
+  .pricing .bottom-box .more {
+    color: rgba(0,152,202,.7);
+  }
+  .pricing .options li {
+    color: rgba(0,152,202,.4);
+  }
+  .phone-header a svg path,
+  .search-header a svg path,
+  .product .actions a svg path,
     .product-remove:hover path,
     .sidebar .wishlist .add-cart:hover path,
     .header .cart-header .dropdown-toggle .icon svg path,
     .search-active .search-submit svg path,
     .new-checkbox svg polygon,
-	.product-bottom .related-products li .button-box .wishlist:hover svg path,
-	.jslider .jslider-pointer svg path,
-	.rating-box .rating svg polygon {
-	  fill: #ef7f1a;
-	}
+  .product-bottom .related-products li .button-box .wishlist:hover svg path,
+  .jslider .jslider-pointer svg path,
+  .rating-box .rating svg polygon {
+    fill: #ef7f1a;
+  }
     .carousel-box .pagination a.selected,
     .banner-set .pagination a.selected {
       background: #ccc;
-	  background: rgba(0,0,0,.3);
+    background: rgba(0,0,0,.3);
     }
-	@media (max-width: 979px) {
-	  .header .primary .navbar .nav > .parent.active > a,
-	  .header .primary .navbar .nav > .parent.active:hover > a,
-	  .header .primary .navbar .nav .open-sub span,
-	  .header .primary .navbar .btn-navbar .icon-bar,
-	  .header.header-two .primary .navbar .btn-navbar.collapsed .icon-bar,
-	  .accordion-tab > .active > a,
-	  .accordion-tab > .active:hover > a,
-	  .products-tab .accordion-tab > .active > a,
-	  .products-tab .accordion-tab > .active:hover > a {
-		background-color: #ef7f1a;
-	  }
-	}
-	.navbar-inverse .brand,
-	.navbar-inverse .nav > li > a,
-	.btn-group.btn-select .dropdown-toggle,
-	.product .product-hover,
-	.employee .employee-hover,
-	.slider .slid-content{
-	  color: #fff;
-	}
-	.product .product-hover ul li {
-	  background-image: url("img/svg/check-icon-white.svg"), none;
-	}
+  @media (max-width: 979px) {
+    .header .primary .navbar .nav > .parent.active > a,
+    .header .primary .navbar .nav > .parent.active:hover > a,
+    .header .primary .navbar .nav .open-sub span,
+    .header .primary .navbar .btn-navbar .icon-bar,
+    .header.header-two .primary .navbar .btn-navbar.collapsed .icon-bar,
+    .accordion-tab > .active > a,
+    .accordion-tab > .active:hover > a,
+    .products-tab .accordion-tab > .active > a,
+    .products-tab .accordion-tab > .active:hover > a {
+    background-color: #ef7f1a;
+    }
+  }
+  .navbar-inverse .brand,
+  .navbar-inverse .nav > li > a,
+  .btn-group.btn-select .dropdown-toggle,
+  .product .product-hover,
+  .employee .employee-hover,
+  .slider .slid-content{
+    color: #fff;
+  }
+  .product .product-hover ul li {
+    background-image: url("img/svg/check-icon-white.svg"), none;
+  }
   </style>
   
   <!--[if IE]>
-	<link rel='stylesheet' href="css/ie/ie.css">
+  <link rel='stylesheet' href="css/ie/ie.css">
     <script src="//html5shiv.googlecode.com/svn/trunk/html5.js"></script>
   <![endif]-->
 
@@ -217,44 +217,44 @@
     <ul class="breadcrumb">
       <li><a href="index.html">Home</a> <span class="divider">/</span></li>
       <li class="active">Contact</li>
-    </ul>	
+    </ul> 
   </div>
 </div><!-- .breadcrumb-box -->
-		 
+     
 <section id="main">
   <header class="page-header">
     <div class="container">
       <h1 class="title">Contacts Us</h1>
-    </div>	
+    </div>  
   </header>
   <div class="container">
-    <div class="row">		 <div class="span12 map-box">			<iframe src="https://www.google.com/maps/embed?pb=!1m14!1m8!1m3!1d3046.386408072668!2d-75.2255!3d40.22271!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x89c6a469f12b71c7%3A0x47e745cfdb29cab9!2s140+Domorah+Dr!5e0!3m2!1sen!2sin!4v1395740924493" height="270" frameborder="0" style="border:0"></iframe>		  </div>
+    <div class="row">    
       <div class="content span12">
-		<div class="row">						  <div class="span6">			<form id="contactform" class="register-form contact-form" method="POST">			  <h3 class="title">Quick Contact</h3>			  <div id="success"></div>			  <label>Name: <span class="required">*</span></label>			  <input class="input-block-level" type="text" name="name">			  <label>Email Address: <span class="required">*</span></label>			  <input class="input-block-level" type="email" name="email">			  <label>Telephone:</label>			  <input class="input-block-level" type="text" name="phone">			  <label>Comment:</label>			  <textarea class="input-block-level" name="comment"></textarea>			  <div class="clearfix"></div>			  <div class="buttons-box clearfix">				<button id="submit" class="btn pull-left">Submit</button>				<span class="required"><b>*</b> Required Field</span>			  </div><!-- .buttons-box -->			</form>		  </div>
-		  <div class="span6 contact-info">
-			<div class="row">
-			  <address class="span6">
-				<div class="title">Address</div>
-				140 Domorah DrMontgomeryville, PA 18936, USA
-			  </address>
-			  <address class="span3">
-				<div class="title">Phones</div>
-				<div>Support: +1-(215)-614-5252 </div>
-			  </address>
-			  <address class="span3">
-				<div class="title">Email Addresses</div>
-				<div>Support: <a href="mailto:support@vinkandberi.com">info@vinkandberi.com</a></div>
-			  </address>
-			</div>
-			<hr>
-			<p>Fusce odio ante, consectetur nec dictum at, cursus congue orci. Donec vel tellus eget massa lacinia pulvinar ut eu lectus. Quisque elit augue, gravida sit amet egestas quis, vehicula nec magna. Vivamus nec nulla magna, et fringilla arcu. Sed ac quam at elit feugiat semper eu at nulla. Morbi vel urna non massa faucibus mollis.</p>
-			<p>Phasellus vulputate, lectus eu consequat scelerisque, felis odio consequat enim, ut vulputate elit lacus nec ipsum. Vivamus non sollicitudin eros. Nunc ut pulvinar felis. Ut lectus orci, cursus ac semper nec, lobortis nec urna. </p>
-		  </div>
+    <div class="row">             <div class="span6">     <form id="contactform" class="register-form contact-form" method="POST">        <h3 class="title">Quick Contact</h3>        <div id="success"></div>        <label>Name: <span class="required">*</span></label>        <input class="input-block-level" type="text" name="name">       <label>Email Address: <span class="required">*</span></label>       <input class="input-block-level" type="email" name="email">       <label>Telephone:</label>       <input class="input-block-level" type="text" name="phone">        <label>Comment:</label>       <textarea class="input-block-level" name="comment"></textarea>        <div class="clearfix"></div>        <div class="buttons-box clearfix">        <button id="submit" class="btn pull-left">Submit</button>       <span class="required"><b>*</b> Required Field</span>       </div><!-- .buttons-box -->     </form>     </div>
+      <div class="span6 contact-info">
+      <div class="row">
+        <address class="span6">
+        <div class="title">Address</div>
+        140 Domorah DrMontgomeryville, PA 18936, USA
+        </address>
+        <address class="span3">
+        <div class="title">Phones</div>
+        <div>Support: +1-(215)-614-5252 </div>
+        </address>
+        <address class="span3">
+        <div class="title">Email Addresses</div>
+        <div>Support: <a href="mailto:support@vinkandberi.com">info@vinkandberi.com</a></div>
+        </address>
+      </div>
+      <hr>
+      <p>Fusce odio ante, consectetur nec dictum at, cursus congue orci. Donec vel tellus eget massa lacinia pulvinar ut eu lectus. Quisque elit augue, gravida sit amet egestas quis, vehicula nec magna. Vivamus nec nulla magna, et fringilla arcu. Sed ac quam at elit feugiat semper eu at nulla. Morbi vel urna non massa faucibus mollis.</p>
+      <p>Phasellus vulputate, lectus eu consequat scelerisque, felis odio consequat enim, ut vulputate elit lacus nec ipsum. Vivamus non sollicitudin eros. Nunc ut pulvinar felis. Ut lectus orci, cursus ac semper nec, lobortis nec urna. </p>
+      </div>
 
-		  
-		  
+      <div class="span12 map-box">      <iframe src="https://www.google.com/maps/embed?pb=!1m14!1m8!1m3!1d3046.386408072668!2d-75.2255!3d40.22271!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x89c6a469f12b71c7%3A0x47e745cfdb29cab9!2s140+Domorah+Dr!5e0!3m2!1sen!2sin!4v1395740924493" height="270" frameborder="0" style="border:0"></iframe>     </div>
+      
 
-		</div>
+    </div>
       </div>
     </div>
   </div><!-- .container -->

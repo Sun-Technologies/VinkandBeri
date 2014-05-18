@@ -244,7 +244,7 @@
 		  <h2 class="title">Latest jobs openings</h2>
 		</div>
 		<div class="accordion2" id="accordion2">
-		  <div class="accordion-group active">
+		  <div class="accordion-group">
 			<div class="accordion-heading">
 			  <a class="accordion-toggle" data-toggle="collapse" data-parent="#accordion2" href="#collapseOne">
 				MARKETING MANAGER
@@ -562,7 +562,10 @@ will be contacted.<p>
 
 </div><!-- .page-box -->
 </div><!-- .page-box-content -->
-
+<?php
+include ('footer.php');
+?>
+<!--
 <footer id="footer">
   <div class="footer-top">
     <div class="container">
@@ -608,6 +611,7 @@ will be contacted.<p>
       </div>
     </div>
   </div><!-- .footer-top -->
+  <!--
   <div class="footer-bottom">
     <div class="container">
       <div class="row">
@@ -648,7 +652,9 @@ will be contacted.<p>
       </div>
     </div>
   </div><!-- .footer-bottom -->
+  <!--
 </footer>
+-->
 <script src="http://ajax.googleapis.com/ajax/libs/jquery/1.10.2/jquery.min.js"></script>
 <script src="http://code.jquery.com/jquery-migrate-1.2.0.js"></script>
 <script src="js/bootstrap.min.js"></script>
