@@ -239,7 +239,7 @@
 			<div class="image-box">
 			  <span class="sale top"></span>
 			  <div class="general-img">
-				<img alt="" src="img/content/single-1.png" data-zoom-image="img/content/single-1.png" width="700" height="700">
+				<img alt="" src="img/content/coconut_chunks_latest1.png" data-zoom-image="img/content/coconut_chunks_latest1.png" width="700" height="700">
 			  </div><!-- .general-img -->
 			  
 			  <div class="thumblist-box load">
@@ -257,20 +257,20 @@
 				</a>
 				
 				<div id="thumblist" class="thumblist">
-				  <a href="#" data-image="img/content/single-1.png" data-zoom-image="img/content/single-1.png">
-					<img alt="" src="img/content/single-1.png" width="700" height="700">
+				  <a href="#" data-image="img/content/coconut_chunks_latest1.png" data-zoom-image="img/content/coconut_chunks_latest1.png">
+					<img alt="" src="img/content/coconut_chunks_latest1.png" width="700" height="700">
 				  </a>
-				  <a class="active" href="#" data-image="img/content/single-2.png" data-zoom-image="img/content/single-2.png">
-					<img alt="" src="img/content/single-2.png">
+				  <a class="active" href="#" data-image="img/content/coconut_chunks_latest2.jpg" data-zoom-image="img/content/coconut_chunks_latest2.jpg">
+					<img alt="" src="img/content/coconut_chunks_latest2.jpg">
 				  </a>
 				  <a href="#" data-image="img/content/coconut_chunks_latest.png" data-zoom-image="img/content/coconut_chunks_latest.png">
 					<img alt="" src="img/content/coconut_chunks_latest.png" width="700" height="700">
 				  </a>
-				  <a href="#" data-image="img/content/single-1.png" data-zoom-image="img/content/single-1.png">
-					<img alt="" src="img/content/single-1.png" width="700" height="700">
+				  <a href="#" data-image="img/content/coconut_chunks_latest1.png" data-zoom-image="img/content/coconut_chunks_latest1.png">
+					<img alt="" src="img/content/coconut_chunks_latest1.png" width="700" height="700">
 				  </a>
-				  <a href="#" data-image="img/content/single-2.png" data-zoom-image="img/content/single-2.png">
-					<img alt="" src="img/content/single-2.png" width="700" height="700">
+				  <a href="#" data-image="img/content/coconut_chunks_latest2.jpg" data-zoom-image="img/content/coconut_chunks_latest2.jpg">
+					<img alt="" src="img/content/coconut_chunks_latest2.jpg" width="700" height="700">
 				  </a>
 				  <a href="#" data-image="img/content/coconut_chunks_latest.png" data-zoom-image="img/content/coconut_chunks_latest.png">
 					<img alt="" src="img/content/coconut_chunks_latest.png" width="700" height="700">
