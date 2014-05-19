@@ -230,7 +230,34 @@
   <div class="container">
     <div class="row">    
       <div class="content span12">
-    <div class="row">             <div class="span6">     <form id="contactform" class="register-form contact-form" method="POST">        <h3 class="title">Quick Contact</h3>        <div id="success"></div>        <label>Name: <span class="required">*</span></label>        <input class="input-block-level" type="text" name="name">       <label>Email Address: <span class="required">*</span></label>       <input class="input-block-level" type="email" name="email">       <label>Telephone:</label>       <input class="input-block-level" type="text" name="phone">        <label>Comment:</label>       <textarea class="input-block-level" name="comment"></textarea>        <div class="clearfix"></div>        <div class="buttons-box clearfix">        <button id="submit" class="btn pull-left">Submit</button>       <span class="required"><b>*</b> Required Field</span>       </div><!-- .buttons-box -->     </form>     </div>
+    <div class="row">             <div class="span6">     <form id="contactform" class="register-form contact-form" method="POST" action="email-submit.php">
+            <h3 class="title">Quick Contact</h3>
+                    <div id="success"></div>
+                            <label>Name: <span class="required">*</span></label>
+                                    <input class="input-block-level" type="text" name="name">
+                            <label>Email Address: <span class="required">*</span></label>
+                                    <input class="input-block-level" type="email" name="email">
+                            <label>Telephone:</label>
+                                    <input class="input-block-level" type="text" name="phone">
+                            <label>Comment:</label>
+                                    <textarea class="input-block-level" name="comment" maxlength="200"></textarea>
+                                            <div class="clearfix"></div> 
+                                                   <div class="buttons-box clearfix">
+                                                           <button name="submit" class="btn pull-left" data-toggle="modal" data-target="#myModal">Submit</button>       <span class="required"><b>*</b> Required Field</span>  
+          <!-- Modal -->
+<div class="modal fade" id="myModal" tabindex="-1" role="dialog" aria-labelledby="myModalLabel" aria-hidden="true">
+  <div class="modal-dialog">
+    <div class="modal-content">
+      <div class="modal-body">
+        <h6 style="text-align: center; padding: 50px;">Your Data Successfully Submitted!</h6>
+      </div>
+      <div class="modal-footer">
+        <button type="button" class="btn btn-default" data-dismiss="modal">Close</button>
+      </div>
+    </div>
+  </div>
+</div>
+         </div><!-- .buttons-box -->     </form>     </div>
       <div class="span6 contact-info">
       <div class="row">
         <address class="span6">

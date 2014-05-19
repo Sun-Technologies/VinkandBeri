@@ -263,8 +263,8 @@
 				  <a class="active" href="#" data-image="img/content/single-2.png" data-zoom-image="img/content/single-2.png">
 					<img alt="" src="img/content/single-2.png">
 				  </a>
-				  <a href="#" data-image="img/content/single-3.png" data-zoom-image="img/content/single-3.png">
-					<img alt="" src="img/content/single-3.png" width="700" height="700">
+				  <a href="#" data-image="img/content/coconut_chunks_latest.png" data-zoom-image="img/content/coconut_chunks_latest.png">
+					<img alt="" src="img/content/coconut_chunks_latest.png" width="700" height="700">
 				  </a>
 				  <a href="#" data-image="img/content/single-1.png" data-zoom-image="img/content/single-1.png">
 					<img alt="" src="img/content/single-1.png" width="700" height="700">
@@ -272,8 +272,8 @@
 				  <a href="#" data-image="img/content/single-2.png" data-zoom-image="img/content/single-2.png">
 					<img alt="" src="img/content/single-2.png" width="700" height="700">
 				  </a>
-				  <a href="#" data-image="img/content/single-3.png" data-zoom-image="img/content/single-3.png">
-					<img alt="" src="img/content/single-3.png" width="700" height="700">
+				  <a href="#" data-image="img/content/coconut_chunks_latest.png" data-zoom-image="img/content/coconut_chunks_latest.png">
+					<img alt="" src="img/content/coconut_chunks_latest.png" width="700" height="700">
 				  </a>
 				</div><!-- #thumblist -->
 			  </div><!-- .thumblist -->

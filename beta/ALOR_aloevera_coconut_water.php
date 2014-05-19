@@ -260,11 +260,11 @@
 				  <a href="#" data-image="img/content/single-15.png" data-zoom-image="img/content/single-15.png">
 					<img alt="" src="img/content/single-15.png" width="700" height="700">
 				  </a>
-				  <a class="active" href="#" data-image="img/content/single-16.png" data-zoom-image="img/content/single-16.png">
-					<img alt="" src="img/content/single-16.png">
+				  <a class="active" href="#" data-image="img/content/single-17.png" data-zoom-image="img/content/single-17.png">
+					<img alt="" src="img/content/single-17.png">
 				  </a>
-				  <a href="#" data-image="img/content/single-17.png" data-zoom-image="img/content/single-17.png">
-					<img alt="" src="img/content/single-17.png" width="700" height="700">
+				  <a href="#" data-image="img/content/single-16.png" data-zoom-image="img/content/single-16.png">
+					<img alt="" src="img/content/single-16.png" width="700" height="700">
 				  </a>
 				</div><!-- #thumblist -->
 			  </div><!-- .thumblist -->
