@@ -1,7 +1,7 @@
 <!DOCTYPE html>
 <html>
 <head>
-  <title>Vink & Beri LLC | Contact</title>
+  <title>Vink &amp; Beri LLC | Contact</title>
   <meta class="viewport" name="viewport" content="width=device-width, initial-scale=1.0">
   <meta charset="utf-8">
   <link href="img/favicon.png" rel="shortcut icon">

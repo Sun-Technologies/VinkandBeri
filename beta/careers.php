@@ -5,7 +5,7 @@
   <meta class="viewport" name="viewport" content="width=device-width, initial-scale=1.0">
   <meta charset="utf-8">
   <meta class="viewport" name="viewport" content="width=device-width, initial-scale=1.0">
-  <meta content="Vink & Beri LLC (V&B) is US arm of TGI group. TGI Group is one of the most respected groups and has businesses in 11 countries in Africa, Europe, Asia and Middle East besides US. TGI is the leading player in food products in African Continent. TGI has interest in production and trading of Commodities like Cotton, Insecticides, Sesame seeds and bulk Chemicals besides Pharmaceuticals, Deep Sea Fishing and as a support company to the majors companies in Deep Sea Oil Drilling.VINK & BERI LLC Company makes and sells branded plant-based foods and beverages, and premium dairy products throughout North America and Europe. And we do it in a way that's unlike any company in our industry. " name="keywords">
+  <meta content="Vink &amp; Beri LLC (V&amp;B) is US arm of TGI group. TGI Group is one of the most respected groups and has businesses in 11 countries in Africa, Europe, Asia and Middle East besides US. TGI is the leading player in food products in African Continent. TGI has interest in production and trading of Commodities like Cotton, Insecticides, Sesame seeds and bulk Chemicals besides Pharmaceuticals, Deep Sea Fishing and as a support company to the majors companies in Deep Sea Oil Drilling.VINK &amp; BERI LLC Company makes and sells branded plant-based foods and beverages, and premium dairy products throughout North America and Europe. And we do it in a way that's unlike any company in our industry. " name="keywords">
  <link rel="shortcut icon" href="img/favicon.png">
 
   <link rel='stylesheet' href="css/docs.css">
@@ -252,7 +252,7 @@
 			</div>
 			<div id="collapseOne" class="accordion-body collapse">
 			  <div class="accordion-inner">
-				<p><strong>About:</strong> Vink & Beri LLC (V&B) is a part of multinational Tropical General Investment group having diverse business interests in 10 countries in Africa, Europe, Asia and Middle East. The group is one of the leading players in food products in African Continent. V&B is group’s green field project in the food sector in the United States. The group has a consistent record of high double digit growth during the past decade and offers ample opportunities and growth prospects for the right candidate.</p>								<p><strong>Location:</strong> Montgomeryville, PA</p><p><strong>Job Summary: </strong>The role of Marketing Manager is key strategic leadership role in all aspects of the business. Marketing Manager will be a key leader/voice in driving the overall equity and business planning of the brand. And also for developing, leading and executing the business and strategic plans to meet future needs and expectations for the brand; including monitoring market dynamics to develop and/or change strategic and tactical marketing plans.</p>				<p><strong>Key Responsibilities:</strong></p>
+				<p><strong>About:</strong> Vink &amp; Beri LLC (V&amp;B) is a part of multinational Tropical General Investment group having diverse business interests in 10 countries in Africa, Europe, Asia and Middle East. The group is one of the leading players in food products in African Continent. V&amp;B is group’s green field project in the food sector in the United States. The group has a consistent record of high double digit growth during the past decade and offers ample opportunities and growth prospects for the right candidate.</p>								<p><strong>Location:</strong> Montgomeryville, PA</p><p><strong>Job Summary: </strong>The role of Marketing Manager is key strategic leadership role in all aspects of the business. Marketing Manager will be a key leader/voice in driving the overall equity and business planning of the brand. And also for developing, leading and executing the business and strategic plans to meet future needs and expectations for the brand; including monitoring market dynamics to develop and/or change strategic and tactical marketing plans.</p>				<p><strong>Key Responsibilities:</strong></p>
 				<ol>
 				<p><strong>Responsibilities and Functions:</strong></p>
 				  <li>Design and develop marketing strategies/plans to meet organizational objectives and achieve sales goals.</li>
@@ -278,7 +278,7 @@ develop marketing platforms including partnering with sales management to plan a
 
 retail programs; monitoring industry best practices. </li>
 
-<li>Leading cross-functional teams that may include R&D, Sales, Graphics, Packaging, Market 
+<li>Leading cross-functional teams that may include R&amp;D, Sales, Graphics, Packaging, Market 
 
 Research, Finance and Operations to develop and manage marketing objectives, goals and 
 

@@ -1,9 +1,9 @@
 <!DOCTYPE html>
 <html>
 <head>
-  <title>Vink & Beri LLC</title>
+  <title>Vink &amp; Beri LLC</title>
   <meta class="viewport" name="viewport" content="width=device-width, initial-scale=1.0">
-  <meta content="Vink & Beri LLC (V&B) is US arm of TGI group. TGI Group is one of the most respected groups and has businesses in 11 countries in Africa, Europe, Asia and Middle East besides US. TGI is the leading player in food products in African Continent. TGI has interest in production and trading of Commodities like Cotton, Insecticides, Sesame seeds and bulk Chemicals besides Pharmaceuticals, Deep Sea Fishing and as a support company to the majors companies in Deep Sea Oil Drilling.VINK & BERI LLC Company makes and sells branded plant-based foods and beverages, and premium dairy products throughout North America and Europe. And we do it in a way that's unlike any company in our industry. " name="keywords">
+  <meta content="Vink &amp; Beri LLC (V&amp;B) is US arm of TGI group. TGI Group is one of the most respected groups and has businesses in 11 countries in Africa, Europe, Asia and Middle East besides US. TGI is the leading player in food products in African Continent. TGI has interest in production and trading of Commodities like Cotton, Insecticides, Sesame seeds and bulk Chemicals besides Pharmaceuticals, Deep Sea Fishing and as a support company to the majors companies in Deep Sea Oil Drilling.VINK &amp; BERI LLC Company makes and sells branded plant-based foods and beverages, and premium dairy products throughout North America and Europe. And we do it in a way that's unlike any company in our industry. " name="keywords">
   <meta charset="utf-8">
   <link href="img/favicon.png" rel="shortcut icon">
 
@@ -211,7 +211,7 @@
 <div class="page-box">
 <div class="page-box-content">
 
-<?php include 'header.php'; ?>
+<?php include'header.php'; ?>
 
 <div id="slider" class="rs-slider load">
   <div class="tp-banner-container">
@@ -296,7 +296,7 @@
 			  data-easing="Power4.easeOut"
 			  data-endspeed="500"
 			  data-endeasing="Power1.easeIn">
-			  <strong>Vink & Beri Products</strong>
+			  <strong>Vink &amp; Beri Products</strong>
 			</h2>
 			
 			<div class="tp-caption lfr skewtoright description span6"
@@ -373,7 +373,7 @@
 			  data-start="1400"
 			  data-easing="Power3.easeInOut"
 			  data-endspeed="300"
-			  style="z-index: 5">
+			  style="z-index: 5; margin-top: 4%;">
 			  Read more
 			</a>
 			
@@ -567,7 +567,7 @@
   <div class="container">
    <div class="row"><br><br>   
 		<div class="span4">
-		<h4 class="title">Our Products</h1>
+		<h4 class="title">Our Products</h4>
 			<div>
 				<a class="work" href="products.php">
 					<img width="370" height="270" alt="" src="img/content/portfolio-1.jpg">
@@ -576,6 +576,7 @@
 					<div class="work-title">
 					<!--<h3 class="title">Aloe Vera Juice</h3>-->
 					<div class="description">Explore our products OR Know More about Our Products</div>
+					<button type="button" class="btn btn-primary">Read More...</button>
 					</div>
 				</a>
 				<br>
@@ -584,11 +585,11 @@
 					<div class="clearfix"></div><br>
 				</div>-->
 			</div>
-			<h4 class="title">More on V&B</h1>
+			<h4 class="title">More on V&amp;B</h4>
 			<div style="border:1px solid #ccc; border-radius:10px; padding:10px;">
 				
 					
-					<p style="color:#000; text-align:left;text-shadow: 0 0px #000000; font-size:14px; "> V&B is the US arm of TGI Group, a leading player offering a wide range of nutritious food products in Europe, Asia, Africa, Middle East and the US. V&B is committed to excellence and aims to offer great tasting products without compromising on health benefits.At V&B, we don’t believe in....<br><a class="btn btn-link" href="about.php">Read more</a><br></p>
+					<p style="color:#000; text-align:left;text-shadow: 0 0px #000000; font-size:14px; min-height: 250px; ">V&B is the US arm of TGI Group, a leading player offering a wide range of nutritious food products in Europe, Asia, Africa, Middle East and the US. V&B is committed to excellence and aims to offer great tasting products without compromising on health benefits.<br>At V&B, we endeavor to present to our consumers an array of exotic products that are high on taste and nutrition. Our products are made using the finest of resources, are environmentallye.....<br><a class="btn btn-link" href="about.php">Read more</a><br></p>
 			</div>
 			
 			
@@ -596,7 +597,7 @@
 		</div><!-- .services-box-two -->
 		
 		<div class="span4">
-		<h4 class="title">Recipes</h1>
+		<h4 class="title">Recipes</h4>
 			<div>
 				<a class="work" href="recipes.php">
 					<img width="370" height="270" alt="" src="img/content/portfolio-4.jpg">
@@ -605,6 +606,7 @@
 					<div class="work-title">
 					<!--<h3 class="title">Discover simple healthy recipes</h3>-->
 					<div class="description">Discover simple and delicious recipes </div>
+					<button type="button" class="btn btn-primary">Read More...</button>
 					</div>
 				</a>
 				<br>
@@ -614,9 +616,9 @@
 				</div>
 			-->
 			</div>
-		<h4 class="title">Sales & Promotions</h1>
+		<h4 class="title">Sales &amp; Promotions</h4>
 			<div>
-				<a class="work" href="portfolio-single.php">
+				<a class="work">
 					<img width="370" height="270" alt="" src="img/content/portfolio-3.jpg">
 					<span class="shadow"></span>
 					<div class="bg-hover"></div>
@@ -626,10 +628,10 @@
 					</div>
 				</a>
 				<br>
-				<div data-appear-animation="bounceInLeft" class="text-small appear-animation bounceInLeft appear-animation-visible">
+				<!--<div data-appear-animation="bounceInLeft" class="text-small appear-animation bounceInLeft appear-animation-visible">
 					Stay Tuned for sales and promotions
 					<div class="clearfix"></div><br>
-				</div>
+				</div>-->
 			</div>
 				
 			
@@ -637,7 +639,7 @@
 		</div><!-- .services-box-two -->
 		
 		<div class="span4">
-		<h4 class="title">Health & Nutrition</h1>
+		<h4 class="title">Health &amp; Nutrition</h4>
 			<div>
 				<a class="work" href="healthnutrion.php">
 					<img width="370" height="270" alt="" src="img/content/portfolio-5.jpg">
@@ -646,6 +648,7 @@
 					<div class="work-title">
 					<!--<h3 class="title">Coming soon</h3> -->
 					<div class="description">Explore more about Health & Nutrition / Learn More on Health & Nutrition</div>
+					<button type="button" class="btn btn-primary">Read More...</button>
 					</div>
 				</a>
 				<br>
@@ -654,9 +657,9 @@
 					<div class="clearfix"></div><br>
 				</div>-->
 			</div>
-			<h4 class="title">Recent Tweetes</h1>
+			<h4 class="title">Recent Tweetes</h4>
 			<div>
-				<a class="work" href="portfolio-single.php">
+				<a class="work">
 					<img width="370" height="270" alt="" src="img/content/portfolio-6.jpg">
 					<!--<span class="shadow"></span>
 					<div class="bg-hover"></div>
@@ -665,11 +668,11 @@
 					<div class="description">vink & beri</div>
 					</div>-->
 				</a>
-				<br>
+				<!--<br>
 				<div data-appear-animation="bounceInLeft" class="text-small appear-animation bounceInLeft appear-animation-visible">
 					<a href="#">Follow us on Twitter</a>
 					<div class="clearfix"></div><br>
-				</div>
+				</div>-->
 			</div>
 			
 			
@@ -688,7 +691,7 @@
 		
 		<div class="tabs tabs-left">			
 		<ul class="nav nav-tabs">	
-		<h6>Choose Commercials</h6>
+		<li><h6>Choose Commercials</h6></li>
 		<li class="active">				
 		<a data-toggle="tab" href="#services2">				
 		<img width="180" src="img/content/Commurtioals01.jpg" alt="">

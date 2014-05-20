@@ -221,12 +221,12 @@
   </div>
 </div><!-- .breadcrumb-box -->
 
-<div id="slider" class="slider load">
+<div id="slider" class="slider load" style="height: 400px;  margin-bottom: -3%;">
   <div class="container1">
     <div class="row">
-      <div class="sliders-box">
+      <div class="sliders-box" style="height: 400px;">
 		<div class="slid span12">
-		  <img class="slid-img" src="img/content/slide-1.jpg" height="100%" alt="">
+		  <img class="slid-img" src="img/content/slide11.jpg" style="height: 400px;" alt="">
 		  <div class="span4 slid-content">
 			<h1>Integration & Automation<br> technology to fit any<br> lifestyle</h1>
 			<p class="descriptions">At the touch of a button, your drapes or blinds will open and close, your lights turn on and off, your IPod plays music throughout the home!</p>
@@ -234,7 +234,7 @@
 		</div>
 		
 		<div class="slid span12">
-		  <img class="slid-img" src="img/content/slide-2.jpg"  height="100%" alt="">
+		  <img class="slid-img" src="img/content/slide22.jpg" style="height: 400px;" alt="">
 		  <div class="span4 slid-content">
 			<h1>Integration & Automation<br> technology to fit any<br> lifestyle</h1>
 			<p class="descriptions">At the touch of a button, your drapes or blinds will open and close, your lights turn on and off, your IPod plays music throughout the home!</p>
@@ -242,7 +242,7 @@
 		</div>
 		
 		<div class="slid span12">
-		  <img class="slid-img" src="img/content/slide-3.jpg"  height="100%" alt="">
+		  <img class="slid-img" src="img/content/slide-3.jpg" style="height: 400px;" alt="">
 		  <div class="span4 slid-content">
 			<h1>Automation & Integration<br> technology to fit any<br> lifestyle</h1>
 			<p class="descriptions">At the touch of a button, your drapes or blinds will open and close, your lights turn on and off, your IPod plays music throughout the home or business whatever suits your needs!</p>
@@ -280,10 +280,10 @@
   <div class="container">
     <div class="row">
       <article class="content span12">
-		<p>The US arm of Tropical General Investment (TGI) Group, Vink and Beri LLC (V&B) is involved in the manufacturing of all-natural food products and is dedicated to shaping and defining the future of the food industry. <br>
+		<p>The US arm of Tropical General Investment (TGI) Group, Vink and Beri LLC (V&amp;B) is involved in the manufacturing of all-natural food products and is dedicated to shaping and defining the future of the food industry. <br>
 		Headquartered in Montgomeryville, PA, we reach out to major continents across the globe namely Europe, Asia, Middle East and Africa. With ALOR as our registered trademark, we’ve succeeded in launching several desirable items in 11 countries, including the US, which have set all-new benchmarks in the food world.<br>
 		Our primary objective is to present our consumers with a range of food products they find lip-smashingly tasty without compromising on the health factor. <br>
-		V&B is committed to excellence and offers the best quality products that consumers find irresistibly delicious. At V&B, we do not believe in consumer satisfaction; we are focussed on consumer delight!  </p>
+		V&amp;B is committed to excellence and offers the best quality products that consumers find irresistibly delicious. At V&amp;B, we do not believe in consumer satisfaction; we are focussed on consumer delight!  </p>
 		<div class="row">
 		  <div class="clearfix"></div>
 		  <div class="span6 bottom-padding">
@@ -299,7 +299,7 @@
 				</div>
 				<div id="collapseOne" class="accordion-body collapse in">
 				  <div class="accordion-inner">
-					The driving motivational force behind V&B is the strong leadership team with total commitment, deep industry knowledge, capability, vision and values. The successful decision-making of the leadership team aided in yielding food products in at par with people preferences laying a strong foundation for the company. (Their focus in applying ideas had powered the company with exact formulations which people seek for. V&B’s continuous efforts for investments in R&D of products and packing has brought (them endurance and sustainability in the industry. V&B stands tall with the team work of the leadership (and employees succeeding continuously in reaching company’s objectives .The successful march towards the goal had strengthened is in line with the mission of the company. It has raised the bar for V&B towards safeguarding eco-friendly and social responsibility in adding joy to people’s lives with as an identity.
+					The driving motivational force behind V&amp;B is the strong leadership team with total commitment, deep industry knowledge, capability, vision and values. The successful decision-making of the leadership team aided in yielding food products in at par with people preferences laying a strong foundation for the company. (Their focus in applying ideas had powered the company with exact formulations which people seek for. V&amp;B’s continuous efforts for investments in R&amp;D of products and packing has brought (them endurance and sustainability in the industry. V&amp;B stands tall with the team work of the leadership (and employees succeeding continuously in reaching company’s objectives .The successful march towards the goal had strengthened is in line with the mission of the company. It has raised the bar for V&amp;B towards safeguarding eco-friendly and social responsibility in adding joy to people’s lives with as an identity.
 				  </div>
 				</div>
 			  </div>
@@ -352,7 +352,7 @@
 				</div>
 				<div id="collapsefive" class="accordion-body collapse">
 				  <div class="accordion-inner">
-					V&B is a socially-conscious company and this is the foundation on which every business decision is made. All through the years, we’ve maintained the reputation of offering amazing food products that are manufactured under strict hygienic conditions in USFDA approved facilities.<br>
+					V&amp;B is a socially-conscious company and this is the foundation on which every business decision is made. All through the years, we’ve maintained the reputation of offering amazing food products that are manufactured under strict hygienic conditions in USFDA approved facilities.<br>
 					We’re a consumer-driven company with a heart and this is strongly reflected in our efforts to succeed at leaving a positive imprint on society. It explains why we are so deeply focussed on creating food products that are natural, ecologically sound and socially beneficial to all.<br>
 					Our philosophy is to work hard to innovate continuously for sustained growth, empower people to make excellent food choices, build trust of our consumers and finally delight them with our outstanding assortment of products.   
 				  </div>
@@ -377,7 +377,7 @@
 			<div class="tab-content">			
 						
 						<div id="services" class="tab-pane active fade in">			 
-						<div class="service">	<img alt="" src="img/content/whoweare.jpg" width="90%" align="left" hspace="20">	  </div>
+						<div class="service">	<img alt="" src="img/content/whoweare.jpg" width="90%" align="left" hspace="20" >	  </div>
 						</div>						
 						
 						<div id="features" class="tab-pane fade in">	

@@ -1,7 +1,7 @@
  <!DOCTYPE html>
 <html>
 <head>
-  <title>About Us | Vink & Beri LLC</title>  <meta class="viewport" name="viewport" content="width=device-width, initial-scale=1.0">  <meta charset="utf-8">  <link href="img/favicon.png" rel="shortcut icon">
+  <title>About Us | Vink &amp; Beri LLC</title>  <meta class="viewport" name="viewport" content="width=device-width, initial-scale=1.0">  <meta charset="utf-8">  <link href="img/favicon.png" rel="shortcut icon">
 
   <link rel='stylesheet' href="css/docs.css">
   <link rel='stylesheet' href="css/buttons/social-icons.css">
@@ -355,7 +355,7 @@ include ('footer.php');
         </div>
       </div>
     </div>
-  </div><!-- .footer-top -->
+  </div><!-footer-top -->
   <!--
   <div class="footer-bottom">
     <div class="container">
