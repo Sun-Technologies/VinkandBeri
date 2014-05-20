@@ -221,30 +221,30 @@
   </div>
 </div><!-- .breadcrumb-box -->
 
-<div id="slider" class="slider load" style="height: 400px;  margin-bottom: -3%;">
+<div id="slider" class="slider load" style="height: 400px;  margin-bottom: -3%; width: 100%;">
   <div class="container1">
     <div class="row">
       <div class="sliders-box" style="height: 400px;">
 		<div class="slid span12">
-		  <img class="slid-img" src="img/content/slide11.jpg" style="height: 400px;" alt="">
+		  <img class="slid-img" src="img/content/slide11.jpg" style="height: 400px; width: 100%;" alt="">
 		  <div class="span4 slid-content">
-			<h1>Integration & Automation<br> technology to fit any<br> lifestyle</h1>
+			<h1>Integration &amp; Automation<br> technology to fit any<br> lifestyle</h1>
 			<p class="descriptions">At the touch of a button, your drapes or blinds will open and close, your lights turn on and off, your IPod plays music throughout the home!</p>
 		  </div>
 		</div>
 		
 		<div class="slid span12">
-		  <img class="slid-img" src="img/content/slide22.jpg" style="height: 400px;" alt="">
+		  <img class="slid-img" src="img/content/slide22.jpg" style="height: 400px; width: 100%;" alt="">
 		  <div class="span4 slid-content">
-			<h1>Integration & Automation<br> technology to fit any<br> lifestyle</h1>
+			<h1>Integration &amp; Automation<br> technology to fit any<br> lifestyle</h1>
 			<p class="descriptions">At the touch of a button, your drapes or blinds will open and close, your lights turn on and off, your IPod plays music throughout the home!</p>
 		  </div>
 		</div>
 		
 		<div class="slid span12">
-		  <img class="slid-img" src="img/content/slide-3.jpg" style="height: 400px;" alt="">
+		  <img class="slid-img" src="img/content/slide-3.jpg" style="height: 400px; width: 100%;" alt="">
 		  <div class="span4 slid-content">
-			<h1>Automation & Integration<br> technology to fit any<br> lifestyle</h1>
+			<h1>Automation &amp; Integration<br> technology to fit any<br> lifestyle</h1>
 			<p class="descriptions">At the touch of a button, your drapes or blinds will open and close, your lights turn on and off, your IPod plays music throughout the home or business whatever suits your needs!</p>
 		  </div>
 		</div>
