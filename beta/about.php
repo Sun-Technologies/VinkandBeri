@@ -226,7 +226,7 @@
     <div class="row">
       <div class="sliders-box" style="height: 400px;">
 		<div class="slid span12">
-		  <img class="slid-img" src="img/content/slide11.jpg" style="height: 400px; width: 100%;" alt="">
+		  <img class="slid-img" src="img/content/slide-11.jpg" style="height: 400px; width: 100%;" alt="">
 		  <div class="span4 slid-content">
 			<h1>Integration &amp; Automation<br> technology to fit any<br> lifestyle</h1>
 			<p class="descriptions">At the touch of a button, your drapes or blinds will open and close, your lights turn on and off, your IPod plays music throughout the home!</p>
