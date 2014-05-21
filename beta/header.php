@@ -25,11 +25,11 @@
 			  <li class="parent">
 				<a href="products.php">Products</a>
 			  </li>
-			  <li class="parent megamenu"><a href="Social_Care.php">Social Care</a></li>
+			  <li class="parent megamenu"><a href="#">Social Care</a></li>
 			  <li class="parent"><a href="careers.php">Career</a></li>
 			  <li class="parent"><a href="contact.php">Contact</a></li>
 			  <li class="parent">
-				<a href="blog.php">Blog</a>
+				<a>Blog</a>
 			  </li>
 			</ul>
 		  </nav>
@@ -39,9 +39,9 @@
 	  <div class="span2">
 	  <br>
 	<div class="social">
-		<a href="#" class="sbtnf sbtnf-rounded color color-hover icon-facebook"></a>
-		<a href="#" class="sbtnf sbtnf-rounded color color-hover icon-twitter"></a>
-		<a href="#" class="sbtnf sbtnf-rounded color color-hover icon-gplus"></a>				<a href="#" class="sbtnf sbtnf-rounded color color-hover icon-youtube"></a>				<a href="#" class="sbtnf sbtnf-rounded color color-hover icon-instagram"></a>
+		<a href="https://www.facebook.com/vinkandberi" target="_blank" class="sbtnf sbtnf-rounded color color-hover icon-facebook"></a>
+		<a href="https://twitter.com/VinkandBeri" target="_blank" class="sbtnf sbtnf-rounded color color-hover icon-twitter"></a>
+		<a href="https://plus.google.com/u/0/102648090428299855578" target="_blank" class="sbtnf sbtnf-rounded color color-hover icon-gplus"></a>				<a href="https://www.youtube.com/user/vinkandberi" target="_blank" class="sbtnf sbtnf-rounded color color-hover icon-youtube"></a>				<a href="http://instagram.com/vinkandberi" target="_blank" class="sbtnf sbtnf-rounded color color-hover icon-instagram"></a>
 	  </div>
 	  </div>
 	  

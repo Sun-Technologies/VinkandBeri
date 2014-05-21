@@ -571,12 +571,15 @@
 			<div>
 				<a class="work" href="products.php">
 					<img width="370" height="270" alt="" src="img/content/portfolio-1.jpg">
-					<span class="shadow"></span>
-					<div class="bg-hover"></div>
+					<span class="shadow">
+						<button type="button" class="btn btn-primary" style="position: relative; margin-top: 180px;">Read More...</button>
+					</span>
+					<div class="bg-hover">
+						<button type="button" class="btn btn-primary" style="position: relative; margin-top: 180px;">Read More...</button>
+					</div>
 					<div class="work-title">
 					<!--<h3 class="title">Aloe Vera Juice</h3>-->
-					<div class="description">Explore our products OR Know More about Our Products</div>
-					<button type="button" class="btn btn-primary">Read More...</button>
+					<div class="description" style="font-size: 15px;">Explore our products OR Know More about Our Products</div>
 					</div>
 				</a>
 				<br>
@@ -589,7 +592,7 @@
 			<div style="border:1px solid #ccc; border-radius:10px; padding:10px;">
 				
 					
-					<p style="color:#000; text-align:left;text-shadow: 0 0px #000000; font-size:14px; min-height: 250px; ">V&B is the US arm of TGI Group, a leading player offering a wide range of nutritious food products in Europe, Asia, Africa, Middle East and the US. V&B is committed to excellence and aims to offer great tasting products without compromising on health benefits.<br>At V&B, we endeavor to present to our consumers an array of exotic products that are high on taste and nutrition. Our products are made using the finest of resources, are environmentallye.....<br><a class="btn btn-link" href="about.php">Read more</a><br></p>
+					<p style="color:#000; text-align:left;text-shadow: 0 0px #000000; font-size:14px; min-height: 250px; ">V&amp;B is the US arm of TGI Group, a leading player offering a wide range of nutritious food products in Europe, Asia, Africa, Middle East and the US. V&amp;B is committed to excellence and aims to offer great tasting products without compromising on health benefits.<br>At V&amp;B, we endeavor to present to our consumers an array of exotic products that are high on taste and nutrition. Our products are made using the finest of resources, are environmentallye.....<br><a class="btn btn-link" href="about.php">Read more</a><br></p>
 			</div>
 			
 			
@@ -601,12 +604,15 @@
 			<div>
 				<a class="work" href="recipes.php">
 					<img width="370" height="270" alt="" src="img/content/portfolio-4.jpg">
-					<span class="shadow"></span>
-					<div class="bg-hover"></div>
+					<span class="shadow">
+						<button type="button" class="btn btn-primary" style="position: relative; margin-top: 180px;">Read More...</button>
+					</span>
+					<div class="bg-hover">
+						<button type="button" class="btn btn-primary" style="position: relative; margin-top: 180px;">Read More...</button>
+					</div>
 					<div class="work-title">
-					<!--<h3 class="title">Discover simple healthy recipes</h3>-->
-					<div class="description">Discover simple and delicious recipes </div>
-					<button type="button" class="btn btn-primary">Read More...</button>
+					<!--<h3 class="title">Aloe Vera Juice</h3>-->
+					<div class="description" style="font-size: 15px;">Discover simple and delicious recipes </div>
 					</div>
 				</a>
 				<br>
@@ -620,15 +626,15 @@
 			<div>
 				<a class="work">
 					<img width="370" height="270" alt="" src="img/content/portfolio-3.jpg">
-					<span class="shadow"></span>
+					<!--<span class="shadow"></span>
 					<div class="bg-hover"></div>
 					<div class="work-title">
 					<h3 class="title">Stay Tuned for sales and promotions</h3>
-					<div class="description">vink & beri</div>
+					<div class="description">vink &amp; beri</div>
 					</div>
 				</a>
 				<br>
-				<!--<div data-appear-animation="bounceInLeft" class="text-small appear-animation bounceInLeft appear-animation-visible">
+				<!-<div data-appear-animation="bounceInLeft" class="text-small appear-animation bounceInLeft appear-animation-visible">
 					Stay Tuned for sales and promotions
 					<div class="clearfix"></div><br>
 				</div>-->
@@ -643,12 +649,15 @@
 			<div>
 				<a class="work" href="healthnutrion.php">
 					<img width="370" height="270" alt="" src="img/content/portfolio-5.jpg">
-					<span class="shadow"></span>
-					<div class="bg-hover"></div>
+					<span class="shadow">
+						<button type="button" class="btn btn-primary" style="position: relative; margin-top: 180px;">Read More...</button>
+					</span>
+					<div class="bg-hover">
+						<button type="button" class="btn btn-primary" style="position: relative; margin-top: 180px;">Read More...</button>
+					</div>
 					<div class="work-title">
-					<!--<h3 class="title">Coming soon</h3> -->
-					<div class="description">Explore more about Health & Nutrition / Learn More on Health & Nutrition</div>
-					<button type="button" class="btn btn-primary">Read More...</button>
+					<!--<h3 class="title">Aloe Vera Juice</h3>-->
+					<div class="description" style="font-size: 15px;">Explore more about Health &amp; Nutrition</div>
 					</div>
 				</a>
 				<br>

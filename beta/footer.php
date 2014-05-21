@@ -4,7 +4,7 @@
       <div class="row">
         <div class="span3 social">
           <h3>Follow Us</h3>
-          <p>Follow us in social media</p>		  		  		<a class="sbtnf sbtnf-rounded color color-hover icon-facebook" href="#"></a>		<a class="sbtnf sbtnf-rounded color color-hover icon-twitter" href="#"></a>		<a class="sbtnf sbtnf-rounded color color-hover icon-gplus" href="#"></a>						<a class="sbtnf sbtnf-rounded color color-hover icon-youtube" href="#"></a>		<a class="sbtnf sbtnf-rounded color color-hover icon-instagram" href="#"></a>
+          <p>Follow us in social media</p>		  		  		<a class="sbtnf sbtnf-rounded color color-hover icon-facebook" href="https://www.facebook.com/vinkandberi" target="_blank"></a>		<a class="sbtnf sbtnf-rounded color color-hover icon-twitter" href="https://twitter.com/VinkandBeri" target="_blank"></a>		<a class="sbtnf sbtnf-rounded color color-hover icon-gplus" href="https://plus.google.com/u/0/102648090428299855578" target="_blank"></a>						<a class="sbtnf sbtnf-rounded color color-hover icon-youtube" href="https://www.youtube.com/user/vinkandberi" target="_blank"></a>		<a class="sbtnf sbtnf-rounded color color-hover icon-instagram" href="http://instagram.com/vinkandberi" target="_blank"></a>
         </div>
         <div class="span3 nav-box">
           <h3>Downloads</h3>

@@ -325,7 +325,7 @@ mindset and willing to work in fast growing environment. </p>
 			</div>
 			<div id="collapseTwo" class="accordion-body collapse">
 			 
-				<p><strong>About:</strong> Vink & Beri LLC (V&B) is a part of multinational Tropical General Investment group having diverse business interests in 10 countries in Africa, Europe, Asia and Middle East. The group is one of the leading players in food products in African Continent. V&B is group’s green field project in the food sector in the United States. The group has a consistent record of high double digit growth during the past decade and offers ample opportunities and growth prospects for the right candidate.</p>								<p><strong>Location:</strong> Montgomeryville, PA</p>
+				<p><strong>About:</strong> Vink & Beri LLC (V&amp;B) is a part of multinational Tropical General Investment group having diverse business interests in 10 countries in Africa, Europe, Asia and Middle East. The group is one of the leading players in food products in African Continent. V&amp;B is group’s green field project in the food sector in the United States. The group has a consistent record of high double digit growth during the past decade and offers ample opportunities and growth prospects for the right candidate.</p>								<p><strong>Location:</strong> Montgomeryville, PA</p>
 				<p><strong>Job Summary: </strong>Office Receptionist is to support the all of the office functions. This position will be responsible for answering and directing phone calls, taking messages, providing information, redirecting requests as appropriate and greeting and directing visitors.</p>				
 				<p>Specific responsibilities of this position include</p>
 				<ol>
@@ -375,7 +375,7 @@ will be contacted.<p>
 			</div>
 			<div id="collapseThree" class="accordion-body collapse">
 			  <div class="accordion-inner">
-				<p><strong>About:</strong> Vink & Beri LLC (V&B) is a part of multinational Tropical General Investment group having diverse business interests in 10 countries in Africa, Europe, Asia and Middle East. The group is one of the leading players in food products in African Continent. V&B is group’s green field project in the food sector in the United States. The group has a consistent record of high double digit growth during the past decade and offers ample opportunities and growth prospects for the right candidate.</p>								<p><strong>Location:</strong> Montgomeryville, PA</p>
+				<p><strong>About:</strong> Vink & Beri LLC (V&amp;B) is a part of multinational Tropical General Investment group having diverse business interests in 10 countries in Africa, Europe, Asia and Middle East. The group is one of the leading players in food products in African Continent. V&amp;B is group’s green field project in the food sector in the United States. The group has a consistent record of high double digit growth during the past decade and offers ample opportunities and growth prospects for the right candidate.</p>								<p><strong>Location:</strong> Montgomeryville, PA</p>
 				<p><strong>Job Summary: </strong>The Regional Sales Executives will be responsible to plan, organize, direct, coordinate, administer and
 
 control the sales activity to help identify markets. Perform activities necessary to achieve sales goals and 
@@ -453,11 +453,11 @@ be contacted.<p>
 			  
 			  
 			  
-				<p><strong>About:</strong> Vink & Beri LLC (V&B) is a part of multinational Tropical General Investment group having
+				<p><strong>About:</strong> Vink & Beri LLC (V&amp;B) is a part of multinational Tropical General Investment group having
 
 diverse business interests in 10 countries in Africa, Europe, Asia and Middle East. The group is one of 
 
-the leading players in food products in African Continent. V&B is group’s green field project in the food 
+the leading players in food products in African Continent. V&amp;B is group’s green field project in the food 
 
 sector in the United States. The group has a consistent record of high double digit growth during the 
 

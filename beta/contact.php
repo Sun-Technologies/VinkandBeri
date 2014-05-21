@@ -230,7 +230,8 @@
   <div class="container">
     <div class="row">    
       <div class="content span12">
-    <div class="row">             <div class="span6">     <form id="contactform" class="register-form contact-form" method="POST" action="email-submit.php">
+    <div class="row">             <div class="span6"> 
+        <form id="contactform" class="register-form contact-form" method="POST" action="email-submit.php">
             <h3 class="title">Quick Contact</h3>
                     <div id="success"></div>
                             <label>Name: <span class="required">*</span></label>
@@ -244,7 +245,7 @@
                                             <div class="clearfix"></div> 
                                                    <div class="buttons-box clearfix">
                                                            <button name="submit" class="btn pull-left" data-toggle="modal" data-target="#myModal">Submit</button>       <span class="required"><b>*</b> Required Field</span>  
-          <!-- Modal -->
+         
 <div class="modal fade" id="myModal" tabindex="-1" role="dialog" aria-labelledby="myModalLabel" aria-hidden="true">
   <div class="modal-dialog">
     <div class="modal-content">

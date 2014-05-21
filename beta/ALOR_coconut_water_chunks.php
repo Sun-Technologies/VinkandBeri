@@ -237,7 +237,6 @@
 		<div class="row">
 		  <div class="span5">
 			<div class="image-box">
-			  <span class="sale top"></span>
 			  <div class="general-img">
 				<img alt="" src="img/content/coconut_chunks_latest1.png" data-zoom-image="img/content/coconut_chunks_latest1.png" width="700" height="700">
 			  </div><!-- .general-img -->

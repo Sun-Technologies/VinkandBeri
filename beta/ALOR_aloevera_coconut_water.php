@@ -237,7 +237,6 @@
 		<div class="row">
 		  <div class="span5">
 			<div class="image-box">
-			  <span class="sale top"></span>
 			  <div class="general-img">
 				<img alt="" src="img/content/single-15.png" data-zoom-image="img/content/single-15.png" width="700" height="700">
 			  </div><!-- .general-img -->
