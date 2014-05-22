@@ -23,6 +23,10 @@
 		<img src="img/content/banner5.jpg" width="253" height="158" alt="">
 		<h2 class="title">ALOR Orange nector with real mandarin pieces.</h2>
 	  </a>
+	  <a href="ALOR_almond_milk.php" class="banner">
+		<img src="img/content/almondmilk.jpg" width="253" height="158" alt="">
+		<h2 class="title">ALOR Almond Milk</h2>
+	  </a>
 	</div><!-- .banners -->
 	
 	<a class="next" href="#"><i class="icon-arrow-right"></i></a>

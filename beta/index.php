@@ -579,7 +579,7 @@
 					</div>
 					<div class="work-title">
 					<!--<h3 class="title">Aloe Vera Juice</h3>-->
-					<div class="description" style="font-size: 15px;">Explore our products OR Know More about Our Products</div>
+					<div class="description" style="font-size: 15px;">Explore our products OR Know More</div>
 					</div>
 				</a>
 				<br>
@@ -645,7 +645,7 @@
 		</div><!-- .services-box-two -->
 		
 		<div class="span4">
-		<h4 class="title">Health &amp; Nutrition</h4>
+		<h4 style="color:black; margin-left: -15%;">Health &amp; Nutrition</h4>
 			<div>
 				<a class="work" href="healthnutrion.php">
 					<img width="370" height="270" alt="" src="img/content/portfolio-5.jpg">

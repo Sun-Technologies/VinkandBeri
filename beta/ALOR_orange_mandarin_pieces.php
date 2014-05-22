@@ -216,8 +216,8 @@
 <div class="breadcrumb-box">
   <div class="container">
     <ul class="breadcrumb">
-      <li><a href="index.html">Home</a> <span class="divider">/</span></li>
-      <li><a href="catalog-grid.html">Products</a> <span class="divider">/</span></li>
+      <li><a href="index.php">Home</a> <span class="divider">/</span></li>
+      <li><a href="products.php">Products</a> <span class="divider">/</span></li>
       <li class="active">ALOR Orange nector with real mandarin pieces</li>
     </ul>	
   </div>

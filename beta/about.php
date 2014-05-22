@@ -215,61 +215,43 @@
 <div class="breadcrumb-box">
   <div class="container">
     <ul class="breadcrumb">
-      <li><a href="index.html">Home</a> <span class="divider">/</span></li>
+      <li><a href="index.php">Home</a> <span class="divider">/</span></li>
       <li class="active">About Us</li>
     </ul>	
   </div>
 </div><!-- .breadcrumb-box -->
 
-<div id="slider" class="slider load" style="height: 400px;  margin-bottom: -3%; width: 100%;">
-  <div class="container1">
-    <div class="row">
-      <div class="sliders-box" style="height: 400px;">
-		<div class="slid span12">
-		  <img class="slid-img" src="img/content/slide-11.jpg" style="height: 400px; width: 100%;" alt="">
-		  <div class="span4 slid-content">
-			<h1>Integration &amp; Automation<br> technology to fit any<br> lifestyle</h1>
-			<p class="descriptions">At the touch of a button, your drapes or blinds will open and close, your lights turn on and off, your IPod plays music throughout the home!</p>
-		  </div>
-		</div>
-		
-		<div class="slid span12">
-		  <img class="slid-img" src="img/content/slide22.jpg" style="height: 400px; width: 100%;" alt="">
-		  <div class="span4 slid-content">
-			<h1>Integration &amp; Automation<br> technology to fit any<br> lifestyle</h1>
-			<p class="descriptions">At the touch of a button, your drapes or blinds will open and close, your lights turn on and off, your IPod plays music throughout the home!</p>
-		  </div>
-		</div>
-		
-		<div class="slid span12">
-		  <img class="slid-img" src="img/content/slide-3.jpg" style="height: 400px; width: 100%;" alt="">
-		  <div class="span4 slid-content">
-			<h1>Automation &amp; Integration<br> technology to fit any<br> lifestyle</h1>
-			<p class="descriptions">At the touch of a button, your drapes or blinds will open and close, your lights turn on and off, your IPod plays music throughout the home or business whatever suits your needs!</p>
-		  </div>
-		</div>
-	  </div><!-- .sliders-box -->
+<div id="carousel-example-generic" class="carousel slide" data-ride="carousel">
+  <!-- Indicators -->
+  <ol class="carousel-indicators">
+    <li data-target="#carousel-example-generic" data-slide-to="0" class="active"></li>
+    <li data-target="#carousel-example-generic" data-slide-to="1"></li>
+    <li data-target="#carousel-example-generic" data-slide-to="2"></li>
+  </ol>
 
-      <div class="span4 slider-nav">
-		<div class="nav-box">
-		  <a class="next" href="#">
-			<svg version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
-			  width="9px" height="16px" viewBox="0 0 9 16" enable-background="new 0 0 9 16" xml:space="preserve">
-			  <polygon fill-rule="evenodd" clip-rule="evenodd" fill="#838383" points="1,0.001 0,1.001 7,8 0,14.999 1,15.999 9,8 "/>
-			</svg>
-		  </a>
-		  <a class="prev" href="#">
-			<svg version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
-			  width="9px" height="16px" viewBox="0 0 9 16" enable-background="new 0 0 9 16" xml:space="preserve">
-			  <polygon fill-rule="evenodd" clip-rule="evenodd" fill="#838383" points="8,15.999 9,14.999 2,8 9,1.001 8,0.001 0,8 "/>
-			</svg>
-		  </a>
-		  <div class="pagination switches"></div>	
-		</div>
+  <!-- Wrapper for slides -->
+  <div class="carousel-inner">
+    <div class="item active">
+      <img src="img/content/about-slide1.jpg" alt="About V&amp;B slider" style="width: 100%; height: 460px;">
+      <div class="carousel-caption" style="opacity: 0.6;">
+        <h5 style="background: none; color: #fff; text-align:center; opacity: 1.0;">Integration &amp; Automation<br> technology to fit any<br> lifestyle</h5>
+      </div>
+    </div>
+    <div class="item">
+      <img src="img/content/about-slide2.jpg" alt="About V&amp;B slider" style="width: 100%; height: 460px;">
+      <div class="carousel-caption" style="opacity: 0.6;">
+        <h5 style="background: none; color: #fff; text-align:center; opacity: 1.0;">Automation &amp; Integration<br> technology to fit any<br> lifestyle</h6>
+      </div>
+    </div>
+    <div class="item">
+      <img src="img/content/slide-3.jpg" alt="About V&amp;B slider" style="width: 100%; height: 460px;">
+      <div class="carousel-caption" style="opacity: 0.6;">
+        <h5 style="background: none; color: #fff; text-align:center; opacity: 1.0;">Integration &amp; Automation<br> technology to fit any<br> lifestyle</h6>
       </div>
     </div>
   </div>
-</div><!-- #slider -->
+
+</div>
 
 <section id="main">
   <header class="page-header">

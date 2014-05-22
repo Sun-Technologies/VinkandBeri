@@ -1,10 +1,10 @@
 <!DOCTYPE html>
 <html>
 <head>
-  <title>Vink & Beri LLC | ALOR Aloe Vera Juice</title>
+  <title>Vink &amp; Beri LLC | ALOR Aloe Vera Juice</title>
   <meta class="viewport" name="viewport" content="width=device-width, initial-scale=1.0">
   <meta charset="utf-8">
-  <meta content="Vink & Beri LLC (V&B) is US arm of TGI group. TGI Group is one of the most respected groups and has businesses in 11 countries in Africa, Europe, Asia and Middle East besides US. TGI is the leading player in food products in African Continent. TGI has interest in production and trading of Commodities like Cotton, Insecticides, Sesame seeds and bulk Chemicals besides Pharmaceuticals, Deep Sea Fishing and as a support company to the majors companies in Deep Sea Oil Drilling.VINK & BERI LLC Company makes and sells branded plant-based foods and beverages, and premium dairy products throughout North America and Europe. And we do it in a way that's unlike any company in our industry. " name="keywords">
+  <meta content="Vink &amp; Beri LLC (V&amp;B) is US arm of TGI group. TGI Group is one of the most respected groups and has businesses in 11 countries in Africa, Europe, Asia and Middle East besides US. TGI is the leading player in food products in African Continent. TGI has interest in production and trading of Commodities like Cotton, Insecticides, Sesame seeds and bulk Chemicals besides Pharmaceuticals, Deep Sea Fishing and as a support company to the majors companies in Deep Sea Oil Drilling.VINK & BERI LLC Company makes and sells branded plant-based foods and beverages, and premium dairy products throughout North America and Europe. And we do it in a way that's unlike any company in our industry. " name="keywords">
   <link href="img/favicon.png" rel="shortcut icon">
 
   <link rel='stylesheet' href="css/docs.css">
@@ -216,8 +216,8 @@
 <div class="breadcrumb-box">
   <div class="container">
     <ul class="breadcrumb">
-      <li><a href="index.html">Home</a> <span class="divider">/</span></li>
-      <li><a href="catalog-grid.html">Products</a> <span class="divider">/</span></li>
+      <li><a href="index.php">Home</a> <span class="divider">/</span></li>
+      <li><a href="products.php">Products</a> <span class="divider">/</span></li>
       <li class="active">ALOR Aloe Vera Coconut Water with Coconut Chunks</li>
     </ul>	
   </div>

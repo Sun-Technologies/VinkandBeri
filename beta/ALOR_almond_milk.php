@@ -1,7 +1,7 @@
 <!DOCTYPE html>
 <html>
 <head>
-  <title>Vink &amp; Beri LLC | ALOR Aloe Vera Juice</title>
+  <title>Vink &amp; Beri LLC | ALOR Almond Milk  </title>
   <meta class="viewport" name="viewport" content="width=device-width, initial-scale=1.0">
   <meta charset="utf-8">
   <meta content="Vink &amp; Beri LLC (V&amp;B) is US arm of TGI group. TGI Group is one of the most respected groups and has businesses in 11 countries in Africa, Europe, Asia and Middle East besides US. TGI is the leading player in food products in African Continent. TGI has interest in production and trading of Commodities like Cotton, Insecticides, Sesame seeds and bulk Chemicals besides Pharmaceuticals, Deep Sea Fishing and as a support company to the majors companies in Deep Sea Oil Drilling.VINK & BERI LLC Company makes and sells branded plant-based foods and beverages, and premium dairy products throughout North America and Europe. And we do it in a way that's unlike any company in our industry. " name="keywords">
@@ -218,7 +218,7 @@
     <ul class="breadcrumb">
       <li><a href="index.php">Home</a> <span class="divider">/</span></li>
       <li><a href="products.php">Products</a> <span class="divider">/</span></li>
-      <li class="active">ALOR Aloe Vera Coconut Water</li>
+      <li class="active">ALOR Almond Milk  </li>
     </ul>	
   </div>
 </div><!-- .breadcrumb-box -->
@@ -227,7 +227,7 @@
 <div id="main" class="page">
   <header class="page-header">
     <div class="container">
-      <h1 class="title">ALOR Aloe Vera Coconut Water</h1>
+      <h1 class="title">ALOR Almond Milk  </h1>
     </div>	
   </header>
   
@@ -238,7 +238,7 @@
 		  <div class="span5">
 			<div class="image-box">
 			  <div class="general-img">
-				<img alt="" src="img/content/single-15.png" data-zoom-image="img/content/single-15.png" width="700" height="700">
+				<img alt="" src="img/content/almondmilk3.jpg" data-zoom-image="img/content/almondmilk3.jpg" width="700" height="700">
 			  </div><!-- .general-img -->
 			  
 			  <div class="thumblist-box load">
@@ -256,14 +256,23 @@
 				</a>
 				
 				<div id="thumblist" class="thumblist">
-				  <a href="#" data-image="img/content/single-15.png" data-zoom-image="img/content/single-15.png">
-					<img alt="" src="img/content/single-15.png" width="700" height="700">
+				  <a href="#" data-image="img/content/almondmilk3.jpg" data-zoom-image="img/content/almondmilk3.jpg">
+					<img alt="" src="img/content/almondmilk3.jpg" width="700" height="700">
 				  </a>
-				  <a class="active" href="#" data-image="img/content/single-17.png" data-zoom-image="img/content/single-17.png">
-					<img alt="" src="img/content/single-17.png">
+				  <a class="active" href="#" data-image="img/content/almondmilk1.jpg" data-zoom-image="img/content/almondmilk1.jpg">
+					<img alt="" src="img/content/almondmilk1.jpg">
 				  </a>
-				  <a href="#" data-image="img/content/single-16.png" data-zoom-image="img/content/single-16.png">
-					<img alt="" src="img/content/single-16.png" width="700" height="700">
+				  <a href="#" data-image="img/content/almondmilk.jpg" data-zoom-image="img/content/almondmilk.jpg">
+					<img alt="" src="img/content/almondmilk.jpg" width="700" height="700">
+				  </a>
+				  <a href="#" data-image="img/content/almondmilk.jpg" data-zoom-image="img/content/almondmilk.jpg">
+					<img alt="" src="img/content/almondmilk.jpg" width="700" height="700">
+				  </a>
+				  <a href="#" data-image="img/content/almondmilk1.jpg" data-zoom-image="img/content/almondmilk1.jpg">
+					<img alt="" src="img/content/almondmilk1.jpg" width="700" height="700">
+				  </a>
+				  <a href="#" data-image="img/content/almondmilk.jpg" data-zoom-image="img/content/almondmilk.jpg">
+					<img alt="" src="img/content/almondmilk.jpg" width="700" height="700">
 				  </a>
 				</div><!-- #thumblist -->
 			  </div><!-- .thumblist -->
@@ -274,12 +283,11 @@
 			<!--<h3>Product Description</h3>-->
 			
 			<div class="description">
-        <p>Open, pour, pause, sip, enjoy. This is the process of enjoying any juice. But when the juice happens to be energizing and flavoursome coconut water, you can never have enough. Did you know that coconut water happens to be one of the most commonly drunk juices by the general population the world over? If yes is the answer that’s dripping off your tongue, then you must be a coconut fan and certainly love our newest offering – ALOR Coconut water! </p>
-        <p>Be it a pool-party or just another mundane day at work, our Coconut water will turn out to be your best companion – just open the can, sip and quench your thirst for this appetizing water! </p>
-        <p>We bring to you the freshest, the purest and the best tasting water you’ve ever savoured. Whether you’re a child, a true spirit enthusiast or an absolute teetotal, we’re sure you’ll love our coconut water and get addicted to its smooth and scrumptious texture and taste over and over again!</p>
-        <p>Wake up in the morning and tickle your taste buds with coconut water for breakfast or enjoy a healthy drink in the evening, its great tasting and healthy any time of the day. What’s more is that with these, you get your necessary intake of potassium, electrolytes, calcium, antioxidants and magnesium – it’ll even do wonders for your digestion and metabolism!</p>
-        <p>Hawaiians refer to it as ‘Neolani’ which implies that the water is like ‘dews from heaven’. So go ahead, pick a Can and enjoy your very own ‘dews from heaven’ in the form of ALOR Coconut water with friends and family today!</p>
-      </div>
+			  <p>Love the taste of milk but you’re lactose intolerant? There’s a mouth-watering solution to the problem now – almond milk! Without any trace of cow’s milk, ALOR Almond Milk is the ultimate drink of the gods! Its texture is silky and smooth and the taste is abundantly rich and completely devoid of artificial colors or flavors.  What’s more is that it is a safe milk option for people with food allergies or those who are intolerant to milk or have immune responses to certain food proteins. </p>
+			  <p>Since it does not contain any dairy, lactose, soy, eggs, cholesterol, gluten, casein, MSG or whey (milk protein), it is a safer option compared to traditional dairy milk. It’s healthier, it’s tastier, it’s divine – and now easily accessible too! </p>
+			  <p>With these many goodness, meet and greet almonds in an all new way and enjoy this refreshingly silky drink in the form of ALOR Almond Milk. It’s always fresh, heart-healthy, low-calorie and a nutrient-dense beverage that can be relished at a party, casual-meet with friends or as a drink post a workout. </p>
+			  <p>Our milk is made using responsibly grown almonds that are fresh and natural – just as nature intended. Go ahead and enjoy! </p>
+			</div>
 			
 			<!--<div class="price-box">
 			  <span class="price-old">$150</span> 
@@ -299,7 +307,7 @@ Now, pick your favorite since it is an anytime drink- the taste and health which
 		  </div>
 		  
 		  <div class="clearfix"></div>
-		  
+		 
 		</div>
       </article><!-- .content -->
     </div>
