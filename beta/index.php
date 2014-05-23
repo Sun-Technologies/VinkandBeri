@@ -624,7 +624,7 @@
 			</div>
 		<h4 class="title">Sales &amp; Promotions</h4>
 			<div>
-				<a class="work">
+				<!--<a class="work">-->
 					<img width="370" height="270" alt="" src="img/content/portfolio-3.jpg">
 					<!--<span class="shadow"></span>
 					<div class="bg-hover"></div>
@@ -645,7 +645,7 @@
 		</div><!-- .services-box-two -->
 		
 		<div class="span4">
-		<h4 style="color:black; margin-left: -15%;">Health &amp; Nutrition</h4>
+		<h4 class="title">Health &amp; Nutrition</h4>
 			<div>
 				<a class="work" href="healthnutrion.php">
 					<img width="370" height="270" alt="" src="img/content/portfolio-5.jpg">

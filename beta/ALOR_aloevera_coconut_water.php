@@ -222,7 +222,7 @@
     </ul>	
   </div>
 </div><!-- .breadcrumb-box -->
-<?php include 'product_links.php'; ?>
+<?php include 'product-links.php'; ?>
 
 <div id="main" class="page">
   <header class="page-header">
@@ -237,7 +237,7 @@
 		<div class="row">
 		  <div class="span5">
 			<div class="image-box">
-			  <div class="general-img">
+			  <div class="general-img"> 
 				<img alt="" src="img/content/single-15.png" data-zoom-image="img/content/single-15.png" width="700" height="700">
 			  </div><!-- .general-img -->
 			  
@@ -264,7 +264,6 @@
 				  </a>
 				  <a href="#" data-image="img/content/single-16.png" data-zoom-image="img/content/single-16.png">
 					<img alt="" src="img/content/single-16.png" width="700" height="700">
-				  </a>
 				</div><!-- #thumblist -->
 			  </div><!-- .thumblist -->
 			</div>
@@ -274,12 +273,12 @@
 			<!--<h3>Product Description</h3>-->
 			
 			<div class="description">
-        <p>Open, pour, pause, sip, enjoy. This is the process of enjoying any juice. But when the juice happens to be energizing and flavoursome coconut water, you can never have enough. Did you know that coconut water happens to be one of the most commonly drunk juices by the general population the world over? If yes is the answer that’s dripping off your tongue, then you must be a coconut fan and certainly love our newest offering – ALOR Coconut water! </p>
-        <p>Be it a pool-party or just another mundane day at work, our Coconut water will turn out to be your best companion – just open the can, sip and quench your thirst for this appetizing water! </p>
+				<p>Open, pour, pause, sip, enjoy. This is the process of enjoying any juice. But when the juice happens to be energizing and flavoursome coconut water, you can never have enough. Did you know that coconut water happens to be one of the most commonly drunk juices by the general population the world over? If yes is the answer that’s dripping off your tongue, then you must be a coconut fan and certainly love our newest offering – ALOR Coconut water! </p>
+	      <p>Be it a pool-party or just another mundane day at work, our Coconut water will turn out to be your best companion – just open the can, sip and quench your thirst for this appetizing water! </p>
         <p>We bring to you the freshest, the purest and the best tasting water you’ve ever savoured. Whether you’re a child, a true spirit enthusiast or an absolute teetotal, we’re sure you’ll love our coconut water and get addicted to its smooth and scrumptious texture and taste over and over again!</p>
         <p>Wake up in the morning and tickle your taste buds with coconut water for breakfast or enjoy a healthy drink in the evening, its great tasting and healthy any time of the day. What’s more is that with these, you get your necessary intake of potassium, electrolytes, calcium, antioxidants and magnesium – it’ll even do wonders for your digestion and metabolism!</p>
         <p>Hawaiians refer to it as ‘Neolani’ which implies that the water is like ‘dews from heaven’. So go ahead, pick a Can and enjoy your very own ‘dews from heaven’ in the form of ALOR Coconut water with friends and family today!</p>
-      </div>
+			</div>
 			
 			<!--<div class="price-box">
 			  <span class="price-old">$150</span> 

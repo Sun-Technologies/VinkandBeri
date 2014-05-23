@@ -222,7 +222,7 @@
     </ul>	
   </div>
 </div><!-- .breadcrumb-box -->
-<?php include 'product_links.php'; ?>
+<?php include 'product-links.php'; ?>
 
 <div id="main" class="page">
   <header class="page-header">
