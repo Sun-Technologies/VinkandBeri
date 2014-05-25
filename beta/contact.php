@@ -215,7 +215,7 @@
 <div class="breadcrumb-box">
   <div class="container">
     <ul class="breadcrumb">
-      <li><a href="index.html">Home</a> <span class="divider">/</span></li>
+      <li><a href="index.php">Home</a> <span class="divider">/</span></li>
       <li class="active">Contact</li>
     </ul> 
   </div>
@@ -240,6 +240,8 @@
                                     <input class="input-block-level" type="email" name="email">
                             <label>Telephone:</label>
                                     <input class="input-block-level" type="text" name="phone">
+                            <label>Subject:</label>
+                                    <input class="input-block-level" type="text" name="message">                            
                             <label>Comment:</label>
                                     <textarea class="input-block-level" name="comment" maxlength="200"></textarea>
                                             <div class="clearfix"></div> 

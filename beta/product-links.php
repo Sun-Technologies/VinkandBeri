@@ -28,6 +28,7 @@
 		<h2 class="title">ALOR Almond Milk</h2>
 	  </a>
 	</div><!- .banners -->
+	<!--
 	<style>
 	 .products-header ul li {
 	 	list-style-type: none;
@@ -80,8 +81,154 @@
 	</li>
 	</ul>
 	</div>
-	<!--
+	<!-
 	<a class="next" href="#"><i class="icon-arrow-right"></i></a>
 	<div class="clearfix"></div>
   </div>
 </div><!- .banner-set -->
+<style>
+* {
+  padding: 0;
+  margin: 0;
+ 	-moz-box-sizing: border-box;
+  -webkit-box-sizing: border-box;
+ 	box-sizing: border-box;
+}
+.gallery-grid {
+	clear: both;
+  background: orange;
+  display: block;
+  float: left;
+  width: 100%;
+  padding: 1%;
+}
+.gallery-grid.columns {
+	margin-right: 0;
+	padding: 1%;
+}
+.one-third {
+  box-shadow: 0 0 2px 0 rgba(0, 0, 0, 0.3);
+  margin-right: 1%;
+  width: 15.8%;
+  height: auto;
+  position: relative;
+  float: left;
+}
+.one-third:last-of-type {
+  margin-right: 0;
+}
+.gallery-grid img {
+  width: 100%;
+  height: auto;
+  position: relative;
+  float: left;
+}
+.gallery-grid a {
+  display: block;
+}
+.screen1 {
+	background-color: rgba(0,0,0,0.5);
+	left: 0;
+	top: 0;
+	border-radius: 0;
+	height: 100%;
+	width: 100%;
+	position: absolute;
+	opacity: 0;
+	z-index: 1000;
+  -webkit-transition: all 0.3s ease-in-out;
+    -moz-transition: all 0.3s ease-in-out;
+      -o-transition: all 0.3s ease-in-out;
+        -ms-transition: all 0.3s ease-in-out;
+          transition: all 0.3s ease-in-out;
+}
+.screen1:hover {
+  opacity: 1
+}
+.title1 {
+  color: #fff;
+  font-family: arial, helvetica, sans-serif;
+  font-weight: bold;
+    -webkit-transition: all 0.3s ease-in-out;
+    -moz-transition: all 0.3s ease-in-out;
+      -o-transition: all 0.3s ease-in-out;
+        -ms-transition: all 0.3s ease-in-out;
+          transition: all 0.3s ease-in-out;
+  margin-left: -30px;
+  padding-top: 100px;
+  text-align: center;
+}
+.screen1:hover .title1 {
+  margin-left: 0;
+}
+.screen1.fade-in .title1 {
+  margin-left: 0;
+}
+.screen1.fade-in:hover {
+}
+</style>
+<div class="gallery-grid">
+  <div class="one-third">
+    <a href="products.php">
+      <span class="screen1">
+        <p class="title1">
+          ALOR Aloe Vera Juice with Aloe Vera Pieces
+        </p>
+      </span>
+      <img src="img/content/Untitled-2.png">
+    </a>
+  </div>
+	<div class="one-third">
+    <a href="ALOR_orange_mandarin_pieces.php">
+      <span class="screen1">
+        <p class="title1">
+          ALOR Orange nector with real mandarin pieces
+        </p>
+      </span>
+      <img src="img/content/Untitled-6.png">
+    </a>
+  	</div>
+    <div class="one-third">
+    <a href="ALOR_aloevera_chunks.php">
+      <span class="screen1">
+        <p class="title1">
+          ALOR Aloe Vera Pieces in Syrup
+        </p>
+      </span>
+      <img src="img/content/Untitled-3.png">
+    </a>
+  	</div>
+  	<div class="one-third">
+    <a href="ALOR_aloevera_coconut_water.php">
+      <span class="screen1">
+        <p class="title1">
+          ALOR Aloe Vera Coconut Water
+        </p>
+      </span>
+      <img src="img/content/Untitled-4.png">
+    </a>
+  	</div>
+  	<div class="one-third">
+    <a href="ALOR_coconut_water_chunks.php">
+      <span class="screen1">
+        <p class="title1">
+          ALOR Aloe Vera Coconut Water with Coconut Chunks
+        </p>
+      </span>
+      <img src="img/content/Untitled-5.png">
+    </a>
+  	</div>
+  	<div class="one-third">
+    <a href="ALOR_almond_milk.php">
+      <span class="screen1">
+        <p class="title1">
+          ALOR Almond Milk
+        </p>
+      </span>
+      <img src="img/content/almondmilk11.png">
+    </a>
+  	</div>
+</div>
+
+<br/>
+<hr>

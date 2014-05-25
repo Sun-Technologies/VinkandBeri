@@ -220,17 +220,14 @@
     </ul>	
   </div>
 </div><!-- .breadcrumb-box -->
-
+<!--
 <div id="carousel-example-generic" class="carousel slide" data-ride="carousel">
-  <!-- Indicators -->
   <ol class="carousel-indicators">
     <li data-target="#carousel-example-generic" data-slide-to="0" class="active"></li>
     <li data-target="#carousel-example-generic" data-slide-to="1"></li>
     <li data-target="#carousel-example-generic" data-slide-to="2"></li>
   </ol>
-
-  <!-- Wrapper for slides -->
-  <div class="carousel-inner">
+<div class="carousel-inner">
     <div class="item active">
       <img src="img/content/about-slide1.jpg" alt="About V&amp;B slider" style="width: 100%; height: 460px;">
       <div class="carousel-caption" style="opacity: 0.6;">
@@ -252,7 +249,38 @@
   </div>
 
 </div>
-
+-->
+<div id="myCarousel" class="carousel slide">
+  <ol class="carousel-indicators">
+    <li data-target="#myCarousel" data-slide-to="0" class="active"></li>
+    <li data-target="#myCarousel" data-slide-to="1"></li>
+    <li data-target="#myCarousel" data-slide-to="2"></li>
+  </ol>
+  <!-- Carousel items -->
+  <div class="carousel-inner">
+    <div class="active item">
+    	<img src="img/content/about-slide1.jpg" alt="About V&amp;B slider" style="width: 100%; height: 460px;">
+    	<div class="carousel-caption" style="opacity: 0.6;">
+        <h5 style="background: none; color: #fff; text-align:center; opacity: 1.0;">Integration &amp; Automation<br> technology to fit any<br> lifestyle</h5>
+      </div>
+    </div>
+    <div class="item">
+    	<img src="img/content/about-slide2.jpg" alt="About V&amp;B slider" style="width: 100%; height: 460px;">
+      <div class="carousel-caption" style="opacity: 0.6;">
+        <h5 style="background: none; color: #fff; text-align:center; opacity: 1.0;">Automation &amp; Integration<br> technology to fit any<br> lifestyle</h6>
+      </div>
+    </div>
+    <div class="item">
+    	<img src="img/content/slide-3.jpg" alt="About V&amp;B slider" style="width: 100%; height: 460px;">
+      <div class="carousel-caption" style="opacity: 0.6;">
+        <h5 style="background: none; color: #fff; text-align:center; opacity: 1.0;">Integration &amp; Automation<br> technology to fit any<br> lifestyle</h6>
+      </div>
+    </div>
+  </div>
+  <!-- Carousel nav -->
+  <a class="carousel-control left" href="#myCarousel" data-slide="prev">&lsaquo;</a>
+  <a class="carousel-control right" href="#myCarousel" data-slide="next">&rsaquo;</a>
+</div>
 <section id="main">
   <header class="page-header">
     <div class="container">
@@ -358,18 +386,18 @@
 
 			<div class="tab-content">			
 						
-						<div id="services" class="tab-pane active fade in">			 
-						<div class="service">	<img alt="" src="img/content/whoweare.jpg" width="90%" align="left" hspace="20" >	  </div>
+						<div id="services">			 
+						<div class="service" style="height: 300px;">	<img alt="" src="img/content/whoweare.jpg" width="90%" align="left" hspace="20" >	  </div>
 						</div>						
 						
-						<div id="features" class="tab-pane fade in">	
+						<div id="features" class="tab-pane fade in" style="height: 500px;">	
 						
 						<div class="service">		<img alt="" src="img/content/team-1.jpg" width="160" align="left" hspace="20" vspace="10">			<h6 class="title"><a href="#">Mr. CEO, Vink and Beri</a></h6>					<div class="text-small">Lorem ipsum dolor sit amet, consectetur adipisicing elit. Dignissimos itaque sit qui atque? Deserunt ullam voluptatum ducimus tempore fugiat sint amet vero repellat omnis totam reiciendis nulla facilis quam cupiditate cum natus voluptates iure quidem esse ex blanditiis doloremque impedit aliquid perspiciatis eaque rem reprehenderit quia. Delectus non pariatur numquam nulla nostrum libero nesciunt explicabo officia similique eaque. Lorem ipsum dolor sit amet, consectetur adipisicing elit. Dignissimos itaque sit qui atque? Deserunt ullam voluptatum ducimus tempore fugiat sint amet vero repellat omnis totam reiciendis nulla facilis quam cupiditate cum natus voluptates iure quidem esse ex blanditiis doloremque impedit aliquid. <br> <br> Perspiciatis eaque rem reprehenderit quia. Delectus non pariatur numquam nulla nostrum libero nesciunt explicabo officia similique eaque blanditiis ut. Lorem ipsum dolor sit amet, consectetur adipisicing elit. Dignissimos itaque sit qui atque? Deserunt ullam voluptatum ducimus tempore fugiat sint amet vero repellat omnis totam reiciendis nulla facilis quam cupiditate cum natus voluptates iure quidem esse ex blanditiis doloremque impedit aliquid perspiciatis eaque rem reprehenderit quia. Delectus non pariatur numquam nulla nostrum libero nesciunt explicabo officia similique eaque blanditiis ut.</div>			  </div> 
 
 						</div>	
 						
-						<div id="text" class="tab-pane fade in">
-						<div class="service">
+						<div id="text" class="tab-pane fade in" style="height: 500px;">
+						<div class="service" style="height: 500px;">
 						<img alt="" src="img/content/team-2.jpg" width="160" align="left" hspace="20" vspace="10">		
 						<h6 class="title"><a href="#">Mr. Vice President, Vink and Beri</a></h6>					
 						<div class="text-small">Lorem ipsum dolor sit amet, consectetur adipisicing elit. Dignissimos itaque sit qui atque? Deserunt ullam voluptatum ducimus tempore fugiat sint amet vero repellat omnis totam reiciendis nulla facilis quam cupiditate cum natus voluptates iure quidem esse ex blanditiis doloremque impedit aliquid perspiciatis eaque rem reprehenderit quia. Delectus non pariatur numquam nulla nostrum libero nesciunt explicabo officia similique eaque. Lorem ipsum dolor sit amet, consectetur adipisicing elit. Dignissimos itaque sit qui atque? Deserunt ullam voluptatum ducimus tempore fugiat sint amet vero repellat omnis totam reiciendis nulla facilis quam cupiditate cum natus voluptates iure quidem esse ex blanditiis doloremque impedit aliquid. <br> <br> Perspiciatis eaque rem reprehenderit quia. Delectus non pariatur numquam nulla nostrum libero nesciunt explicabo officia similique eaque blanditiis ut. Lorem ipsum dolor sit amet, consectetur adipisicing elit. Dignissimos itaque sit qui atque? Deserunt ullam voluptatum ducimus tempore fugiat sint amet vero repellat omnis totam reiciendis nulla facilis quam cupiditate cum natus voluptates iure quidem esse ex blanditiis doloremque impedit aliquid perspiciatis eaque rem reprehenderit quia. Delectus non pariatur numquam nulla nostrum libero nesciunt explicabo officia similique eaque blanditiis ut.</div>				</div>		  </div> </div>		</div>

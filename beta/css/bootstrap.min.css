@@ -835,7 +835,7 @@ a.thumbnail:hover,a.thumbnail:focus{border-color:#2e5481;-webkit-box-shadow:0 1p
 .accordion-inner{padding:9px 15px;border-top:1px solid #e5e5e5;}
 .carousel{position:relative;margin-bottom:22px;line-height:1;}
 .carousel-inner{overflow:hidden;width:100%;position:relative;}
-.carousel-inner>.item{display:none;position:relative;-webkit-transition:0.6s ease-in-out left;-moz-transition:0.6s ease-in-out left;-o-transition:0.6s ease-in-out left;transition:0.6s ease-in-out left;}.carousel-inner>.item>img,.carousel-inner>.item>a>img{display:block;line-height:1;}
+.carousel-inner>.item{display:none;position:relative;-webkit-transition:0.1s ease-in-out left;-moz-transition:0.1s ease-in-out left;-o-transition:0.1s ease-in-out left;transition:0.1s ease-in-out left;}.carousel-inner>.item>img,.carousel-inner>.item>a>img{display:block;line-height:1;}
 .carousel-inner>.active,.carousel-inner>.next,.carousel-inner>.prev{display:block;}
 .carousel-inner>.active{left:0;}
 .carousel-inner>.next,.carousel-inner>.prev{position:absolute;top:0;width:100%;}

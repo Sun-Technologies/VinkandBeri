@@ -217,7 +217,7 @@
   <div class="tp-banner-container">
 	<div class="tp-banner" >
 	  <ul>
-		<li data-delay="7000" data-transition="fade" data-slotamount="7" data-masterspeed="2000">
+		<li data-delay="15000" data-transition="fade" data-slotamount="7" data-masterspeed="1000">
 		  <div class="elements">
 			<div class="tp-caption lfl"
 			  data-x="140"
@@ -326,7 +326,7 @@
 		  <img src="img/content/slider/rs-slider4-bg.jpg" alt="" data-bgfit="cover" data-bgposition="center top" data-bgrepeat="no-repeat">
 		</li>
 		
-		<li data-delay="7000" data-transition="fade" data-slotamount="7" data-masterspeed="2000">
+		<li data-delay="15000" data-transition="fade" data-slotamount="7" data-masterspeed="1000">
 		  <div class="elements">
 			<div class="tp-caption lfb skewtobottom"
 			  data-x="-20"
@@ -347,7 +347,7 @@
 			  data-start="500"
 			  data-easing="Power4.easeOut"
 			  data-endspeed="400"
-			  data-endeasing="Power1.easeIn">
+			  data-endeasing="Power1.easeIn" style="margin-top: -5%;">
 			  Aloe Vera juice drink with <br>aloe vera pieces
 			</h2>
 			
@@ -358,7 +358,7 @@
 			  data-start="1000"
 			  data-easing="Power4.easeOut"
 			  data-endspeed="400"
-			  data-endeasing="Power1.easeIn">
+			  data-endeasing="Power1.easeIn" style="color: #fff; margin-top: -5%;">
 			  <p>Think of Aloe Vera as inedible? Try our Aloe Vera juice with real<br>
 			   Aloe Vera pieces in it and your opinion will change forever!<br>
 			   With an amazing burst of flavor that you’ll love, we guarantee<br>
@@ -373,7 +373,7 @@
 			  data-start="1400"
 			  data-easing="Power3.easeInOut"
 			  data-endspeed="300"
-			  style="z-index: 5; margin-top: 4%;">
+			  style="z-index: 5; margin-top: -1%;">
 			  Read more
 			</a>
 			
@@ -412,7 +412,7 @@
 		  <img src="img/content/slider/rs-slider1-bg.jpg" alt="" data-bgfit="cover" data-bgposition="center top" data-bgrepeat="no-repeat">
 		</li>
 		
-		<li data-delay="10300" data-transition="fade" data-slotamount="7" data-masterspeed="2000" class="slid2">
+		<li data-delay="15000" data-transition="fade" data-slotamount="7" data-masterspeed="1000" class="slid2">
 		  <div class="elements">
 			<h2 class="tp-caption sft skewtotop title span5"
 			  data-x="100"
@@ -486,7 +486,7 @@
 		  <img src="img/content/slider/rs-slider2-bg.jpg" alt="" data-bgfit="cover" data-bgposition="center top" data-bgrepeat="no-repeat">
 		</li>
 		
-		<li data-delay="8000" data-transition="fade" data-slotamount="7" data-masterspeed="2000">
+		<li data-delay="15000" data-transition="fade" data-slotamount="7" data-masterspeed="1000">
 		  <div class="elements">
 			<div class="tp-caption lfl skewtoleft"
 			  data-x="20"
@@ -592,7 +592,7 @@
 			<div style="border:1px solid #ccc; border-radius:10px; padding:10px;">
 				
 					
-					<p style="color:#000; text-align:left;text-shadow: 0 0px #000000; font-size:14px; min-height: 250px; ">V&amp;B is the US arm of TGI Group, a leading player offering a wide range of nutritious food products in Europe, Asia, Africa, Middle East and the US. V&amp;B is committed to excellence and aims to offer great tasting products without compromising on health benefits.<br>At V&amp;B, we endeavor to present to our consumers an array of exotic products that are high on taste and nutrition. Our products are made using the finest of resources, are environmentallye.....<br><a class="btn btn-link" href="about.php">Read more</a><br></p>
+					<p style="color:#000; text-align:left;text-shadow: 0 0px #000000; font-size:14px; min-height: 250px; ">V&amp;B is the US arm of TGI Group, a leading player offering a wide range of nutritious food products in Europe, Asia, Africa, Middle East and the US. V&amp;B is committed to excellence and aims to offer great tasting products without compromising on health benefits.<br>At V&amp;B, we endeavor to present to our consumers an array of exotic products that are high on taste and nutrition. Our products are made using the finest of resources, are environmentallye.....<br><button type="button" class="btn btn-primary" >Read More...</button><br></p>
 			</div>
 			
 			
