@@ -175,7 +175,7 @@
           ALOR Aloe Vera Juice with Aloe Vera Pieces
         </p>
       </span>
-      <img src="img/content/Untitled-2.png">
+      <img src="img/content/ALORAloeVeraJuicewithAloeVeraPieces1.png">
     </a>
   </div>
 	<div class="one-third">
@@ -185,7 +185,7 @@
           ALOR Orange nector with real mandarin pieces
         </p>
       </span>
-      <img src="img/content/Untitled-6.png">
+      <img src="img/content/ALOROrangenectorwithrealmandarinpieces1.png">
     </a>
   	</div>
     <div class="one-third">
@@ -195,7 +195,7 @@
           ALOR Aloe Vera Pieces in Syrup
         </p>
       </span>
-      <img src="img/content/Untitled-3.png">
+      <img src="img/content/ALORAloeVeraPiecesinSyrup1.png">
     </a>
   	</div>
   	<div class="one-third">
@@ -205,7 +205,7 @@
           ALOR Aloe Vera Coconut Water
         </p>
       </span>
-      <img src="img/content/Untitled-4.png">
+      <img src="img/content/ALORAloeVeraCoconutWater1.png">
     </a>
   	</div>
   	<div class="one-third">
@@ -215,7 +215,7 @@
           ALOR Aloe Vera Coconut Water with Coconut Chunks
         </p>
       </span>
-      <img src="img/content/Untitled-5.png">
+      <img src="img/content/ALORAloeVeraCoconutWaterwithCoconutChunks1.png">
     </a>
   	</div>
   	<div class="one-third">

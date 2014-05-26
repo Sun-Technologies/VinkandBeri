@@ -265,7 +265,7 @@
       </div>
     </div>
     <div class="item">
-    	<img src="img/content/about-slide2.jpg" alt="About V&amp;B slider" style="width: 100%; height: 460px;">
+    	<img src="img/content/about2.jpg" alt="About V&amp;B slider" style="width: 100%; height: 460px;">
       <div class="carousel-caption" style="opacity: 0.6;">
         <h5 style="background: none; color: #fff; text-align:center; opacity: 1.0;">Automation &amp; Integration<br> technology to fit any<br> lifestyle</h6>
       </div>

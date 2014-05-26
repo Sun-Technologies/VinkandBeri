@@ -239,7 +239,7 @@
 		  <div class="span5">
 			<div class="image-box">
 			  <div class="general-img">
-				<img alt="" src="img/content/single-1.png" data-zoom-image="img/content/single-1.png" width="700" height="700">
+				<img alt="" src="img/content/single-3.png" data-zoom-image="img/content/single-3.png" width="700" height="700">
 			  </div><!-- .general-img -->
 			  
 			  <div class="thumblist-box load">
@@ -257,23 +257,23 @@
 				</a>
 				
 				<div id="thumblist" class="thumblist">
-				  <a href="#" data-image="img/content/single-1.png" data-zoom-image="img/content/single-1.png">
-					<img alt="" src="img/content/single-1.png" width="700" height="700">
+				  <a href="#" data-image="img/content/single-3.png" data-zoom-image="img/content/single-3.png">
+					<img alt="" src="img/content/single-3.png" width="700" height="700">
 				  </a>
 				  <a class="active" href="#" data-image="img/content/single-2.png" data-zoom-image="img/content/single-2.png">
 					<img alt="" src="img/content/single-2.png">
 				  </a>
-				  <a href="#" data-image="img/content/single-3.png" data-zoom-image="img/content/single-3.png">
-					<img alt="" src="img/content/single-3.png" width="700" height="700">
-				  </a>
 				  <a href="#" data-image="img/content/single-1.png" data-zoom-image="img/content/single-1.png">
 					<img alt="" src="img/content/single-1.png" width="700" height="700">
+				  </a>
+				  <a href="#" data-image="img/content/single-3.png" data-zoom-image="img/content/single-3.png">
+					<img alt="" src="img/content/single-3.png" width="700" height="700">
 				  </a>
 				  <a href="#" data-image="img/content/single-2.png" data-zoom-image="img/content/single-2.png">
 					<img alt="" src="img/content/single-2.png" width="700" height="700">
 				  </a>
-				  <a href="#" data-image="img/content/single-3.png" data-zoom-image="img/content/single-3.png">
-					<img alt="" src="img/content/single-3.png" width="700" height="700">
+				  <a href="#" data-image="img/content/single-1.png" data-zoom-image="img/content/single-1.png">
+					<img alt="" src="img/content/single-1.png" width="700" height="700">
 				  </a>
 				</div><!-- #thumblist -->
 			  </div><!-- .thumblist -->
