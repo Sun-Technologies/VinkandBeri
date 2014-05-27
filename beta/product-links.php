@@ -86,7 +86,7 @@
 	<div class="clearfix"></div>
   </div>
 </div><!- .banner-set -->
-<style>
+<!--<style>
 * {
   padding: 0;
   margin: 0;
@@ -232,3 +232,105 @@
 
 <br/>
 <hr>
+-->
+<style type="text/css">
+
+.section.shirts ul.products {margin-left: 20px; padding-top: 20px; width: 100%;}
+.section.shirts ul.products li {
+    display: inline-block;
+    list-style: none;
+    border: 1px solid #e3e1e0;
+    -webkit-border-radius: 2px;
+    border-radius: 2px;
+    width: 175px;
+    text-align: center;
+    padding: 17px;
+    background: #f0eeed;
+    margin: 0 0 11px 11px;
+    position: relative;
+    left: -17px;
+}
+.section.shirts ul.products li a {
+    background: white;
+    display: block;
+    padding: 30px 0 10px;
+    text-decoration: none;
+    color: #999;
+    opacity: .9;
+}
+
+.section.shirts ul.products li img {
+    width: 190px;
+}
+.wrapper ul li a p {
+    margin-left: 0;
+    margin-right: 0;
+    width: auto;
+    font-family: 'Oswald', sans-serif;
+}
+
+.shirt-picture {
+    float: left;
+    width: 460px;
+    text-align: center;
+    border: 1px solid #d9d9d9;
+    padding: 14px;
+    background: #f0eeed;    
+}
+.shirt-picture span {
+    background: white;
+    display: block;
+    width: 100%;
+    padding: 36px 0 61px;
+}
+.shirt-picture img {width: 200px;}
+.products li a img:hover {
+   transform: scale(1.1);
+   -ms-transform: scale(1.1); 
+   -webkit-transform: scale(1.1);
+  }
+.shirt-details {
+    width: 460px;
+    float: right;
+}
+</style>
+<div class="section shirts latest">
+
+      <div class="wrapper">
+
+        <ul class="products">
+          <li><a href="#">
+              <img src="img/content/ALORAloeVeraJuicewithAloeVeraPieces1.png">
+              <p>ALOR Aloe Vera Juice with Aloe Vera Pieces</p>
+            </a>
+          </li><li>
+            <a href="#">
+              <img src="img/content/ALOROrangenectorwithrealmandarinpieces1.png">
+              <p>ALOR Orange nector with real mandarin pieces</p>
+            </a>
+          </li><li>
+            <a href="#">
+              <img src="img/content/ALORAloeVeraPiecesinSyrup1.png">
+              <p>ALOR Aloe Vera Pieces in Syrup</p>
+            </a>
+          </li><li>
+            <a href="#">
+              <img src="img/content/ALORAloeVeraCoconutWater1.png">
+              <p>ALOR Aloe Vera Coconut Water</p>
+            </a>
+          </li><li>
+            <a href="#">
+              <img src="img/content/ALORAloeVeraCoconutWaterwithCoconutChunks1.png">
+              <p> ALOR Aloe Vera Coconut Water with Coconut Chunks</p>
+            </a>
+          </li><li>
+            <a href="#">
+              <img src="img/content/almondmilk11.png">
+              <p>ALOR<br> Almond Milk</p>
+              </a>
+          </li>               
+        </ul>
+
+      </div>
+
+    </div>
