@@ -235,7 +235,7 @@
 -->
 <style type="text/css">
 
-.section.shirts ul.products {margin-left: 20px; padding-top: 20px; width: 100%; max-height: 200px; margin-bottom: 5%;}
+.section.shirts ul.products {margin-left: 20px; padding-top: 20px; width: 100%;}
 .section.shirts ul.products li {
     display: inline-block;
     list-style: none;
@@ -321,7 +321,7 @@
           </li><li>
             <a href="ALOR_coconut_water_chunks.php">
               <img src="img/content/ALORAloeVeraCoconutWaterwithCoconutChunks1.png">
-              <p> ALOR Aloe Vera Coconut Water with Coconut Chunks</p>
+              <p style="font-size: 13px;"> ALOR Aloe Vera Coconut Water with Coconut Chunks</p>
             </a>
           </li><li>
             <a href="ALOR_almond_milk.php">
