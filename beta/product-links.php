@@ -235,7 +235,7 @@
 -->
 <style type="text/css">
 
-.section.shirts ul.products {margin-left: 20px; padding-top: 20px; width: 100%;}
+.section.shirts ul.products {margin-left: 20px; padding-top: 20px; width: 100%; max-height: 200px; margin-bottom: 5%;}
 .section.shirts ul.products li {
     display: inline-block;
     list-style: none;
@@ -299,32 +299,32 @@
       <div class="wrapper">
 
         <ul class="products">
-          <li><a href="#">
+          <li><a href="products.php">
               <img src="img/content/ALORAloeVeraJuicewithAloeVeraPieces1.png">
               <p>ALOR Aloe Vera Juice with Aloe Vera Pieces</p>
             </a>
           </li><li>
-            <a href="#">
+            <a href="ALOR_orange_mandarin_pieces.php">
               <img src="img/content/ALOROrangenectorwithrealmandarinpieces1.png">
               <p>ALOR Orange nector with real mandarin pieces</p>
             </a>
           </li><li>
-            <a href="#">
+            <a href="ALOR_aloevera_chunks.php">
               <img src="img/content/ALORAloeVeraPiecesinSyrup1.png">
               <p>ALOR Aloe Vera Pieces in Syrup</p>
             </a>
           </li><li>
-            <a href="#">
+            <a href="ALOR_aloevera_coconut_water.php">
               <img src="img/content/ALORAloeVeraCoconutWater1.png">
               <p>ALOR Aloe Vera Coconut Water</p>
             </a>
           </li><li>
-            <a href="#">
+            <a href="ALOR_coconut_water_chunks.php">
               <img src="img/content/ALORAloeVeraCoconutWaterwithCoconutChunks1.png">
               <p> ALOR Aloe Vera Coconut Water with Coconut Chunks</p>
             </a>
           </li><li>
-            <a href="#">
+            <a href="ALOR_almond_milk.php">
               <img src="img/content/almondmilk11.png">
               <p>ALOR<br> Almond Milk</p>
               </a>
