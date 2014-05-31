@@ -238,7 +238,7 @@
 		  <div class="span5">
 			<div class="image-box">
 			  <div class="general-img">
-				<img alt="" src="img/content/Orange-nector.jpg" data-zoom-image="img/content/Orange-nector.jpg" width="700" height="700">
+				<img alt="" src="img/content/ALOR_orange_mandarin_pieces.jpg" data-zoom-image="img/content/ALOR_orange_mandarin_pieces.jpg" width="700" height="700">
 			  </div><!-- .general-img -->
 			  
 			  <div class="thumblist-box load">
@@ -256,8 +256,8 @@
 				</a>
 				
 				<div id="thumblist" class="thumblist">
-				  <a href="#" data-image="img/content/Orange-nector.jpg" data-zoom-image="img/content/Orange-nector.jpg">
-					<img alt="" src="img/content/Orange-nector.jpg" width="700" height="700">
+				  <a href="#" data-image="img/content/ALOR_orange_mandarin_pieces.jpg" data-zoom-image="img/content/ALOR_orange_mandarin_pieces.jpg">
+					<img alt="" src="img/content/ALOR_orange_mandarin_pieces.jpg" width="700" height="700">
 				  </a>
 				  <a class="active" href="#" data-image="img/content/Orange-nector-2.jpg" data-zoom-image="img/content/Orange-nector-2.jpg">
 					<img alt="" src="img/content/Orange-nector-2.jpg">
@@ -265,8 +265,8 @@
 				  <a href="#" data-image="img/content/Orange-nector-3.jpg" data-zoom-image="img/content/Orange-nector-3.jpg">
 					<img alt="" src="img/content/Orange-nector-3.jpg" width="700" height="700">
 				  </a>
-				  <a href="#" data-image="img/content/Orange-nector.jpg" data-zoom-image="img/content/Orange-nector.jpg">
-					<img alt="" src="img/content/Orange-nector.jpg" width="700" height="700">
+				  <a href="#" data-image="img/content/ALOR_orange_mandarin_pieces.jpg" data-zoom-image="img/content/ALOR_orange_mandarin_pieces.jpg">
+					<img alt="" src="img/content/ALOR_orange_mandarin_pieces.jpg" width="700" height="700">
 				  </a>
 				  <a href="#" data-image="img/content/Orange-nector-2.jpg" data-zoom-image="img/content/Orange-nector-2.jpg">
 					<img alt="" src="img/content/Orange-nector-2.jpg" width="700" height="700">

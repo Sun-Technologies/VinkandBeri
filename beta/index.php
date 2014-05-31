@@ -311,7 +311,7 @@
 			   to give you many nourishing health benefits.</p>
 			</div>
 
-			<a href="#" class="btn cherry tp-caption lfb"
+			<a href="products.php" class="btn cherry tp-caption lfb"
 			  data-x="722"
 			  data-y="332"
 			  data-speed="1000"
@@ -365,7 +365,7 @@
 			   you will get addicted to it – it’s that good!</p>
 			</div>
 
-			<a href="#" class="btn tp-caption customin cherry"
+			<a href="ALOR_aloevera_chunks.php" class="btn tp-caption customin cherry"
 			  data-x="500"
 			  data-y="400"
 			  data-customin="x:0;y:0;z:0;rotationX:0;rotationY:0;rotationZ:0;scaleX:0;scaleY:0;skewX:0;skewY:0;opacity:0;transformPerspective:600;transformOrigin:50% 50%;"
@@ -439,7 +439,7 @@
 			   vitamins and amino acids.</p>
 			</div>
 
-			<a href="#" class="btn btn-primary tp-caption customin"
+			<a href="ALOR_orange_mandarin_pieces.php" class="btn btn-primary tp-caption customin"
 			  data-x="100"
 			  data-y="342"
 			  data-customin="x:0;y:0;z:0;rotationX:0;rotationY:0;rotationZ:0;scaleX:0;scaleY:0;skewX:0;skewY:0;opacity:0;transformPerspective:600;transformOrigin:50% 50%;"
@@ -541,7 +541,7 @@
 			   and minerals, it’ll also give you all the hydration you need.</p>
 			</div>
 
-			<a href="#" class="tp-caption btn orang lfb skewtobottom"
+			<a href="ALOR_coconut_water_chunks.php" class="tp-caption btn orang lfb skewtobottom"
 			  data-x="509"	
 			  data-y="358"
 			  data-speed="1000"

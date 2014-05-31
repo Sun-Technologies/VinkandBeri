@@ -235,20 +235,14 @@
 -->
 <style type="text/css">
 
-.section.shirts ul.products {margin-left: 20px; padding-top: 20px; width: 100%;}
+.section.shirts ul.products {margin: 1.5%; width: 100%; height: 220px;}
 .section.shirts ul.products li {
     display: inline-block;
     list-style: none;
-    border: 1px solid #e3e1e0;
-    -webkit-border-radius: 2px;
-    border-radius: 2px;
     width: 175px;
     text-align: center;
-    padding: 17px;
-    background: #f0eeed;
-    margin: 0 0 11px 11px;
+    padding: 23px;
     position: relative;
-    left: -17px;
 }
 .section.shirts ul.products li a {
     background: white;
@@ -273,7 +267,6 @@
     float: left;
     width: 460px;
     text-align: center;
-    border: 1px solid #d9d9d9;
     padding: 14px;
     background: #f0eeed;    
 }
@@ -284,11 +277,6 @@
     padding: 36px 0 61px;
 }
 .shirt-picture img {width: 200px;}
-.products li a img:hover {
-   transform: scale(1.1);
-   -ms-transform: scale(1.1); 
-   -webkit-transform: scale(1.1);
-  }
 .shirt-details {
     width: 460px;
     float: right;
@@ -300,32 +288,32 @@
 
         <ul class="products">
           <li><a href="products.php">
-              <img src="img/content/ALORAloeVeraJuicewithAloeVeraPieces1.png">
+              <img src="img/content/ALORAloeVeraJuicewithAloeVeraPieces1.jpg">
               <p>ALOR Aloe Vera Juice with Aloe Vera Pieces</p>
             </a>
           </li><li>
             <a href="ALOR_orange_mandarin_pieces.php">
-              <img src="img/content/ALOROrangenectorwithrealmandarinpieces1.png">
+              <img src="img/content/ALOROrangenectorwithrealmandarinpieces1.jpg">
               <p>ALOR Orange nector with real mandarin pieces</p>
             </a>
           </li><li>
             <a href="ALOR_aloevera_chunks.php">
-              <img src="img/content/ALORAloeVeraPiecesinSyrup1.png">
+              <img src="img/content/ALORAloeVeraPiecesinSyrup1.jpg">
               <p>ALOR Aloe Vera Pieces in Syrup</p>
             </a>
           </li><li>
             <a href="ALOR_aloevera_coconut_water.php">
-              <img src="img/content/ALORAloeVeraCoconutWater1.png">
+              <img src="img/content/ALORAloeVeraCoconutWater1.jpg">
               <p>ALOR Aloe Vera Coconut Water</p>
             </a>
           </li><li>
             <a href="ALOR_coconut_water_chunks.php">
-              <img src="img/content/ALORAloeVeraCoconutWaterwithCoconutChunks1.png">
+              <img src="img/content/ALORAloeVeraCoconutWaterwithCoconutChunks1.jpg">
               <p style="font-size: 13px;"> ALOR Aloe Vera Coconut Water with Coconut Chunks</p>
             </a>
           </li><li>
             <a href="ALOR_almond_milk.php">
-              <img src="img/content/almondmilk11.png">
+              <img src="img/content/almond-milk.jpg">
               <p>ALOR<br> Almond Milk</p>
               </a>
           </li>               
@@ -334,3 +322,141 @@
       </div>
 
     </div>
+
+  <!--
+<style type="text/css">
+.productnavs li {
+  display: inline-block;
+  width: 20%;
+}
+.image-caption p {
+  width: 150px;
+  text-align: center;
+}
+.productnavs li img {
+  width: 200px;
+  height: 200px;
+}
+</style>
+<div class="wrapper">
+
+        <ul class="productnavs">
+          <li>
+              <figure>
+              <a href="products.php">
+              <img src="img/content/ALORAloeVeraJuicewithAloeVeraPieces1.png">
+              <figcaption class="image-caption">
+              <p>ALOR Aloe Vera Juice with Aloe Vera Pieces</p>
+              </figcaption>
+              </a>
+              </figure>
+          </li><li>
+              <figure>
+              <a href="ALOR_orange_mandarin_pieces.php">
+              <img src="img/content/ALOROrangenectorwithrealmandarinpieces1.png">
+              <figcaption class="image-caption">
+              <p>ALOR Orange nector with real mandarin pieces</p>
+              </figcaption>
+            </a>
+            </figure>
+          </li><li>
+              <figure>
+              <a href="ALOR_aloevera_chunks.php">
+              <img src="img/content/ALORAloeVeraPiecesinSyrup1.png">
+              <figcaption class="image-caption">
+              <p>ALOR Aloe Vera Pieces in Syrup</p>
+              </figcaption>
+            </a>
+            </figure>
+          </li><li>
+              <figure>
+              <a href="ALOR_aloevera_coconut_water.php">
+              <img src="img/content/ALORAloeVeraCoconutWater1.png">
+              <figcaption class="image-caption">
+              <p>ALOR Aloe Vera Coconut Water</p>
+              </figcaption>
+            </a>
+            </figure>
+          </li><li>
+              <figure>
+              <a href="ALOR_coconut_water_chunks.php">
+              <img src="img/content/ALORAloeVeraCoconutWaterwithCoconutChunks1.jpg">
+              <figcaption class="image-caption">
+              <p style=""> ALOR Aloe Vera Coconut Water with Coconut Chunks</p>
+              </figcaption>
+            </a>
+            <figure>
+          </li><li>
+              <figure>
+              <a href="ALOR_almond_milk.php">
+              <img src="img/content/almond-milk.jpg" style="width: 200px;">
+              <figcaption class="image-caption">
+              <p>ALOR<br> Almond Milk</p>
+              </figcaption>
+              </a>
+            </figure>
+          </li>               
+        </ul>
+
+      </div>
+
+<!-
+                    <div class="imagearea">                    
+                    <ul class="productnavs"> 
+<li><a href="#" class="">
+                                <figure>
+                                                <img title="JELLY" 
+                                                alt="Vaseline Jelly" 
+                                                src="img/content/almond-milk.jpg">
+                                                </figure>
+                                            <p class="visible-xs" style="text-align: center;"><span>VASELINE&#174;</span>JELLY
+                                            </p>
+                            </a></li>
+<li class="col-lg-2 col-md-2 col-sm-2 col-xs-2"><a href="http://www.vaseline.us/product/category/intensive-care.html" class="">
+                                <figure>
+                                                <img title="INTENSIVE CARE™" 
+                                                alt=" Vaseline Intensive Care" 
+                                                src="http://www.vaseline.us/Resources/Images/menu_intensiveCareCategoryButton_tcm2571-777457.png">
+                                                </figure>
+                                            <p class="visible-xs" style="text-align: center;"><span>VASELINE&#174;</span>INTENSIVE CARE™
+                                            </p>
+                            </a></li>
+<li class="col-lg-2 col-md-2 col-sm-2 col-xs-2"><a href="http://www.vaseline.us/product/category/lip-therapy.html" class="">
+                                <figure>
+                                                <img title="LIP THERAPY&#174;" 
+                                                alt="Vaseline Lip Therapy" 
+                                                src="http://www.vaseline.us/Resources/Images/menu_lipsCategoryButton_tcm1504-214796_tcm2571-777462.png">
+                                              </figure>
+                                            <p class="visible-xs" style="text-align: center;"><span>VASELINE&#174;</span>LIP THERAPY&#174;
+                                            </p>
+                            </a></li>
+<li class="col-lg-2 col-md-2 col-sm-2 col-xs-2"><a href="http://www.vaseline.us/product/category/men.html" class="">
+                                <figure>
+                                                <img title="MEN" 
+                                                alt="Vaseline Men" 
+                                                src="http://www.vaseline.us/Resources/Images/menu_menCategoryButton_tcm2571-777466.png">
+                                                </figure>
+                                            <p class="visible-xs" style="text-align: center;"><span>VASELINE&#174;</span>MEN
+                                            </p>
+                            </a></li>
+<li class="col-lg-2 col-md-2 col-sm-2 col-xs-2"><a href="http://www.vaseline.us/product/category/men.html" class="">
+                                <figure>
+                                                <img title="MEN" 
+                                                alt="Vaseline Men" 
+                                                src="http://www.vaseline.us/Resources/Images/menu_menCategoryButton_tcm2571-777466.png">
+                                                </figure>
+                                            <p class="visible-xs" style="text-align: center;"><span>VASELINE&#174;</span>MEN
+                                            </p>
+                            </a></li>
+<li class="col-lg-2 col-md-2 col-sm-2 col-xs-2"><a href="http://www.vaseline.us/product/category/men.html" class="">
+                                <figure>
+                                                <img title="MEN" 
+                                                alt="Vaseline Men" 
+                                                src="http://www.vaseline.us/Resources/Images/menu_menCategoryButton_tcm2571-777466.png">
+                                                </figure>
+                                            <p class="visible-xs" style="text-align: center;"><span>VASELINE&#174;</span>MEN
+                                            </p>
+                            </a></li>
+                         </ul>
+                </div>
+                -->
