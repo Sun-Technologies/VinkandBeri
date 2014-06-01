@@ -235,7 +235,7 @@
 -->
 <style type="text/css">
 
-.section.shirts ul.products {margin: 1.5%; width: 100%; height: 220px;}
+.section.shirts ul.products {margin: 0%; width: 100%; height: 280px; background: #f4801b;}
 .section.shirts ul.products li {
     display: inline-block;
     list-style: none;
@@ -245,14 +245,14 @@
     position: relative;
 }
 .section.shirts ul.products li a {
-    background: white;
+    background: #f4801b;
     display: block;
     padding: 30px 0 10px;
     text-decoration: none;
-    color: #999;
-    opacity: .9;
+    color: #fff;
+    opacity: 1.0;
+    border-right: 4px solid green;
 }
-
 .section.shirts ul.products li img {
     width: 190px;
 }
@@ -271,16 +271,25 @@
     background: #f0eeed;    
 }
 .shirt-picture span {
-    background: white;
     display: block;
     width: 100%;
     padding: 36px 0 61px;
 }
-.shirt-picture img {width: 200px;}
+.shirt-picture img {width: 200px; background: transparent;}
 .shirt-details {
     width: 460px;
     float: right;
 }
+@media (max-width: 480px) {
+   .wrapper {
+      height: 650px;
+    }
+  }
+@media (max-width: 320px) {
+   .wrapper {
+      height: 1550px;
+    }
+  }
 </style>
 <div class="section shirts latest">
 

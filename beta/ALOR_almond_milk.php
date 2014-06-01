@@ -193,6 +193,16 @@
 	.slider .slid-content{
 	  color: #fff;
 	}
+	@media (max-width: 1024px) {
+    #main {
+      margin-top: 25%;
+    }
+  }
+  @media (max-width: 768px) {
+ 	 #main {
+      margin-top: 35%;
+    }
+  }
 	.product .product-hover ul li {
 	  background-image: url("img/svg/check-icon-white.svg"), none;
 	}

@@ -88,6 +88,7 @@
 	.rotation .employee-hover {
       background-color: #008644;
     }
+
     .btn:hover,
     .btn:focus,
     .btn:active,
@@ -196,7 +197,17 @@
 	.product .product-hover ul li {
 	  background-image: url("img/svg/check-icon-white.svg"), none;
 	}
-  </style>
+	@media (max-width: 1024px) {
+	#main {
+    	margin-top: 25%;
+    }
+	}
+	@media (max-width: 768px) {
+ 	 #main {
+      margin-top: 35%;
+    }
+  }
+   </style>
   
   <!--[if IE]>
 	<link rel='stylesheet' href="css/ie/ie.css">
