@@ -1317,6 +1317,11 @@ zoom: 1;
        url('../fonts/revicons90c6-2.html?5510888') format('woff'),
        url('../fonts/revicons90c6-3.html?5510888') format('truetype'),
        url('../fonts/revicons90c6.svg?5510888#revicons') format('svg');
+  src: url('../fonts/revicons90c6.eot');
+  src: url('../fonts/revicons90c6.eot#iefix') format('embedded-opentype'),
+       url('../fonts/revicons90c6.woff') format('woff'),
+       url('../fonts/revicons90c6.tff') format('truetype'),
+       url('../fonts/revicons90c6.svg#revicons') format('svg');
   font-weight: normal;
   font-style: normal;
 }

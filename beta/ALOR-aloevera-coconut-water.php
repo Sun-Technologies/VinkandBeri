@@ -218,7 +218,7 @@
     <ul class="breadcrumb">
       <li><a href="index.php">Home</a> <span class="divider">/</span></li>
       <li><a href="products.php">Products</a> <span class="divider">/</span></li>
-      <li class="active">ALOR Aloe Vera Coconut Water</li>
+      <li class="active">ALOR Coconut Water</li>
     </ul>	
   </div>
 </div><!-- .breadcrumb-box -->
@@ -227,7 +227,7 @@
 <div id="main" class="page">
   <header class="page-header">
     <div class="container">
-      <h1 class="title">ALOR Aloe Vera Coconut Water</h1>
+      <h1 class="title">ALOR Coconut Water</h1>
     </div>	
   </header>
   

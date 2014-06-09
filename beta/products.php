@@ -1,7 +1,7 @@
 <!DOCTYPE html>
 <html>
 <head>
-  <title>Vink &amp; Beri LLC | ALOR Aloe Vera Juice</title>
+  <title>Vink &amp; Beri LLC | ALOR Aloe Vera Juice Drink with Aloe Vera Pieces</title>
   <meta class="viewport" name="viewport" content="width=device-width, initial-scale=1.0">
   <meta charset="utf-8">
   <meta content="Vink &amp; Beri LLC (V&amp;B) is US arm of TGI group. TGI Group is one of the most respected groups and has businesses in 11 countries in Africa, Europe, Asia and Middle East besides US. TGI is the leading player in food products in African Continent. TGI has interest in production and trading of Commodities like Cotton, Insecticides, Sesame seeds and bulk Chemicals besides Pharmaceuticals, Deep Sea Fishing and as a support company to the majors companies in Deep Sea Oil Drilling.VINK &amp; BERI LLC Company makes and sells branded plant-based foods and beverages, and premium dairy products throughout North America and Europe. And we do it in a way that's unlike any company in our industry. " name="keywords">
@@ -21,6 +21,7 @@
   <link rel='stylesheet' href="css/style.css">
   <link rel='stylesheet' href="css/responsive.css">
   <link rel='stylesheet' href="css/pages.css">
+  <link rel='stylesheet' href="css/about-us-slider.css">
     
   <style>
 	#top-box,
@@ -229,7 +230,7 @@
     <ul class="breadcrumb">
       <li><a href="index.php">Home</a> <span class="divider">/</span></li>
       <li><a href="products.php">Products</a> <span class="divider">/</span></li>
-      <li class="active">ALOR Aloe Vera Juice with Aloe Vera Pieces</li>
+      <li class="active">ALOR Aloe Vera Juice Drink with Aloe Vera Pieces</li>
     </ul>	
   </div>
 </div><!-- .breadcrumb-box -->
@@ -239,7 +240,7 @@
 <div id="main" class="page">
   <header class="page-header">
     <div class="container">
-      <h1 class="title">ALOR Aloe Vera Juice with Aloe Vera Pieces</h1>
+      <h1 class="title">ALOR Aloe Vera Juice Drink with Aloe Vera Pieces</h1>
     </div>	
   </header>
   
@@ -307,7 +308,7 @@
 			
 			<h3>Nutrition Facts</h3>
 			 
-			<img width="300" align="right" src="img/content/Facts.png" alt="" style="margin-top:-120px;">
+			<img width="300" align="right" src="img/content/nutrition-1.png" alt="" style="margin-top:-120px;">
 			
 			
 			

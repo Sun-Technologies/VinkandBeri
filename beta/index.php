@@ -10,8 +10,8 @@
   <link rel='stylesheet' href="css/docs.css">
   <link rel='stylesheet' href="css/buttons/social-icons.css">
   <link rel='stylesheet' href="css/buttons/animation.css">
-  <link rel='stylesheet' href="css/font-awesome.min.css">
   <link rel='stylesheet' href="css/bootstrap.min.css">
+  <link rel='stylesheet' href="css/font-awesome.min.css">
   <link rel='stylesheet' href="css/jslider.css">
   <link rel='stylesheet' href="css/settings.css">
   <link rel='stylesheet' href="css/jquery.fancybox.css">
@@ -307,8 +307,12 @@
 			  data-easing="Power4.easeOut"
 			  data-endspeed="500"
 			  data-endeasing="Power1.easeIn">
-			  <p>Our products are delicious and packed with nutrients<br>
-			   to give you many nourishing health benefits.</p>
+			  <p>Our products are delicious and packed with nutrients <br>
+			  to give you many nourishing health benefits. <br>
+			  Say yes to the natural, tasty and refreshing  <br>
+			  products of ALOR! <br>
+			  Just taste, enjoy and fall in love!<br>
+			  </p>
 			</div>
 
 			<a href="products.php" class="btn cherry tp-caption lfb"
@@ -341,8 +345,8 @@
 			</div>
 
 			<h2 class="tp-caption sft skewtotop title span5"
-			  data-x="500"
-			  data-y="220"
+			  data-x="430"
+			  data-y="180"
 			  data-speed="1000"
 			  data-start="500"
 			  data-easing="Power4.easeOut"
@@ -353,21 +357,29 @@
 			
 			<div class="tp-caption lfr skewtoright description span6"
 			  data-x="500"
-			  data-y="340"
+			  data-y="300"
 			  data-speed="1000"
 			  data-start="1000"
 			  data-easing="Power4.easeOut"
 			  data-endspeed="400"
 			  data-endeasing="Power1.easeIn" style="color: #fff; margin-top: -5%;">
-			  <p>Think of Aloe Vera as inedible? Try our Aloe Vera juice with real<br>
+			  <p>
+			  ALOR Vera Juice Drink offers an amazing burst of flavor <br>
+			  that’ll make you instantly fall in love with it!<br>
+			  Our juice is lusciously scrumptious and has <br>
+			  the goodness of real Aloe Vera pieces in it. <br>
+			  Taste a sip and you can’t resist – guaranteed. <br>
+			  It’s that good! <br>
+			  </p>
+			  <!-- <p>Think of Aloe Vera as inedible? Try our Aloe Vera juice with real<br>
 			   Aloe Vera pieces in it and your opinion will change forever!<br>
 			   With an amazing burst of flavor that you’ll love, we guarantee<br>
-			   you will get addicted to it – it’s that good!</p>
+			   you will get addicted to it – it’s that good!</p> -->
 			</div>
 
 			<a href="ALOR_aloevera_chunks.php" class="btn tp-caption customin cherry"
 			  data-x="500"
-			  data-y="400"
+			  data-y="420"
 			  data-customin="x:0;y:0;z:0;rotationX:0;rotationY:0;rotationZ:0;scaleX:0;scaleY:0;skewX:0;skewY:0;opacity:0;transformPerspective:600;transformOrigin:50% 50%;"
 			  data-speed="1200"
 			  data-start="1400"
@@ -433,15 +445,22 @@
 			  data-easing="Power4.easeOut"
 			  data-endspeed="400"
 			  data-endeasing="Power1.easeIn">
-			  <p>Our lip-smacking Orange Nectar Juice is made from<br>
+			  <p>
+			  Our lip-smacking ALOR Orange Nectar Juice is made using<br> 
+			  Brazilian oranges and contains Mandarin pieces from the<br>
+			  famous Jeju Island of South Korea, well known for their<br>
+			  exceptional taste and healthy dose of natural minerals,<br> 
+			  vitamins and amino acids. 
+			  </p>
+			 <!--  <p>Our lip-smacking Orange Nectar Juice is made from<br>
 			   Brazilian oranges and contains Jeju Island orange pieces<br>
 			   for that exceptional taste and a healthy dose of natural minerals,<br>
-			   vitamins and amino acids.</p>
+			   vitamins and amino acids.</p> -->
 			</div>
 
 			<a href="ALOR_orange_mandarin_pieces.php" class="btn btn-primary tp-caption customin"
 			  data-x="100"
-			  data-y="342"
+			  data-y="382"
 			  data-customin="x:0;y:0;z:0;rotationX:0;rotationY:0;rotationZ:0;scaleX:0;scaleY:0;skewX:0;skewY:0;opacity:0;transformPerspective:600;transformOrigin:50% 50%;"
 			  data-speed="1200"
 			  data-start="1000"
@@ -501,7 +520,7 @@
 			  <img src="img/content/slider/rs-slider3-pig.png" alt="">
 			</div>
 			
-			<div class="tp-caption lfl skewtoleft"
+			<!-- <div class="tp-caption lfl skewtoleft"
 			  data-x="left"
 			  data-hoffset="-127"
 			  data-y="bottom"
@@ -512,7 +531,7 @@
 			  data-endeasing="Power1.easeIn"
 			  style="z-index: 3">
 			  <img src="img/content/slider/rs-slider3-pig2.png" alt="">
-			</div>
+			</div> -->
 
 			<h2 class="tp-caption lft skewtotop title span6"
 			  data-x="509"
@@ -536,9 +555,15 @@
 			  data-easing="Back.easeInOut"
 			  data-endspeed="400"
 			  data-endeasing="Power1.easeIn">
-			  <p> Is it water or is it juice? It’s both! Enjoy the exotic taste of tasty coconuts<br>
+			  <p>
+			  Is it water or a juice? It’s both! Enjoy the exotic taste of appetizing<br> 
+			  ALOR Coconut Water and bite into its chunks as you sip.<br> 
+			  Enriched with potassium, electrolytes and minerals,<br> 
+			  it’s divinely refreshing and flavorful!<br>
+			  </p>
+			  <!-- <p> Is it water or is it juice? It’s both! Enjoy the exotic taste of tasty coconuts<br>
 			   and bite into its chunks as you go. Enriched with potassium, electrolytes<br>
-			   and minerals, it’ll also give you all the hydration you need.</p>
+			   and minerals, it’ll also give you all the hydration you need.</p> -->
 			</div>
 
 			<a href="ALOR_coconut_water_chunks.php" class="tp-caption btn orang lfb skewtobottom"
@@ -590,9 +615,15 @@
 			</div>
 			<h4 class="title">More on V&amp;B</h4>
 			<div style="border:1px solid #ccc; border-radius:10px; padding:10px;">
-				
-					
-					<p style="color:#000; text-align:left;text-shadow: 0 0px #000000; font-size:14px; min-height: 250px; ">V&amp;B is the US arm of TGI Group, a leading player offering a wide range of nutritious food products in Europe, Asia, Africa, Middle East and the US. V&amp;B is committed to excellence and aims to offer great tasting products without compromising on health benefits.<br>At V&amp;B, we endeavor to present to our consumers an array of exotic products that are high on taste and nutrition. Our products are made using the finest of resources, are environmentallye.....<br><button type="button" class="btn btn-primary" >Read More...</button><br></p>
+				<p style="color:#000; text-align:left;text-shadow: 0 0px #000000; 
+				font-size:14px; min-height: 250px; ">
+				V&amp;B is the US arm of TGI Group, a leading player offering 
+				a wide range of nutritious food products in Europe, Asia, Africa, 
+				Middle East and the US. V&amp;B is committed to excellence and 
+				aims to offer great tasting products without compromising on 
+				health benefits.<br><br><br>
+				<button type="button" class="btn btn-primary" >Read More...</button><br>
+				</p>
 			</div>
 			
 			
@@ -623,7 +654,7 @@
 			-->
 			</div>
 		<h4 class="title">Sales &amp; Promotions</h4>
-			<div>
+			<div style="border:1px solid #ccc; border-radius:10px; padding:10px;">
 				<!--<a class="work">-->
 					<img width="370" height="270" alt="" src="img/content/portfolio-3.jpg">
 					<!--<span class="shadow"></span>
@@ -667,8 +698,8 @@
 				</div>-->
 			</div>
 			<h4 class="title">Recent Tweetes</h4>
-			<div>
-				<a class="work">
+			<div style="border:1px solid #ccc; border-radius:10px; padding:10px;">
+				<!-- <a href="#"> -->
 					<img width="370" height="270" alt="" src="img/content/portfolio-6.jpg">
 					<!--<span class="shadow"></span>
 					<div class="bg-hover"></div>
@@ -676,7 +707,7 @@
 					<h3 class="title">Sample Headline goes here</h3>
 					<div class="description">vink & beri</div>
 					</div>-->
-				</a>
+				<!-- </a> -->
 				<!--<br>
 				<div data-appear-animation="bounceInLeft" class="text-small appear-animation bounceInLeft appear-animation-visible">
 					<a href="#">Follow us on Twitter</a>
@@ -694,10 +725,11 @@
 		<div class="clearfix"></div><br>
 		
   <div class="container">
-   <div class="row">		
-		
+  
+   <div class="row" name="ads">		
+		<a id="ads">
 		<h4 class="title">Our Ads</h4>
-		
+		</a>
 		<div class="tabs tabs-left">			
 		<ul class="nav nav-tabs">	
 		<li><h6>Choose Commercials</h6></li>
@@ -727,7 +759,7 @@
 		</div>				
 		</div>			  
 		</div>			  			  
-		
+	
 	<div id="features2" class="tab-pane fade">								
 	<div class="text-small features-block">				  
 	<div class="header-box">

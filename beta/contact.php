@@ -224,7 +224,7 @@
 <section id="main">
   <header class="page-header">
     <div class="container">
-      <h1 class="title">Contacts Us</h1>
+      <h1 class="title">Contact Us</h1>
     </div>  
   </header>
   <div class="container">
@@ -277,8 +277,6 @@
         </address>
       </div>
       <hr>
-      <p>Fusce odio ante, consectetur nec dictum at, cursus congue orci. Donec vel tellus eget massa lacinia pulvinar ut eu lectus. Quisque elit augue, gravida sit amet egestas quis, vehicula nec magna. Vivamus nec nulla magna, et fringilla arcu. Sed ac quam at elit feugiat semper eu at nulla. Morbi vel urna non massa faucibus mollis.</p>
-      <p>Phasellus vulputate, lectus eu consequat scelerisque, felis odio consequat enim, ut vulputate elit lacus nec ipsum. Vivamus non sollicitudin eros. Nunc ut pulvinar felis. Ut lectus orci, cursus ac semper nec, lobortis nec urna. </p>
       </div>
 
       <div class="span12 map-box">      <iframe src="https://www.google.com/maps/embed?pb=!1m14!1m8!1m3!1d3046.386408072668!2d-75.2255!3d40.22271!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x89c6a469f12b71c7%3A0x47e745cfdb29cab9!2s140+Domorah+Dr!5e0!3m2!1sen!2sin!4v1395740924493" height="270" frameborder="0" style="border:0"></iframe>     </div>

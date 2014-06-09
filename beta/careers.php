@@ -229,14 +229,21 @@
     <div class="row">
       <article class="content span12">
 		<div class="row">
+		  
 		  <div class="span6">
+			<h1>Career opportunities</h1>
+			<p>Your Future Starts here. If you are a self motivated, 
+			passionate and willing to share our enthusiasm, you are at the right place. 
+			Vink and Beri is committed to providing employees with the right 
+			career path and ample opportunities. Our talented employees are very 
+			eager to shape, grow and transform the food industry.</p>
+			<p>Vink and Beri LLC is an equal opportunity employer and will not 
+			discriminate against any applicant or employee on any grounds protected under federal, 
+			state or local law, including race, color, creed, religion, age, sex, 
+			national origin, ancestry or disability.</p>
+		</div>
+		<div class="span6">
 			<img src="img/content/Career.jpg" width="100%" alt="">
-		  </div>
-		  <div class="span6">
-			<h6>About Vink and beri career opportunities</h6>
-			<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Curabitur nec posuere odio. Phasellus odio lectus, ultrices non pretium ac, mollis id elit. Fusce tempor tellus non felis tempus vestibulum.</p>
-			<p>Suspendisse eu metus lectus, at semper quam. Sed lacus nisi, mattis at ullamcorper et, porttitor malesuada orci. Duis lorem diam, dapibus vel fringilla vel, pellentesque ut lectus.</p>
-			<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Curabitur nec posuere odio. Phasellus odio lectus, ultrices non pretium ac, mollis id elit. Fusce tempor tellus non felis tempus vestibulum.</p>
 		  </div>
 		</div> <br><br>
 		

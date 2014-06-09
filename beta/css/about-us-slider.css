@@ -1,0 +1,19 @@
+#about-slider {
+	text-align:center ;
+	background-color: #FB7F00;
+	color: #fff;
+}
+
+#about-slider a  {
+	color: #fff; 
+}
+
+
+.tp-banner{
+   width:100% !important;
+   position:relative;
+   padding:0;
+   max-height:500px !important;  // Same value as in OPTIONS the <strong>startheight</strong> parameter
+   overflow:hidden;
+   height: 500px;
+}

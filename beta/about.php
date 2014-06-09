@@ -20,6 +20,8 @@
   <link rel='stylesheet' href="css/style.css">
   <link rel='stylesheet' href="css/responsive.css">
   <link rel='stylesheet' href="css/pages.css">
+  <link rel='stylesheet' href="css/about-us-slider.css">
+  <link href="http://fonts.googleapis.com/css?family=Open+Sans:400,300" rel="stylesheet" type="text/css">
     
   <style>
 	#top-box,
@@ -220,67 +222,7 @@
     </ul>	
   </div>
 </div><!-- .breadcrumb-box -->
-<!--
-<div id="carousel-example-generic" class="carousel slide" data-ride="carousel">
-  <ol class="carousel-indicators">
-    <li data-target="#carousel-example-generic" data-slide-to="0" class="active"></li>
-    <li data-target="#carousel-example-generic" data-slide-to="1"></li>
-    <li data-target="#carousel-example-generic" data-slide-to="2"></li>
-  </ol>
-<div class="carousel-inner">
-    <div class="item active">
-      <img src="img/content/about-slide1.jpg" alt="About V&amp;B slider" style="width: 100%; height: 460px;">
-      <div class="carousel-caption" style="opacity: 0.6;">
-        <h5 style="background: none; color: #fff; text-align:center; opacity: 1.0;">Integration &amp; Automation<br> technology to fit any<br> lifestyle</h5>
-      </div>
-    </div>
-    <div class="item">
-      <img src="img/content/about-slide2.jpg" alt="About V&amp;B slider" style="width: 100%; height: 460px;">
-      <div class="carousel-caption" style="opacity: 0.6;">
-        <h5 style="background: none; color: #fff; text-align:center; opacity: 1.0;">Automation &amp; Integration<br> technology to fit any<br> lifestyle</h6>
-      </div>
-    </div>
-    <div class="item">
-      <img src="img/content/slide-3.jpg" alt="About V&amp;B slider" style="width: 100%; height: 460px;">
-      <div class="carousel-caption" style="opacity: 0.6;">
-        <h5 style="background: none; color: #fff; text-align:center; opacity: 1.0;">Integration &amp; Automation<br> technology to fit any<br> lifestyle</h6>
-      </div>
-    </div>
-  </div>
-
-</div>
--->
-<div id="myCarousel" class="carousel slide">
-  <ol class="carousel-indicators">
-    <li data-target="#myCarousel" data-slide-to="0" class="active"></li>
-    <li data-target="#myCarousel" data-slide-to="1"></li>
-    <li data-target="#myCarousel" data-slide-to="2"></li>
-  </ol>
-  <!-- Carousel items -->
-  <div class="carousel-inner">
-    <div class="active item">
-    	<img src="img/content/about-slide1.jpg" alt="About V&amp;B slider" style="width: 100%; height: 460px;">
-    	<div class="carousel-caption" style="opacity: 0.6;">
-        <h5 style="background: none; color: #fff; text-align:center; opacity: 1.0;">Integration &amp; Automation<br> technology to fit any<br> lifestyle</h5>
-      </div>
-    </div>
-    <div class="item">
-    	<img src="img/content/about2.jpg" alt="About V&amp;B slider" style="width: 100%; height: 460px;">
-      <div class="carousel-caption" style="opacity: 0.6;">
-        <h5 style="background: none; color: #fff; text-align:center; opacity: 1.0;">Automation &amp; Integration<br> technology to fit any<br> lifestyle</h6>
-      </div>
-    </div>
-    <div class="item">
-    	<img src="img/content/slide-3.jpg" alt="About V&amp;B slider" style="width: 100%; height: 460px;">
-      <div class="carousel-caption" style="opacity: 0.6;">
-        <h5 style="background: none; color: #fff; text-align:center; opacity: 1.0;">Integration &amp; Automation<br> technology to fit any<br> lifestyle</h6>
-      </div>
-    </div>
-  </div>
-  <!-- Carousel nav -->
-  <a class="carousel-control left" href="#myCarousel" data-slide="prev">&lsaquo;</a>
-  <a class="carousel-control right" href="#myCarousel" data-slide="next">&rsaquo;</a>
-</div>
+<?php include 'about-us-carousel.php'; ?>
 <section id="main">
   <header class="page-header">
     <div class="container">
@@ -289,11 +231,19 @@
   </header>
   <div class="container">
     <div class="row">
-      <article class="content span12">
-		<p>The US arm of Tropical General Investment (TGI) Group, Vink and Beri LLC (V&amp;B) is involved in the manufacturing of all-natural food products and is dedicated to shaping and defining the future of the food industry. <br>
-		Headquartered in Montgomeryville, PA, we reach out to major continents across the globe namely Europe, Asia, Middle East and Africa. With ALOR as our registered trademark, we’ve succeeded in launching several desirable items in 11 countries, including the US, which have set all-new benchmarks in the food world.<br>
-		Our primary objective is to present our consumers with a range of food products they find lip-smashingly tasty without compromising on the health factor. <br>
-		V&amp;B is committed to excellence and offers the best quality products that consumers find irresistibly delicious. At V&amp;B, we do not believe in consumer satisfaction; we are focussed on consumer delight!  </p>
+    <article class="content span12">
+		<p>The US arm of Tropical General Investment (TGI) Group, Vink and Beri LLC (V&amp;B) is 
+    involved in the manufacturing of all-natural food products and is dedicated to 
+    shaping and defining the future of the food industry. <br>
+		Headquartered in Montgomeryville, PA, we reach out to major continents across 
+    the globe namely Europe, Asia, Middle East and Africa. With ALOR as our registered 
+    trademark, we’ve succeeded in launching several desirable items in 11 countries, 
+    including the US, which have set all-new benchmarks in the food world.<br>
+		Our primary objective is to present our consumers with a range of food products 
+    they find lip-smashingly tasty without compromising on the health factor. <br>
+		V&amp;B is committed to excellence and offers the best quality products that 
+    consumers find irresistibly delicious. At V&amp;B, we not only believe in consumer 
+    satisfaction but strive for consumer delight!</p>
 		<div class="row">
 		  <div class="clearfix"></div>
 		  <div class="span6 bottom-padding">
@@ -309,7 +259,19 @@
 				</div>
 				<div id="collapseOne" class="accordion-body collapse in">
 				  <div class="accordion-inner">
-					The driving motivational force behind V&amp;B is the strong leadership team with total commitment, deep industry knowledge, capability, vision and values. The successful decision-making of the leadership team aided in yielding food products in at par with people preferences laying a strong foundation for the company. (Their focus in applying ideas had powered the company with exact formulations which people seek for. V&amp;B’s continuous efforts for investments in R&amp;D of products and packing has brought (them endurance and sustainability in the industry. V&amp;B stands tall with the team work of the leadership (and employees succeeding continuously in reaching company’s objectives .The successful march towards the goal had strengthened is in line with the mission of the company. It has raised the bar for V&amp;B towards safeguarding eco-friendly and social responsibility in adding joy to people’s lives with as an identity.
+					The driving motivational force behind V&amp;B is the strong leadership 
+          team with total commitment, deep industry knowledge, capability, vision 
+          and values. The successful decision-making of the leadership team aided in 
+          yielding food products in at par with people preferences laying a strong 
+          foundation for the company. (Their focus in applying ideas had powered the 
+          company with exact formulations which people seek for. V&amp;B’s continuous 
+          efforts for investments in R&amp;D of products and packing has brought 
+          (them endurance and sustainability in the industry. V&amp;B stands tall 
+          with the team work of the leadership (and employees succeeding continuously 
+          in reaching company’s objectives. The successful march towards the goal had 
+          strengthened is in line with the mission of the company. It has raised the 
+          bar for V&amp;B towards safeguarding eco-friendly and social responsibility 
+          in adding joy to people’s lives with as an identity.
 				  </div>
 				</div>
 			  </div>
@@ -322,8 +284,11 @@
 				</div>
 				<div id="collapseTwo" class="accordion-body collapse">
 				  <div class="accordion-inner">
-					Creatively offer natural, nutritious and desirable food products that are produced in an environmentally sustainable and socially responsible way. In everything we embark on, we strive for transparency, fairness and honesty.<br>
-					Our aim is to be the world's foremost Consumer Products Company that is dedicated to offering tasty and healthy foods and beverages.
+					Creatively offer natural, nutritious and desirable food products that 
+          are produced in an environmentally sustainable and socially responsible way. 
+          In everything we embark on, we strive for transparency, fairness and honesty.<br>
+					Our aim is to be the world's foremost Consumer Products Company that is 
+          dedicated to offering tasty and healthy foods and beverages.
 				  </div>
 				</div>
 			  </div>
@@ -336,7 +301,21 @@
 				</div>
 				<div id="collapseThree" class="accordion-body collapse">
 				  <div class="accordion-inner">
-					The company’s portfolio has a range of products made for continued consumer satisfaction using natural resources.  The products cater the need of both domestic and global market, making it a fast-moving organization. The company’s ALOR products are showcase of natural foods in a modern way. ALOR has two variants- Aloe Vera Juice Drink with Aloe Vera Pieces and Aloe Vera Pieces in Syrup.  Aloe Vera contains over 200 active components including vitamins, amino acids, minerals, enzymes, polysaccharides and fatty acids. These benefits can be enjoyed in a fun way with the delicious and tasty ALOR Aloe Vera products. ALOR Coconut Water with and without Coconut Chunks is naturally enriched with potassium, electrolytes and minerals replenish hydration levels within the body. ALOR Orange Juice is made from Orange pulp from selected Brazilian oranges blended with real mandarin pieces from the famous Jeju Island of South Korea. The company is moving forward accomplishing its vision to make available the natural foods to the the consumers in a healthy way. 
+					The company’s portfolio has a range of products made for continued 
+          consumer satisfaction using natural resources.  The products cater 
+          the need of both domestic and global market, making it a fast-moving 
+          organization. The company’s ALOR products are showcase of natural 
+          foods in a modern way. ALOR has two variants- Aloe Vera Juice Drink 
+          with Aloe Vera Pieces and Aloe Vera Pieces in Syrup.  Aloe Vera contains 
+          over 200 active components including vitamins, amino acids, minerals, 
+          enzymes, polysaccharides and fatty acids. These benefits can be enjoyed 
+          in a fun way with the delicious and tasty ALOR Aloe Vera products. ALOR 
+          Coconut Water with and without Coconut Chunks is naturally enriched with 
+          potassium, electrolytes and minerals replenish hydration levels within 
+          the body. ALOR Orange Juice is made from Orange pulp from selected 
+          Brazilian oranges blended with real mandarin pieces from the famous 
+          Jeju Island of South Korea. The company is moving forward accomplishing 
+          its vision to make available the natural foods to the the consumers in a healthy way. 
 				  </div>
 				</div>
 			  </div>
@@ -349,8 +328,14 @@
 				</div>
 				<div id="collapsefour" class="accordion-body collapse">
 				  <div class="accordion-inner">
-					Our commitment to excellence is deep rooted in the idea that healthy and delicious products should naturally become a part of everyone’s lifestyle. This commitment leads to innovation, comprehensive and extensive research which thereby leads to our remarkable range of products that are high in quality, nutrition as well as taste. <br>
-					The delight of our consumers encourages us to offer a wider array of food products that are healthy, balanced and always divinely delectable!  
+					Our commitment to excellence is deep rooted in the idea that healthy 
+          and delicious products should naturally become a part of everyone’s 
+          lifestyle. This commitment leads to innovation, comprehensive and extensive 
+          research which thereby leads to our remarkable range of products that 
+          are high in quality, nutrition as well as taste. <br>
+					The delight of our consumers encourages us to offer a 
+          wider array of food products that are healthy, balanced 
+          and always divinely delectable!  
 				  </div>
 				</div>
 			  </div>
@@ -362,14 +347,23 @@
 				</div>
 				<div id="collapsefive" class="accordion-body collapse">
 				  <div class="accordion-inner">
-					V&amp;B is a socially-conscious company and this is the foundation on which every business decision is made. All through the years, we’ve maintained the reputation of offering amazing food products that are manufactured under strict hygienic conditions in USFDA approved facilities.<br>
-					We’re a consumer-driven company with a heart and this is strongly reflected in our efforts to succeed at leaving a positive imprint on society. It explains why we are so deeply focussed on creating food products that are natural, ecologically sound and socially beneficial to all.<br>
-					Our philosophy is to work hard to innovate continuously for sustained growth, empower people to make excellent food choices, build trust of our consumers and finally delight them with our outstanding assortment of products.   
+					V&amp;B is a socially-conscious company and this is the foundation on which 
+          every business decision is made. All through the years, we’ve maintained the 
+          reputation of offering amazing food products that are manufactured under strict 
+          hygienic conditions in USFDA approved facilities.<br>
+					We’re a consumer-driven company with a heart and this is strongly reflected 
+          in our efforts to succeed at leaving a positive imprint on society. It explains 
+          why we are so deeply focussed on creating food products that are natural, 
+          ecologically sound and socially beneficial to all.<br>
+					Our philosophy is to work hard to innovate continuously for sustained growth, 
+          empower people to make excellent food choices, build trust of our consumers 
+          and finally delight them with our outstanding assortment of products.   
 				  </div>
 				</div>
 			  </div>
 			</div>	
 		  </div>
+
 		  <div class="span6 bottom-padding">
 			<div class="title-box">
 			  <h2 class="title">Meet Our Management</h2>
@@ -379,28 +373,72 @@
 			<div class="tabs">		  
 			
 				<ul class="nav nav-tabs">			
-					<li class="active"><a data-toggle="tab" href="#services">Our Team</a></li>
+					<li  class="active" ><a  href="#services">Our Team</a></li>
 					<li><a data-toggle="tab" href="#features">Meet Our CEO</a></li>			
 					<li><a data-toggle="tab" href="#text">Meet Our Chairman</a></li>		 
 				</ul>		 
 
 			<div class="tab-content">			
 						
-						<div id="services">			 
-						<div class="service" style="height: 300px;">	<img alt="" src="img/content/whoweare.jpg" width="90%" align="left" hspace="20" >	  </div>
-						</div>						
-						
+						<div id="services" class="tab-pane fade in active">			 
+						<div class="service" style="height: 300px;">	
+            <img alt="" src="img/content/our-team.png" width="90%" align="left" hspace="20" >	  </div>
+						</div>				
+
+
 						<div id="features" class="tab-pane fade in" style="height: 500px;">	
 						
-						<div class="service">		<img alt="" src="img/content/team-1.jpg" width="160" align="left" hspace="20" vspace="10">			<h6 class="title"><a href="#">Mr. CEO, Vink and Beri</a></h6>					<div class="text-small">Lorem ipsum dolor sit amet, consectetur adipisicing elit. Dignissimos itaque sit qui atque? Deserunt ullam voluptatum ducimus tempore fugiat sint amet vero repellat omnis totam reiciendis nulla facilis quam cupiditate cum natus voluptates iure quidem esse ex blanditiis doloremque impedit aliquid perspiciatis eaque rem reprehenderit quia. Delectus non pariatur numquam nulla nostrum libero nesciunt explicabo officia similique eaque. Lorem ipsum dolor sit amet, consectetur adipisicing elit. Dignissimos itaque sit qui atque? Deserunt ullam voluptatum ducimus tempore fugiat sint amet vero repellat omnis totam reiciendis nulla facilis quam cupiditate cum natus voluptates iure quidem esse ex blanditiis doloremque impedit aliquid. <br> <br> Perspiciatis eaque rem reprehenderit quia. Delectus non pariatur numquam nulla nostrum libero nesciunt explicabo officia similique eaque blanditiis ut. Lorem ipsum dolor sit amet, consectetur adipisicing elit. Dignissimos itaque sit qui atque? Deserunt ullam voluptatum ducimus tempore fugiat sint amet vero repellat omnis totam reiciendis nulla facilis quam cupiditate cum natus voluptates iure quidem esse ex blanditiis doloremque impedit aliquid perspiciatis eaque rem reprehenderit quia. Delectus non pariatur numquam nulla nostrum libero nesciunt explicabo officia similique eaque blanditiis ut.</div>			  </div> 
+						<div class="service">		
+            <!-- <img alt="" src="img/content/team-1.jpg" width="160" align="left" hspace="20" vspace="10">	 -->		
+            <h6 class="title"><a href="#">Vipul Chander Beri</a></h6>					
+            <div class="text-small">
+            Vipul is the founding CEO and President of Vink and Beri. 
+            He has been associated with the TGI Group since 2002 
+            and has four decades of rich corporate working experience.  
+            <br> <br> 
+            With a background in chemical engineering, his vision and 
+            leadership has seen TGI emerge as a strong group that is respected world-over. 
+            His journey began in 1980 when he established the first food factory in the 
+            African Continent where the company emerged as a leader. 
+            Thanks to his hard-work, team building and contributions, 
+            he has been personally honored by one of the highest civilian award. 
+            The brands his companies developed have been rated as most 
+            liked and talked about Superbrands. Cornelis values are carried 
+            forward by the respective teams, who are always ready to carry 
+            out numerous social, value-driven and need based projects for 
+            well being of the society in the group companies.</div>			  
+            </div> 
 
 						</div>	
 						
 						<div id="text" class="tab-pane fade in" style="height: 500px;">
-						<div class="service" style="height: 500px;">
-						<img alt="" src="img/content/team-2.jpg" width="160" align="left" hspace="20" vspace="10">		
-						<h6 class="title"><a href="#">Mr. Vice President, Vink and Beri</a></h6>					
-						<div class="text-small">Lorem ipsum dolor sit amet, consectetur adipisicing elit. Dignissimos itaque sit qui atque? Deserunt ullam voluptatum ducimus tempore fugiat sint amet vero repellat omnis totam reiciendis nulla facilis quam cupiditate cum natus voluptates iure quidem esse ex blanditiis doloremque impedit aliquid perspiciatis eaque rem reprehenderit quia. Delectus non pariatur numquam nulla nostrum libero nesciunt explicabo officia similique eaque. Lorem ipsum dolor sit amet, consectetur adipisicing elit. Dignissimos itaque sit qui atque? Deserunt ullam voluptatum ducimus tempore fugiat sint amet vero repellat omnis totam reiciendis nulla facilis quam cupiditate cum natus voluptates iure quidem esse ex blanditiis doloremque impedit aliquid. <br> <br> Perspiciatis eaque rem reprehenderit quia. Delectus non pariatur numquam nulla nostrum libero nesciunt explicabo officia similique eaque blanditiis ut. Lorem ipsum dolor sit amet, consectetur adipisicing elit. Dignissimos itaque sit qui atque? Deserunt ullam voluptatum ducimus tempore fugiat sint amet vero repellat omnis totam reiciendis nulla facilis quam cupiditate cum natus voluptates iure quidem esse ex blanditiis doloremque impedit aliquid perspiciatis eaque rem reprehenderit quia. Delectus non pariatur numquam nulla nostrum libero nesciunt explicabo officia similique eaque blanditiis ut.</div>				</div>		  </div> </div>		</div>
+						<div class="service" >
+						<!-- <img alt="" src="img/content/team-2.jpg" width="160" align="left" hspace="20" vspace="10"> -->		
+						<h6 class="title"><a href="#">Cornelis Gerardus Vink</a></h6>					
+						<div class="text-small">
+            Cornelis is the Group Chairman of Tropical General Investment (TGI) 
+            Group as well as Vink & Beri. With more than 40 years of experience, 
+            he has successfully established and run companies across the globe. 
+            As a businessman, Cornelis has always worked with a vision to offer 
+            quality and healthy food products at affordable prices to everyone.
+            <br> <br>
+            With a background in chemical engineering, his vision and leadership 
+            has seen TGI emerge as a strong group that is respected world-over. 
+            His journey began in 1980 when he established the first food factory 
+            in the African Continent where the company emerged as a leader. 
+            Thanks to his hard-work, team building and contributions, 
+            he has been personally honored by one of the highest civilian award. 
+            The brands his companies developed have been rated as most liked and 
+            talked about Superbrands. Cornelis values are carried forward by the 
+            respective teams, who are always ready to carry out numerous social, 
+            value-driven and need based projects for well being of the society 
+            in the group companies. 
+            </div>				
+            </div>		  
+            </div> 
+
+        </div>		
+      </div>
 			
 		  </div>
 		  <div class="clearfix"></div>
@@ -453,8 +491,8 @@
 <script src="js/selectBox.js"></script>
 <script src="js/blur.min.js"></script>
 <script src="js/main.js"></script>
-<script type="text/javascript">
+<!-- script type="text/javascript">
   $('.carousel').carousel();
-</script>
+</script -->
 </body>
 </html>

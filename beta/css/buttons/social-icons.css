@@ -2,6 +2,8 @@
   font-family: 'social-icons';
   src: url("../../fonts/social-icons21aa.html?28036741");
   src: url("../../fonts/social-icons21aa.html?28036741#iefix") format('embedded-opentype'), url("../../fonts/social-icons21aa-2.html?28036741") format('woff'), url("../../fonts/social-icons21aa-3.html?28036741") format('truetype'), url("../../fonts/social-icons21aa.svg?28036741#social-icons") format('svg');
+  src: url("../../fonts/social-icons21aa.eot");
+  src: url("../../fonts/social-icons21aa.eot?#iefix") format('embedded-opentype'), url("../../fonts/social-icons21aa.woff") format('woff'), url("../../fonts/social-icons21aa.ttf") format('truetype'), url("../../fonts/social-icons21aa.svg#social-icons") format('svg');
   font-weight: normal;
   font-style: normal;
 }

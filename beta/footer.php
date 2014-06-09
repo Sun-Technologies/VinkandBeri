@@ -10,10 +10,10 @@
           <h3>Downloads</h3>
 		  <nav>
 			<ul>
-			  <li><a href="Product Sheet.pdf" target="_blank">Product Sheets</a></li>
-			  <li><a href="company_verview.php">Company Overview</a></li>
-			  <li><a href="Marketing_Strategy.php">Marketing Strategy</a></li>
-			  <li><a href="Posters_Ads.php">Posters & Ads</a></li>
+			  <li><a href="#" target="_blank">Product Sheets</a></li>
+			  <li><a href="about.php">Company Overview</a></li>
+			  <li><a href="#">Marketing Strategy</a></li>
+			  <li><a href="index.php#ads">Posters & Ads</a></li>
 			</ul>
 		  </nav>
         </div>
@@ -22,9 +22,9 @@
 		  <nav>
 			<ul>
 			  <li><a href="about.php">About us</a></li>
-			  <li><a href="Privacy_Policy.php">Privacy Policy</a></li>
-			  <li><a href="Terms_Conditions.php">Terms & Conditions</a></li>
-			  <li><a href="404.php">Press Room</a></li>
+			  <li><a href="privacy-policy.php">Privacy Policy</a></li>
+			  <li><a href="terms-conditions.php">Terms & Conditions</a></li>
+			  <li><a href="#">Press Room</a></li>
 			</ul>
 		  </nav>
         </div>
@@ -32,10 +32,10 @@
           <h3>Get Health</h3>
 		  <nav>
 			<ul>
-			  <li><a href="404.php">Healthy life</a></li>
-			  <li><a href="404.php">Natural</a></li>
-			  <li><a href="404.php">Drinks & Beverages</a></li>
-			  <li><a href="404.php">Food & Nutrition</a></li>
+			  <li><a href="healthnutrion.php">Healthy life</a></li>
+			  <li><a href="#">Natural</a></li>
+			  <li><a href="#">Drinks & Beverages</a></li>
+			  <li><a href="healthnutrion.php">Food & Nutrition</a></li>
 			</ul>
 		  </nav>
         </div>
