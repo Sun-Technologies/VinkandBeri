@@ -73,7 +73,7 @@
 			  </g>
 			</svg>
 		  </div>
-          140 Domorah DrMontgomeryville, PA 18936
+          140 Domorah Dr Montgomeryville, PA 18936
         </div>
         <div class="span3">
           <a href="#" class="up pull-right"><i class="icon-arrow-up icon-white"></i></a>

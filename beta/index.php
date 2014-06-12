@@ -622,7 +622,7 @@
 				Middle East and the US. V&amp;B is committed to excellence and 
 				aims to offer great tasting products without compromising on 
 				health benefits.<br><br><br>
-				<button type="button" class="btn btn-primary" >Read More...</button><br>
+				<a href="about.php" type="button" class="btn btn-primary" >Read More...</a><br>
 				</p>
 			</div>
 			
@@ -749,12 +749,12 @@
 		<div id="services2" class="tab-pane fade in active">								
 		<div class="text-small features-block">
 		<div class="header-box">			
-		<h6><a href="http://www.youtube.com/watch?v=LexMSKrA9K4">Vink &amp; Beri Commercial || ALOR Tender</a></h6>				  
+		<h6><a href="http://www.youtube.com/watch?v=z-EaDnVB-po">Vink &amp; Beri Commercial || ALOR Tender</a></h6>				  
 		</div>
 		
 		<div class="computer">				  
 		
-		<iframe scrolling="no" frameborder="0" style="border:none; overflow:hidden; width:574px; height:322px " id="c" allowfullscreen="allowfullscreen" mozallowfullscreen="true" webkitallowfullscreen="true" src="//www.youtube.com/embed/LexMSKrA9K4?wmode=transparent&amp;autoplay=0&amp;theme=dark&amp;controls=1&amp;autohide=0&amp;loop=0&amp;showinfo=0&amp;rel=0"></iframe>
+		<iframe scrolling="no" frameborder="0" style="border:none; overflow:hidden; width:574px; height:322px " id="c" allowfullscreen="allowfullscreen" mozallowfullscreen="true" webkitallowfullscreen="true" src="//www.youtube.com/embed/z-EaDnVB-po?wmode=transparent&amp;autoplay=0&amp;theme=dark&amp;controls=1&amp;autohide=0&amp;loop=0&amp;showinfo=0&amp;rel=0"></iframe>
 		
 		</div>				
 		</div>			  
@@ -767,7 +767,7 @@
 	
 	<h6><a href="https://www.youtube.com/watch?v=elMQO9C6o20">Vink &amp; Beri Commercial || ALOR Tropical bliss</a></h6>				  </div>				  
 	<div class="computer">				  
-	<iframe scrolling="no" frameborder="0" style="border:none; overflow:hidden; width:574px; height:322px " id="c" allowfullscreen="allowfullscreen" mozallowfullscreen="true" webkitallowfullscreen="true" src="//www.youtube.com/embed/elMQO9C6o20?wmode=transparent&amp;autoplay=0&amp;theme=dark&amp;controls=1&amp;autohide=0&amp;loop=0&amp;showinfo=0&amp;rel=0"></iframe>				  </div>			
+	<iframe scrolling="no" frameborder="0" style="border:none; overflow:hidden; width:574px; height:322px " id="c" allowfullscreen="allowfullscreen" mozallowfullscreen="true" webkitallowfullscreen="true" src="//www.youtube.com/embed/KEF_1dWy6kE?wmode=transparent&amp;autoplay=0&amp;theme=dark&amp;controls=1&amp;autohide=0&amp;loop=0&amp;showinfo=0&amp;rel=0"></iframe>				  </div>			
 	</div>			 
 	</div>	
 
@@ -775,7 +775,7 @@
 		<div id="text2" class="tab-pane fade">			  			  				<div class="text-small features-block">				  <div class="header-box">	<h6><a href="#">Vink &amp; Beri Commercial || ALOR Tender</a></h6>				  </div>				  
 		<div class="computer">				  
 		
-		<iframe scrolling="no" frameborder="0" style="border:none; overflow:hidden; width:574px; height:322px " id="c" allowfullscreen="allowfullscreen" mozallowfullscreen="true" webkitallowfullscreen="true" src="//www.youtube.com/embed/LexMSKrA9K4?wmode=transparent&amp;autoplay=0&amp;theme=dark&amp;controls=1&amp;autohide=0&amp;loop=0&amp;showinfo=0&amp;rel=0"></iframe>				  </div>				</div><p></p>			  
+		<iframe scrolling="no" frameborder="0" style="border:none; overflow:hidden; width:574px; height:322px " id="c" allowfullscreen="allowfullscreen" mozallowfullscreen="true" webkitallowfullscreen="true" src="//www.youtube.com/embed/z-EaDnVB-po?wmode=transparent&amp;autoplay=0&amp;theme=dark&amp;controls=1&amp;autohide=0&amp;loop=0&amp;showinfo=0&amp;rel=0"></iframe>				  </div>				</div><p></p>			  
 		</div>			  			  			  
 		
 

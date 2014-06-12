@@ -263,11 +263,11 @@
           team with total commitment, deep industry knowledge, capability, vision 
           and values. The successful decision-making of the leadership team aided in 
           yielding food products in at par with people preferences laying a strong 
-          foundation for the company. (Their focus in applying ideas had powered the 
+          foundation for the company. Their focus in applying ideas had powered the 
           company with exact formulations which people seek for. V&amp;B’s continuous 
           efforts for investments in R&amp;D of products and packing has brought 
-          (them endurance and sustainability in the industry. V&amp;B stands tall 
-          with the team work of the leadership (and employees succeeding continuously 
+          them endurance and sustainability in the industry. V&amp;B stands tall 
+          with the team work of the leadership and employees succeeding continuously 
           in reaching company’s objectives. The successful march towards the goal had 
           strengthened is in line with the mission of the company. It has raised the 
           bar for V&amp;B towards safeguarding eco-friendly and social responsibility 
