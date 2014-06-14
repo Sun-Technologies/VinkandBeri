@@ -1,0 +1,57 @@
+<style type="text/css">
+#first-product {
+  border-right: thin solid green;
+  height: 150px;
+}
+#second-product {
+  border-right: thin solid green;
+  height: 150px;
+}
+#third-product {
+  border-right: thin solid green;
+  height: 150px;
+}
+#fourth-product {
+  border-right: thin solid green;
+  height: 150px;
+}
+#fifth-product {
+  border-right: thin solid green;
+  height: 150px;
+}
+#about-slider {
+  padding-top: 2%;
+}
+#about-slider img {
+  height: 150px;
+}
+.product-navs {
+  width: auto;
+  margin-left: -5.4%;
+}
+.product-navs ul li:first-child {
+  padding-left: 1%;
+}
+.product-navs ul li:last-child {
+  padding-right: 5%;
+}
+@media screen and (max-width: 1024px) {
+  #about-slider {
+    margin-left: 5%;
+  }
+}
+@media screen and (max-width: 480px) {
+  .product-navs ul li {
+    margin-top: 5%;
+  }
+}
+@media screen and (max-width: 320px) {
+  #about-slider p {
+    height: 100px;
+    width: 300px;
+  }
+  .product-navs ul li {
+    margin-top: 10%;
+  }
+}
+</style>
