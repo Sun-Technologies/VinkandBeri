@@ -1,22 +1,22 @@
 <style type="text/css">
 #first-product {
-  border-right: thin solid green;
+  border-right: thin solid rgba(0,255,0,0.4);
   height: 150px;
 }
 #second-product {
-  border-right: thin solid green;
+  border-right: thin solid rgba(0,255,0,0.4);
   height: 150px;
 }
 #third-product {
-  border-right: thin solid green;
+  border-right: thin solid rgba(0,255,0,0.4);
   height: 150px;
 }
 #fourth-product {
-  border-right: thin solid green;
+  border-right: thin solid rgba(0,255,0,0.4);
   height: 150px;
 }
 #fifth-product {
-  border-right: thin solid green;
+  border-right: thin solid rgba(0,255,0,0.4);
   height: 150px;
 }
 #about-slider {
@@ -25,9 +25,12 @@
 #about-slider img {
   height: 150px;
 }
+.product-navs p {
+  padding-bottom: 20px;
+}
 .product-navs {
   width: auto;
-  margin-left: -5.4%;
+  margin-left: -5.2%;
 }
 .product-navs ul li:first-child {
   padding-left: 1%;
@@ -76,7 +79,7 @@
     </a>
   </li>
   <li class="span2" id="fourth-product">
-    <a href="ALOR_aloevera_coconut_water.php">
+    <a href="ALOR-aloevera-coconut-water.php">
       <img src="img/content/alore-coconut-water.png">
       <p>ALOR Coconut Water</p>
     </a>

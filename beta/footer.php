@@ -23,7 +23,7 @@
 			<ul>
 			  <li><a href="about.php">About us</a></li>
 			  <li><a href="privacy-policy.php">Privacy Policy</a></li>
-			  <li><a href="terms-conditions.php">Terms & Conditions</a></li>
+			  <li><a href="terms-conditions.php">Terms &amp; Conditions</a></li>
 			  <li><a href="#">Press Room</a></li>
 			</ul>
 		  </nav>
@@ -34,8 +34,8 @@
 			<ul>
 			  <li><a href="healthnutrion.php">Healthy life</a></li>
 			  <li><a href="#">Natural</a></li>
-			  <li><a href="#">Drinks & Beverages</a></li>
-			  <li><a href="healthnutrion.php">Food & Nutrition</a></li>
+			  <li><a href="#">Drinks &amp; Beverages</a></li>
+			  <li><a href="healthnutrion.php">Food &amp; Nutrition</a></li>
 			</ul>
 		  </nav>
         </div>
@@ -45,7 +45,7 @@
   <div class="footer-bottom">
     <div class="container">
       <div class="row">
-        <div class="span3 copyright">Copyright &copy; Vink & Beri LLC., 2014</div>
+        <div class="span3 copyright">Copyright &copy; Vink &amp; Beri LLC., 2014</div>
         <div class="span3 phone">
           <div class="footer-icon">
 			<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"

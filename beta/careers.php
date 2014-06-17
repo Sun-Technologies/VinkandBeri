@@ -89,7 +89,7 @@ Research, Finance and Operations to develop and manage marketing objectives, goa
 strategies; as well as other functional areas to quickly bring viable new products to market.</li>
 				</ol>
 				
-	<p><strong>Knowledge & Skill Requirements: </strong></p>
+	<p><strong>Knowledge &amp; Skill Requirements: </strong></p>
 
 <p>The ideal profile for this role is a marketing manager for food industry with a strong entrepreneurial 
 
@@ -109,11 +109,11 @@ mindset and willing to work in fast growing environment. </p>
 
 <p><strong>Compensation:</strong></p>
 
-<p>Excellent salary with bonus & incentives.</p>
+<p>Excellent salary with bonus &amp; incentives.</p>
 
 <p>If you believe that you have what it takes to succeed in a key role like this, please submit your resume at hr@vinkandberi.com indicating therein your present and expected salary. Only shortlisted candidates will be contacted.<p>
 
-<p><strong>Vink & Beri LLC is an Equal Opportunity Employer. M/F/D/V</strong></p>
+<p><strong>Vink &amp; Beri LLC is an Equal Opportunity Employer. M/F/D/V</strong></p>
 
 <a href="mailto:info@vinkandberi.com" class="btn btn-large">Apply to this job</a><br>
 
@@ -129,7 +129,7 @@ mindset and willing to work in fast growing environment. </p>
 			</div>
 			<div id="collapseTwo" class="accordion-body collapse">
 			 
-				<p><strong>About:</strong> Vink & Beri LLC (V&amp;B) is a part of multinational Tropical General Investment group having diverse business interests in 10 countries in Africa, Europe, Asia and Middle East. The group is one of the leading players in food products in African Continent. V&amp;B is group’s green field project in the food sector in the United States. The group has a consistent record of high double digit growth during the past decade and offers ample opportunities and growth prospects for the right candidate.</p>								<p><strong>Location:</strong> Montgomeryville, PA</p>
+				<p><strong>About:</strong> Vink &amp; Beri LLC (V&amp;B) is a part of multinational Tropical General Investment group having diverse business interests in 10 countries in Africa, Europe, Asia and Middle East. The group is one of the leading players in food products in African Continent. V&amp;B is group’s green field project in the food sector in the United States. The group has a consistent record of high double digit growth during the past decade and offers ample opportunities and growth prospects for the right candidate.</p>								<p><strong>Location:</strong> Montgomeryville, PA</p>
 				<p><strong>Job Summary: </strong>Office Receptionist is to support the all of the office functions. This position will be responsible for answering and directing phone calls, taking messages, providing information, redirecting requests as appropriate and greeting and directing visitors.</p>				
 				<p>Specific responsibilities of this position include</p>
 				<ol>
@@ -142,7 +142,7 @@ mindset and willing to work in fast growing environment. </p>
 				  <li>Ordering/maintaining office supplies</li>
 				  <li>Monitor and arrange maintenance of office equipment, including computers, printers. office furniture, delivery equipments etc</li>
 				</ol>
-<p><strong>Knowledge & Skill Requirements: </strong></p>
+<p><strong>Knowledge &amp; Skill Requirements: </strong></p>
 <p>The successful candidate will have to be task-oriented and have a minimum of two (2) years experience 
 
 within an office environment. Undergraduate preferred. The candidate should have proven track record 
@@ -165,7 +165,7 @@ at hr@vinkandberi.com indicating therein your present and expected salary. Only 
 
 will be contacted.<p>
 
-<p><strong>Vink & Beri LLC is an Equal Opportunity Employer. M/F/D/V</strong></p>
+<p><strong>Vink &amp; Beri LLC is an Equal Opportunity Employer. M/F/D/V</strong></p>
 
 <a href="mailto:info@vinkandberi.com" class="btn btn-large">Apply to this job</a></br></br>
 
@@ -179,7 +179,7 @@ will be contacted.<p>
 			</div>
 			<div id="collapseThree" class="accordion-body collapse">
 			  <div class="accordion-inner">
-				<p><strong>About:</strong> Vink & Beri LLC (V&amp;B) is a part of multinational Tropical General Investment group having diverse business interests in 10 countries in Africa, Europe, Asia and Middle East. The group is one of the leading players in food products in African Continent. V&amp;B is group’s green field project in the food sector in the United States. The group has a consistent record of high double digit growth during the past decade and offers ample opportunities and growth prospects for the right candidate.</p>								<p><strong>Location:</strong> Montgomeryville, PA</p>
+				<p><strong>About:</strong> Vink &amp; Beri LLC (V&amp;B) is a part of multinational Tropical General Investment group having diverse business interests in 10 countries in Africa, Europe, Asia and Middle East. The group is one of the leading players in food products in African Continent. V&amp;B is group’s green field project in the food sector in the United States. The group has a consistent record of high double digit growth during the past decade and offers ample opportunities and growth prospects for the right candidate.</p>								<p><strong>Location:</strong> Montgomeryville, PA</p>
 				<p><strong>Job Summary: </strong>The Regional Sales Executives will be responsible to plan, organize, direct, coordinate, administer and
 
 control the sales activity to help identify markets. Perform activities necessary to achieve sales goals and 
@@ -222,7 +222,7 @@ priorities in a fast paced environment.</li>
 <li>Follow-up for collection of payments.</li>
 <li>Ability to lift up to 50 pounds.</li>
 				</ol>
-				<p><strong>Knowledge & Skill Requirements:</strong></p>
+				<p><strong>Knowledge &amp; Skill Requirements:</strong></p>
 				<ol>
 				  <li>Basic reading, writing, and arithmetic skills required. This is normally acquired through a high
 
@@ -239,7 +239,7 @@ hr@vinkandberi.com indicating therein your present and expected salary. Only sho
 
 be contacted.<p>
 
-<p><strong>Vink & Beri LLC is an Equal Opportunity Employer. M/F/D/V</strong></p>
+<p><strong>Vink &amp; Beri LLC is an Equal Opportunity Employer. M/F/D/V</strong></p>
 
 <a href="mailto:info@vinkandberi.com" class="btn btn-large">Apply to this job</a></br><br>
 
@@ -257,7 +257,7 @@ be contacted.<p>
 			  
 			  
 			  
-				<p><strong>About:</strong> Vink & Beri LLC (V&amp;B) is a part of multinational Tropical General Investment group having
+				<p><strong>About:</strong> Vink &amp; Beri LLC (V&amp;B) is a part of multinational Tropical General Investment group having
 
 diverse business interests in 10 countries in Africa, Europe, Asia and Middle East. The group is one of 
 
@@ -316,7 +316,7 @@ show expenses.</li>
 <li>Review expenses and recommend economies.</li>
 <li>Hold regular meeting with sales staff.</li>
 				</ol>
-				<p><strong>Knowledge & Skill Requirements:</strong></p>
+				<p><strong>Knowledge &amp; Skill Requirements:</strong></p>
 				<p>Undergraduate degree in Marketing or Business Studies, MBA preferred, with a minimum of 7 to10 
 
 years of related experience. Problem-solving and analytical skills to interpret sales performance and 
@@ -343,7 +343,7 @@ effectively. Experience with relevant software applications.</li>
 with a global team of professionals.</li>
 <li>Experience developing broker, distributor and supermarket relationships.</li>
 				  </ol>
-				  <p><strong>Compensation:</strong><br>Excellent salary with bonus & incentives.</p>
+				  <p><strong>Compensation:</strong><br>Excellent salary with bonus &amp; incentives.</p>
 				  
 				  <p>If you believe that you have what it takes to succeed in a key role like this, please submit your resume 
 
@@ -351,7 +351,7 @@ at hr@vinkandberi.com indicating therein your present and expected salary. Only 
 
 will be contacted.<p>
 
-<p><strong>Vink & Beri LLC is an Equal Opportunity Employer. M/F/D/V</strong></p>
+<p><strong>Vink &amp; Beri LLC is an Equal Opportunity Employer. M/F/D/V</strong></p>
 
 <a href="mailto:info@vinkandberi.com" class="btn btn-large">Apply to this job</a><br><br>
 
@@ -459,36 +459,6 @@ include ('footer.php');
   <!--
 </footer>
 -->
-<script src="http://ajax.googleapis.com/ajax/libs/jquery/1.10.2/jquery.min.js"></script>
-<script src="http://code.jquery.com/jquery-migrate-1.2.0.js"></script>
-<script src="js/bootstrap.min.js"></script>
-<script src="js/price-regulator/jshashtable-2.1_src.js"></script>
-<script src="js/price-regulator/jquery.numberformatter-1.2.3.js"></script>
-<script src="js/price-regulator/tmpl.js"></script>
-<script src="js/price-regulator/jquery.dependClass-0.1.js"></script>
-<script src="js/price-regulator/draggable-0.1.js"></script>
-<script src="js/price-regulator/jquery.slider.js"></script>
-<script src="js/jquery.carouFredSel-6.2.1-packed.js"></script>
-<script src="js/jquery.touchSwipe.min.js"></script>
-<script src="js/jquery.elevateZoom-2.5.5.min.js"></script>
-<script src="js/jquery.imagesloaded.min.js"></script>
-<script src="js/jquery.themepunch.plugins.min.js"></script>
-<script src="js/jquery.themepunch.revolution.min.js"></script>
-<script src="js/jquery.appear.js"></script>
-<script src="js/jquery.sparkline.min.js"></script>
-<script src="js/jquery.easy-pie-chart.js"></script>
-<script src="js/jquery.easing.1.3.js"></script>
-<script src="js/jquery.fancybox.pack.js"></script>
-<script src="js/jquery.isotope.min.js"></script>
-<script src="js/jquery.knob.js"></script>
-<script src="js/jquery.stellar.min.js"></script>
-<script src="js/country.js"></script>
-<script src="js/masonry.pkgd.min.js"></script>
-<script src="js/morris.min.js"></script>
-<script src="js/raphael.min.js"></script>
-<script src="js/video.js"></script>
-<script src="js/selectBox.js"></script>
-<script src="js/blur.min.js"></script>
-<script src="js/main.js"></script>
+<?php include 'footer-js.php'; ?>
 </body>
 </html>

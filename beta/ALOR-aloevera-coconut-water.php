@@ -1,10 +1,18 @@
 <!DOCTYPE html>
 <html>
 <head>
-  <title>Vink &amp; Beri LLC | ALOR Aloe Vera Juice</title>
+  <title>Vink &amp; Beri LLC | ALOR Coconut Water</title>
   <meta content="Vink &amp; Beri LLC (V&amp;B) is US arm of TGI group. TGI Group is one of the most respected groups and has businesses in 11 countries in Africa, Europe, Asia and Middle East besides US. TGI is the leading player in food products in African Continent. TGI has interest in production and trading of Commodities like Cotton, Insecticides, Sesame seeds and bulk Chemicals besides Pharmaceuticals, Deep Sea Fishing and as a support company to the majors companies in Deep Sea Oil Drilling.VINK & BERI LLC Company makes and sells branded plant-based foods and beverages, and premium dairy products throughout North America and Europe. And we do it in a way that's unlike any company in our industry. " name="keywords">
   <?php include'header.php'; ?>
   <link rel='stylesheet' href="css/about-us-slider.css">
+  <!--[if IE]>
+	<link rel='stylesheet' href="css/ie/ie.css">
+    <script src="//html5shiv.googlecode.com/svn/trunk/html5.js"></script>
+  <![endif]-->
+
+  <!--[if IE 9 ]>
+    <link rel='stylesheet' href="css/ie/ie9.css">
+  <![endif]-->
 </head>
 <body class="fixed-header">
 <div class="page-box">
@@ -86,13 +94,17 @@
 			
 			<h3>Nutrition Facts</h3>
 			 
-			<img width="300" align="right" src="img/content/Facts.png" alt="" style="margin-top:-120px;">
+			<img width="300" align="right" src="img/content/nutrition-4.png" alt="" style="margin-top:-120px;">
 			
 			
 			
 			<div class="description">
-			  ALOE VERA JUICE DRINK WITH ALOE VERA PIECES : Alor Aloe Vera Juice is a All Natural Drink packed with ample benefits and goodness.It made from the real Aloe Vera pieces and contains no artificial colour or flavor. Prepared keeping in mind of providing ultimate taste of the Real Aloe Vera which can boost the energy to the peak.
-Now, pick your favorite since it is an anytime drink- the taste and health which you always look for.
+			  Now get ready for the real burst of energy. Anytime, 
+        Anywhere with Alor coconut water. It has source of 
+        potassium, electrolytes and minerals to replenish 
+        hydration levels with the body. And its totally devoid 
+        of fats. It has no artificial flavor and color. 
+        It is pure. Discover an active you.
 			</div>
 		  </div>
 		  
@@ -108,37 +120,6 @@ Now, pick your favorite since it is an anytime drink- the taste and health which
 </div><!-- .page-box-content -->
 
 <?php include 'footer.php'; ?>
-
-<script src="http://ajax.googleapis.com/ajax/libs/jquery/1.10.2/jquery.min.js"></script>
-<script src="http://code.jquery.com/jquery-migrate-1.2.0.js"></script>
-<script src="js/bootstrap.min.js"></script>
-<script src="js/price-regulator/jshashtable-2.1_src.js"></script>
-<script src="js/price-regulator/jquery.numberformatter-1.2.3.js"></script>
-<script src="js/price-regulator/tmpl.js"></script>
-<script src="js/price-regulator/jquery.dependClass-0.1.js"></script>
-<script src="js/price-regulator/draggable-0.1.js"></script>
-<script src="js/price-regulator/jquery.slider.js"></script>
-<script src="js/jquery.carouFredSel-6.2.1-packed.js"></script>
-<script src="js/jquery.touchSwipe.min.js"></script>
-<script src="js/jquery.elevateZoom-2.5.5.min.js"></script>
-<script src="js/jquery.imagesloaded.min.js"></script>
-<script src="js/jquery.themepunch.plugins.min.js"></script>
-<script src="js/jquery.themepunch.revolution.min.js"></script>
-<script src="js/jquery.appear.js"></script>
-<script src="js/jquery.sparkline.min.js"></script>
-<script src="js/jquery.easy-pie-chart.js"></script>
-<script src="js/jquery.easing.1.3.js"></script>
-<script src="js/jquery.fancybox.pack.js"></script>
-<script src="js/jquery.isotope.min.js"></script>
-<script src="js/jquery.knob.js"></script>
-<script src="js/jquery.stellar.min.js"></script>
-<script src="js/country.js"></script>
-<script src="js/masonry.pkgd.min.js"></script>
-<script src="js/morris.min.js"></script>
-<script src="js/raphael.min.js"></script>
-<script src="js/video.js"></script>
-<script src="js/selectBox.js"></script>
-<script src="js/blur.min.js"></script>
-<script src="js/main.js"></script>
+<?php include 'footer-js.php'; ?>
 </body>
 </html>
