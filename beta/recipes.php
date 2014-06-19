@@ -2,14 +2,12 @@
 <html>
 <head>
   <title>Recipes | Vink &amp; Beri LLC</title>
-  <?php include'header.php'; ?>
+  <?php include'php/header.php'; ?>
 </head>
 <body>
 <div class="page-box">
 <div class="page-box-content">
-
-<?php include 'header-navs.php'; ?>
-
+<?php include 'php/header-navs.php'; ?>
 <div class="breadcrumb-box">
   <div class="container">
     <ul class="breadcrumb">
@@ -18,9 +16,6 @@
     </ul>	
   </div>
 </div><!-- .breadcrumb-box -->
-
-
-
 <section id="main">
   <header class="page-header">
     <div class="container">
@@ -59,7 +54,6 @@
 				  </div>
 				</div>
 			  </div>
-			  
 			  <div class="accordion-group">
 				<div class="accordion-heading">
 				  <a class="accordion-toggle" data-toggle="collapse" data-parent="#accordion2" href="#collapseTwo">
@@ -85,7 +79,6 @@
 				  </div>
 				</div>
 			  </div>
-			  
 			  <div class="accordion-group">
 				<div class="accordion-heading">
 				  <a class="accordion-toggle" data-toggle="collapse" data-parent="#accordion2" href="#collapseThree">
@@ -110,7 +103,6 @@
 				  </div>
 				</div>
 			  </div>
-			  
 			  <div class="accordion-group">
 				<div class="accordion-heading">
 				  <a class="accordion-toggle" data-toggle="collapse" data-parent="#accordion2" href="#collapsefour">
@@ -159,27 +151,16 @@
 		  </div>
 		  <div class="span6 bottom-padding">
 			<img src="img/content/portfolio-4.jpg" alt="Recipes Image">
-			
-			
 		  </div>
 		<div class="clearfix"></div>
 		</div>
       </article><!-- .content -->
     </div>
   </div><!-- .container -->
-  
-  
-  
 </section><!-- #main -->
-
 </div><!-- .page-box -->
-
 </div><!-- .page-box-content -->
-
-
-
-
-<?php include 'footer.php'; ?>
-<?php include 'footer-js.php'; ?>
+<?php include 'php/footer.php'; ?>
+<?php include 'php/footer-js.php'; ?>
 </body>
 </html>

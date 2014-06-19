@@ -2,12 +2,12 @@
 <html>
 <head>
   <title>Vink &amp; Beri LLC | Terms Conditions</title> 
-  <?php include'header.php'; ?>
+  <?php include'php/header.php'; ?>
 </head>
 <body class="fixed-header">
 <div class="page-box">
 <div class="page-box-content">
-<?php include 'header-navs.php'; ?>
+<?php include 'php/header-navs.php'; ?>
 <!-- .header -->
 <div class="breadcrumb-box">  <div class="container">    <ul class="breadcrumb">      <li><a href="index.html">Home</a> <span class="divider">/</span></li>      <li class="active">Terms Conditions</li>    </ul>	  </div></div><!-- .breadcrumb-box -->
 
@@ -85,7 +85,7 @@
 
 </div><!-- .page-box -->
 </div><!-- .page-box-content -->
-<?php include 'footer.php'; ?>
-<?php include 'footer-js.php'; ?>
+<?php include 'php/footer.php'; ?>
+<?php include 'php/footer-js.php'; ?>
 </body>
 </html>

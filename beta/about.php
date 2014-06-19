@@ -2,7 +2,7 @@
 <html>
 <head>
   <title>About Us | Vink &amp; Beri LLC</title>
-  <?php include'header.php'; ?>
+  <?php include'php/header.php'; ?>
   <link rel='stylesheet' href="css/about-us-slider.css">
   <link href="http://fonts.googleapis.com/css?family=Open+Sans:400,300" rel="stylesheet" type="text/css">
   <!--[if IE]>
@@ -18,7 +18,7 @@
 <div class="page-box">
 <div class="page-box-content">
 
-<?php include 'header-navs.php'; ?>
+<?php include 'php/header-navs.php'; ?>
 
 <div class="breadcrumb-box">
   <div class="container">
@@ -54,7 +54,7 @@
 		  <div class="clearfix"></div>
 		  <div class="span6 bottom-padding">
 			<div class="title-box">
-			  <h2 class="title">Who Is Vink & Beri</h2>
+			  <h2 class="title">Who Is Vink &amp; Beri</h2>
 			</div>
 			<div class="accordion" id="accordion2">
 			  <div class="accordion-group">
@@ -223,7 +223,7 @@
 						<h6 class="title"><a href="#">Cornelis Gerardus Vink</a></h6>					
 						<div class="text-small">
             Cornelis is the Group Chairman of Tropical General Investment (TGI) 
-            Group as well as Vink & Beri. With more than 40 years of experience, 
+            Group as well as Vink &amp; Beri. With more than 40 years of experience, 
             he has successfully established and run companies across the globe. 
             As a businessman, Cornelis has always worked with a vision to offer 
             quality and healthy food products at affordable prices to everyone.
@@ -264,7 +264,7 @@
 
 
 
-<?php include 'footer.php'; ?>
-<?php include 'footer-js.php'; ?>
+<?php include 'php/footer.php'; ?>
+<?php include 'php/footer-js.php'; ?>
 </body>
 </html>

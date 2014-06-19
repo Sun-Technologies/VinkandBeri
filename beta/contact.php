@@ -2,13 +2,13 @@
 <html>
 <head>
   <title>Vink &amp; Beri LLC | Contact</title>
-  <?php include'header.php'; ?>
+  <?php include'php/header.php'; ?>
 </head>
 <body class="fixed-header">
 <div class="page-box">
 <div class="page-box-content">
 
-<?php include 'header-navs.php'; ?>
+<?php include 'php/header-navs.php'; ?>
 
 <div class="breadcrumb-box">
   <div class="container">
@@ -89,7 +89,7 @@
 </div><!-- .page-box -->
 </div><!-- .page-box-content -->
 
-<?php include 'footer.php'; ?>
-<?php include 'footer-js.php'; ?>
+<?php include 'php/footer.php'; ?>
+<?php include 'php/footer-js.php'; ?>
 </body>
 </html>

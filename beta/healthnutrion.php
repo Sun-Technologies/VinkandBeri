@@ -2,14 +2,12 @@
 <html>
 <head>
   <title>Health And Nutritions | Vink &amp; Beri LLC</title>
-  <?php include'header.php'; ?>
+  <?php include'php/header.php'; ?>
 </head>
 <body>
 <div class="page-box">
 <div class="page-box-content">
-
-<?php include 'header-navs.php'; ?>
-
+<?php include 'php/header-navs.php'; ?>
 <div class="breadcrumb-box">
   <div class="container">
     <ul class="breadcrumb">
@@ -18,9 +16,6 @@
     </ul>	
   </div>
 </div><!-- .breadcrumb-box -->
-
-
-
 <section id="main">
   <header class="page-header">
     <div class="container">
@@ -157,19 +152,10 @@
       </article><!-- .content -->
     </div>
   </div><!-- .container -->
-  
-  
-  
 </section><!-- #main -->
-
 </div><!-- .page-box -->
-
 </div><!-- .page-box-content -->
-
-
-
-
-<?php include 'footer.php'; ?>
-<?php include 'footer-js.php'; ?>
+<?php include 'php/footer.php'; ?>
+<?php include 'php/footer-js.php'; ?>
 </body>
 </html>

@@ -3,7 +3,7 @@
 <head>
   <title>Vink &amp; Beri LLC | ALOR Coconut Water</title>
   <meta content="Vink &amp; Beri LLC (V&amp;B) is US arm of TGI group. TGI Group is one of the most respected groups and has businesses in 11 countries in Africa, Europe, Asia and Middle East besides US. TGI is the leading player in food products in African Continent. TGI has interest in production and trading of Commodities like Cotton, Insecticides, Sesame seeds and bulk Chemicals besides Pharmaceuticals, Deep Sea Fishing and as a support company to the majors companies in Deep Sea Oil Drilling.VINK & BERI LLC Company makes and sells branded plant-based foods and beverages, and premium dairy products throughout North America and Europe. And we do it in a way that's unlike any company in our industry. " name="keywords">
-  <?php include'header.php'; ?>
+  <?php include'php/header.php'; ?>
   <link rel='stylesheet' href="css/about-us-slider.css">
   <!--[if IE]>
 	<link rel='stylesheet' href="css/ie/ie.css">
@@ -18,7 +18,7 @@
 <div class="page-box">
 <div class="page-box-content">
 
-<?php include 'header-navs.php'; ?>
+<?php include 'php/header-navs.php'; ?>
 
 <div class="breadcrumb-box">
   <div class="container">
@@ -119,7 +119,7 @@
 </div><!-- .page-box -->
 </div><!-- .page-box-content -->
 
-<?php include 'footer.php'; ?>
-<?php include 'footer-js.php'; ?>
+<?php include 'php/footer.php'; ?>
+<?php include 'php/footer-js.php'; ?>
 </body>
 </html>
