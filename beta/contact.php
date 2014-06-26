@@ -28,8 +28,8 @@
   <div class="container">
     <div class="row">    
       <div class="content span12">
-    <div class="row">             <div class="span6"> 
-        <form id="contactform" class="register-form contact-form" method="POST" action="email-submit.php">
+    <div class="row">             <div class="span6" style="background: whitesmoke;"> 
+        <!--<form id="contactform" class="register-form contact-form" method="POST" action="email-submit.php">
             <h3 class="title">Quick Contact</h3>
                     <div id="success"></div>
                             <label>Name: <span class="required">*</span></label>
@@ -58,7 +58,18 @@
     </div>
   </div>
 </div>
-         </div><!-- .buttons-box -->     </form>     </div>
+         </div>
+      </form>-->  
+      <form id="contactform" class="form-signin" role="form" style="padding-left: 60px;">
+        <h2 class="form-signin-heading">Quick Contact</h2>
+        <label>Name: <span class="required">*</span></label><input type="text" class="form-control" style="width: 265px;" required>
+        <label>Email Address: <span class="required">*</span></label><input type="email" class="form-control" style="width: 265px;"  required autofocus>
+        <label>Telephone:</label><input type="number" style="width: 265px;"  class="form-control">
+        <label>Subject:</label><input type="text" class="form-control" style="width: 265px;" >
+        <label>Comment:</label><textarea class="form-control" style="width: 265px;" ></textarea><br>
+        <button name="submit" class="btn btn-default" type="submit">Submit</button>
+      </form>
+         </div>
       <div class="span6 contact-info">
       <div class="row">
         <address class="span6">
@@ -77,7 +88,7 @@
       <hr>
       </div>
 
-      <div class="span12 map-box">      <iframe src="https://www.google.com/maps/embed?pb=!1m14!1m8!1m3!1d3046.386408072668!2d-75.2255!3d40.22271!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x89c6a469f12b71c7%3A0x47e745cfdb29cab9!2s140+Domorah+Dr!5e0!3m2!1sen!2sin!4v1395740924493" height="270" frameborder="0" style="border:0"></iframe>     </div>
+      <div class="span12 map-box" style="margin-top: 1%;">      <iframe src="https://www.google.com/maps/embed?pb=!1m14!1m8!1m3!1d3046.386408072668!2d-75.2255!3d40.22271!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x89c6a469f12b71c7%3A0x47e745cfdb29cab9!2s140+Domorah+Dr!5e0!3m2!1sen!2sin!4v1395740924493" height="270" frameborder="0" style="border:0"></iframe>     </div>
       
 
     </div>
