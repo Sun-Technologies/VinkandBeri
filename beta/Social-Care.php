@@ -4,7 +4,6 @@
   <title>Social Care | Vink &amp; Beri LLC</title>  <meta class="viewport" name="viewport" content="width=device-width, initial-scale=1.0">  <meta charset="utf-8">  <link href="img/favicon.png" rel="shortcut icon">
   <?php include'php/header.php'; ?>
 </head>
-<?php include 'php/header.php'; ?>
 <body class="fixed-header">
 <div class="page-box">
 <div class="page-box-content">
