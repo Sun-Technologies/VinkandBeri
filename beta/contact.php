@@ -60,13 +60,13 @@
 </div>
          </div>
       </form>-->  
-      <form id="contactform" class="form-signin" role="form" style="padding-left: 60px;">
+      <form method="post" action="contact-send.php" id="contactform" class="form-signin" role="form" style="padding-left: 60px;">
         <h2 class="form-signin-heading">Quick Contact</h2>
-        <label>Name: <span class="required">*</span></label><input type="text" class="form-control" style="width: 265px;" required>
-        <label>Email Address: <span class="required">*</span></label><input type="email" class="form-control" style="width: 265px;"  required autofocus>
-        <label>Telephone:</label><input type="number" style="width: 265px;"  class="form-control">
-        <label>Subject:</label><input type="text" class="form-control" style="width: 265px;" >
-        <label>Comment:</label><textarea class="form-control" style="width: 265px;" ></textarea><br>
+        <label>Name: <span class="required">*</span></label><input type="text" class="form-control" id="name" name="name" style="width: 265px;" required autofocus>
+        <label>Email Address: <span class="required">*</span></label><input type="email" class="form-control" id="email" name="email" style="width: 265px;"  required autofocus>
+        <label>Telephone:</label><input type="text" style="width: 265px;"  class="form-control" id="phone" name="phone">
+        <label>Subject:</label><input type="text" class="form-control" id="subject" style="width: 265px;" name="subject">
+        <label>Comment:</label><textarea class="form-control" id="comment" name="comment"style="width: 265px;" ></textarea><br>
         <button name="submit" class="btn btn-default" type="submit">Submit</button>
       </form>
          </div>
