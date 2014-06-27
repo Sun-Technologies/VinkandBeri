@@ -21,7 +21,8 @@
 <div class="container" style="padding: 12%; ">
     <div class="row">    
       <div class="content span12">
-		<h4>Thanks You for Contacting Us.We will get back to you shortly.</h4>
+		<h4>Thanks You for Contacting Us.<br>We will get back to you shortly.</h4>
+    <p><a href="index.php">click here to go Home</a></p>
 	  </div>
 	</div>
  </div>
