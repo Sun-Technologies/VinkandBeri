@@ -20,6 +20,7 @@
     </div>
     <div class="row">
       <div class="span8">
+      
         <h6>Last Updated by: 06 June, 2014</h6>
 
         <h6>Acceptance of Terms</h6>
