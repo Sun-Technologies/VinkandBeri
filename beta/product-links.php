@@ -44,21 +44,25 @@
 }
 @media screen and (max-width: 1024px) {
   #about-slider div {
-    padding-bottom: 50px;
+    padding-bottom: 5%;
   }
 }
 @media screen and (max-width: 768px) {
   #about-slider div {
-    width: 25%;
+    width: 29%;
     padding: 1%;
-    height: 250px;
+    height: 230px;
   }
 }
-
+@media screen and (max-width: 600px) {
+  #about-slider div {
+    width: 25%;
+  }
+}
 @media screen and (max-width: 480px) {
   #about-slider div {
     width: 100%;
-    padding-bottom: -20%;
+    padding-bottom: 0%;
   }
 }
 </style>
