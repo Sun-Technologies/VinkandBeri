@@ -364,6 +364,198 @@
 		  
 		  <img src="img/content/slider/rs-slider3-bg.jpg" alt="" data-bgfit="cover" data-bgposition="center top" data-bgrepeat="no-repeat">
 		</li>
+		<li data-delay="15000" data-transition="fade" data-slotamount="7" data-masterspeed="1000">
+		  <div class="elements">
+			<div class="tp-caption lfl"
+			  data-x="370"
+			  data-y="160"
+			  data-speed="1000"
+			  data-start="1500"
+			  data-easing="Power4.easeOut"
+			  data-endspeed="500"
+			  data-endeasing="Power1.easeIn"
+			  style="z-index: 2">
+			  <img src="img/content/slider/rs-slider4-img20.png" alt="">
+			</div>
+			
+			<div class="tp-caption lft"
+			  data-x="80"
+			  data-y="120"
+			  data-speed="1000"
+			  data-start="1000"
+			  data-easing="Power4.easeOut"
+			  data-endspeed="500"
+			  data-endeasing="Power1.easeIn">
+			  <img src="img/content/slider/rs-slider5-p1.png" alt="">
+			</div>
+			
+			<h2 class="tp-caption lft skewtotop title span5"
+			  data-x="550"
+			  data-y="101"
+			  data-speed="1000"
+			  data-start="1700"
+			  data-easing="Power4.easeOut"
+			  data-endspeed="500"
+			  data-endeasing="Power1.easeIn">
+			  <strong>ALOR Coconut Water<br> with Coconut Chunks</strong>
+			</h2>
+			
+			<div class="tp-caption lfr skewtoright description span6"
+			  data-x="550"
+			  data-y="220"
+			  data-speed="1000"
+			  data-start="1500"
+			  data-easing="Power4.easeOut"
+			  data-endspeed="500"
+			  data-endeasing="Power1.easeIn">
+			  <p>Coconuts are rare fruits that are an excellent<br>
+			   source of nutrients and coconut water is an<br>
+			    amazing thirst quencher. 
+			  </p>
+			</div>
+
+			<a href="ALOR-coconut-water-chunks.php" class="btn cherry tp-caption lfb"
+			  data-x="600"
+			  data-y="332"
+			  data-speed="1000"
+			  data-start="1700"
+			  data-easing="Power4.easeOut"
+			  data-endspeed="500"
+			  data-endeasing="Power1.easeIn">
+			  Read more
+			</a>
+		  </div>
+		  
+		  <img src="img/content/slider/rs-slider4-bg.jpg" alt="" data-bgfit="cover" data-bgposition="center top" data-bgrepeat="no-repeat">
+		</li>
+		<li data-delay="15000" data-transition="fade" data-slotamount="7" data-masterspeed="1000">
+		  <div class="elements">
+			<div class="tp-caption lfl"
+			  data-x="370"
+			  data-y="160"
+			  data-speed="1000"
+			  data-start="1500"
+			  data-easing="Power4.easeOut"
+			  data-endspeed="500"
+			  data-endeasing="Power1.easeIn"
+			  style="z-index: 2">
+			  <img src="img/content/slider/rs-slider4-img1.png" alt="">
+			</div>
+			
+			<div class="tp-caption lft"
+			  data-x="210"
+			  data-y="210"
+			  data-speed="1000"
+			  data-start="1000"
+			  data-easing="Power4.easeOut"
+			  data-endspeed="500"
+			  data-endeasing="Power1.easeIn">
+			  <img src="img/content/slider/rs-slider6-p1.png" alt="">
+			</div>
+			
+			<h2 class="tp-caption lft skewtotop title span5"
+			  data-x="550"
+			  data-y="50"
+			  data-speed="1000"
+			  data-start="1700"
+			  data-easing="Power4.easeOut"
+			  data-endspeed="500"
+			  data-endeasing="Power1.easeIn">
+			  <strong>ALOR Aloe Vera Juice<br> Drink with Aloe<br> Vera Pieces</strong>
+			</h2>
+			
+			<div class="tp-caption lfr skewtoright description span6"
+			  data-x="550"
+			  data-y="220"
+			  data-speed="1000"
+			  data-start="1500"
+			  data-easing="Power4.easeOut"
+			  data-endspeed="500"
+			  data-endeasing="Power1.easeIn">
+			  <p>Coconuts are rare fruits that are an excellent<br>
+			   source of nutrients and coconut water is an<br>
+			    amazing thirst quencher. 
+			  </p>
+			</div>
+
+			<a href="products.php" class="btn cherry tp-caption lfb"
+			  data-x="600"
+			  data-y="332"
+			  data-speed="1000"
+			  data-start="1700"
+			  data-easing="Power4.easeOut"
+			  data-endspeed="500"
+			  data-endeasing="Power1.easeIn">
+			  Read more
+			</a>
+		  </div>
+		  
+		  <img src="img/content/slider/rs-slider4-bg.jpg" alt="" data-bgfit="cover" data-bgposition="center top" data-bgrepeat="no-repeat">
+		</li>
+		<li data-delay="15000" data-transition="fade" data-slotamount="7" data-masterspeed="1000">
+		  <div class="elements">
+			<div class="tp-caption lfl"
+			  data-x="350"
+			  data-y="160"
+			  data-speed="1000"
+			  data-start="1500"
+			  data-easing="Power4.easeOut"
+			  data-endspeed="500"
+			  data-endeasing="Power1.easeIn"
+			  style="z-index: 2">
+			  <img src="img/content/slider/alore-almond-milk.png" alt="">
+			</div>
+			
+			<div class="tp-caption lft"
+			  data-x="200"
+			  data-y="200"
+			  data-speed="1000"
+			  data-start="1000"
+			  data-easing="Power4.easeOut"
+			  data-endspeed="500"
+			  data-endeasing="Power1.easeIn">
+			  <img src="img/content/slider/rs-slider7-p1.png" alt="" style="height: 200px;">
+			</div>
+			
+			<h2 class="tp-caption lft skewtotop title span5"
+			  data-x="550"
+			  data-y="100"
+			  data-speed="1000"
+			  data-start="1700"
+			  data-easing="Power4.easeOut"
+			  data-endspeed="500"
+			  data-endeasing="Power1.easeIn">
+			  <strong>ALOR Almond Milk<br> Drink</strong>
+			</h2>
+			
+			<div class="tp-caption lfr skewtoright description span6"
+			  data-x="550"
+			  data-y="220"
+			  data-speed="1000"
+			  data-start="1500"
+			  data-easing="Power4.easeOut"
+			  data-endspeed="500"
+			  data-endeasing="Power1.easeIn">
+			  <p>Coconuts are rare fruits that are an excellent<br>
+			   source of nutrients and coconut water is an<br>
+			    amazing thirst quencher. 
+			  </p>
+			</div>
+
+			<a href="ALOR-almond-milk.php" class="btn cherry tp-caption lfb"
+			  data-x="600"
+			  data-y="332"
+			  data-speed="1000"
+			  data-start="1700"
+			  data-easing="Power4.easeOut"
+			  data-endspeed="500"
+			  data-endeasing="Power1.easeIn">
+			  Read more
+			</a>
+		  </div>
+		  
+		  <img src="img/content/slider/rs-slider4-bg.jpg" alt="" data-bgfit="cover" data-bgposition="center top" data-bgrepeat="no-repeat">
+		</li>
 	  </ul>
 	  <div class="tp-bannertimer"></div>
 	</div>

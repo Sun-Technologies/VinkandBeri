@@ -30,10 +30,9 @@
       <p>The <a href="https://www.nokidhungry.org/" target="_blank">No Kid Hungry campaign</a> connects children in need with nutritious food and teaches their families how to cook affordable and healthy meals. The campaign focuses on ending childhood hunger and making it a national priority. The initiative connects kids to effective nutrition programs like school breakfast and summer meals. This is done through the ‘No Kid Hungry network’, made up of private citizens, government officials, business leaders, and others providing innovative hunger solutions in their communities. As partners, we aim to work together with the No Kid Hungry network, and implement solutions that break down all hindrances that keep kids from healthy, nutritious food.</p>
       <p>At Vink &amp; Beri, we believe in giving - and giving generously - so much that it makes a real difference. Our grant helps in our vision and creates value in the life of a child who mostly needs the support.</p>
 		  </div>
-      <!--
 		  <div class="span4">
-			<img src="img/content/portfolio-9.jpg" width="100%" style="padding-top: 25%;" alt="">
-		  </div>-->
+			<img src="img/content/socialcare.jpg" width="100%" style="padding-top: 25%;" alt="">
+		  </div>
 		</div> <br><br>
 	  </article><!-- .content -->
     </div>
