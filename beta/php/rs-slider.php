@@ -292,19 +292,28 @@
 		
 		<li data-delay="15000" data-transition="fade" data-slotamount="7" data-masterspeed="1000">
 		  <div class="elements">
-			<div class="tp-caption lfl skewtoleft"
-			  data-x="20"
-			  data-hoffset="-127"
-			  data-y="bottom"
-			  data-speed="1500"
-			  data-start="1000"
+			<div class="tp-caption lfl"
+			  data-x="340"
+			  data-y="160"
+			  data-speed="1000"
+			  data-start="1500"
 			  data-easing="Power4.easeOut"
-			  data-endspeed="1000"
+			  data-endspeed="500"
 			  data-endeasing="Power1.easeIn"
-			  style="z-index: 1">
-			  <img src="img/content/slider/rs-slider3-pig.png" alt="">
+			  style="z-index: 2">
+			  <img src="img/content/slider/rs-slider4-img2.png" alt="">
 			</div>
 			
+			<div class="tp-caption lft"
+			  data-x="50"
+			  data-y="120"
+			  data-speed="1000"
+			  data-start="1000"
+			  data-easing="Power4.easeOut"
+			  data-endspeed="500"
+			  data-endeasing="Power1.easeIn">
+			  <img src="img/content/slider/rs-slider5-p1.png" alt="">
+			</div>
 			<!-- <div class="tp-caption lfl skewtoleft"
 			  data-x="left"
 			  data-hoffset="-127"
@@ -326,13 +335,13 @@
 			  data-easing="Power0.easeOut"
 			  data-endspeed="1000"
 			  data-endeasing="Power1.easeIn">
-			  <strong>ALOR Coconut<br> Water</strong>
+			  <strong>ALOR Coconut Water</strong>
 			</h2>
 			
 			
 			<div class="tp-caption customin customout description span6"
 			  data-x="509"
-			  data-y="240"
+			  data-y="200"
 			  data-customin="x:0;y:0;z:50;rotationX:90;rotationY:0;rotationZ:0;scaleX:1;scaleY:1;skewX:0;skewY:0;opacity:0;transformPerspective:200;transformOrigin:50% 0;"
 			  data-customout="x:0;y:0;z:0;rotationX:0;rotationY:0;rotationZ:0;scaleX:0.75;scaleY:0.75;skewX:0;skewY:0;opacity:0;transformPerspective:600;transformOrigin:50% 50%;"
 			  data-speed="1000"
@@ -351,8 +360,8 @@
 			</div>
 
 			<a href="ALOR-aloevera-coconut-water.php" class="tp-caption btn orang lfb skewtobottom"
-			  data-x="509"	
-			  data-y="358"
+			  data-x="530"	
+			  data-y="308"
 			  data-speed="1000"
 			  data-start="1500"
 			  data-easing="Power3.easeInOut"
