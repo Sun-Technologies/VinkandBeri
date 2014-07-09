@@ -312,7 +312,7 @@
 			  data-easing="Power4.easeOut"
 			  data-endspeed="500"
 			  data-endeasing="Power1.easeIn">
-			  <img src="img/content/slider/rs-slider5-p1.png" alt="">
+			  <img src="img/content/slider/rs-slider4-p1.png" alt="">
 			</div>
 			<!-- <div class="tp-caption lfl skewtoleft"
 			  data-x="left"
@@ -375,7 +375,7 @@
 		<li data-delay="15000" data-transition="fade" data-slotamount="7" data-masterspeed="1000">
 		  <div class="elements">
 			<div class="tp-caption lfl"
-			  data-x="370"
+			  data-x="200"
 			  data-y="160"
 			  data-speed="1000"
 			  data-start="1500"
@@ -387,16 +387,25 @@
 			</div>
 			
 			<div class="tp-caption lft"
-			  data-x="80"
+			  data-x="-20"
 			  data-y="120"
 			  data-speed="1000"
 			  data-start="1000"
 			  data-easing="Power4.easeOut"
 			  data-endspeed="500"
 			  data-endeasing="Power1.easeIn">
-			  <img src="img/content/slider/rs-slider5-p1.png" alt="">
+			  <img src="img/content/slider/rs-slider5-p1.png" alt="" style="height: 300px;">
 			</div>
-			
+			<div class="tp-caption lft"
+			  data-x="180"
+			  data-y="120"
+			  data-speed="1000"
+			  data-start="1000"
+			  data-easing="Power4.easeOut"
+			  data-endspeed="500"
+			  data-endeasing="Power1.easeIn">
+			  <img src="img/content/slider/rs-slider5-p2.png" alt="">
+			</div>
 			<h2 class="tp-caption lft skewtotop title span5"
 			  data-x="550"
 			  data-y="101"
