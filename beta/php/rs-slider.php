@@ -425,10 +425,9 @@
 			  data-easing="Power4.easeOut"
 			  data-endspeed="500"
 			  data-endeasing="Power1.easeIn">
-			  <p>Is it water or a juice? It’s both! Enjoy the exotic taste of appetizing<br> 
-			  ALOR Coconut Water and bite into its chunks as you sip.<br> 
-			  Enriched with potassium, electrolytes and minerals,<br> 
-			  it’s divinely refreshing and flavorful!<br>
+			  <p>ALOR Coconut Water with Coconut Chunks is one of the<br>
+			   best “super hydrating” drink to beat the tropical summer<br>
+			   thirst.Drink to the active and healthy side of life.
 			  </p>
 			</div>
 
@@ -500,9 +499,10 @@
 			  data-easing="Power4.easeOut"
 			  data-endspeed="500"
 			  data-endeasing="Power1.easeIn">
-			  <p>Coconuts are rare fruits that are an excellent<br>
-			   source of nutrients and coconut water is an<br>
-			    amazing thirst quencher. 
+			  <p>Alor presenting nutrients and fiber rich juice<br>
+			  of the incredible aloe-vera plant without compromising<br>
+			  on the taste with no artificial colour or flavour.<br> 
+			  Enjoy the benefit and even the exquisite taste.
 			  </p>
 			</div>
 
@@ -574,9 +574,10 @@
 			  data-easing="Power4.easeOut"
 			  data-endspeed="500"
 			  data-endeasing="Power1.easeIn">
-			  <p>Coconuts are rare fruits that are an excellent<br>
-			   source of nutrients and coconut water is an<br>
-			    amazing thirst quencher. 
+			  <p>It's a perfect milk alternative for vegan, lactose intolerant.<br>
+			  This great tasting, nutrition rich milk is devoid of artificial<br>
+			  colors or flavors.Perfectly fine at room temperature which makes<br>
+			   it a convenient, nutritious staple to pack for a trip.
 			  </p>
 			</div>
 
