@@ -130,14 +130,14 @@
 			</div>
 
 			<h2 class="tp-caption sft skewtotop title span5"
-			  data-x="430"
+			  data-x="470"
 			  data-y="180"
 			  data-speed="1000"
 			  data-start="500"
 			  data-easing="Power4.easeOut"
 			  data-endspeed="400"
 			  data-endeasing="Power1.easeIn" style="margin-top: -5%;">
-			  Aloe Vera juice drink with <br>aloe vera pieces
+			  ALOR Aloe Vera Pieces<br> in Syrup
 			</h2>
 			
 			<div class="tp-caption lfr skewtoright description span6"
@@ -292,19 +292,28 @@
 		
 		<li data-delay="15000" data-transition="fade" data-slotamount="7" data-masterspeed="1000">
 		  <div class="elements">
-			<div class="tp-caption lfl skewtoleft"
-			  data-x="20"
-			  data-hoffset="-127"
-			  data-y="bottom"
-			  data-speed="1500"
-			  data-start="1000"
+			<div class="tp-caption lfl"
+			  data-x="340"
+			  data-y="160"
+			  data-speed="1000"
+			  data-start="1500"
 			  data-easing="Power4.easeOut"
-			  data-endspeed="1000"
+			  data-endspeed="500"
 			  data-endeasing="Power1.easeIn"
-			  style="z-index: 1">
-			  <img src="img/content/slider/rs-slider3-pig.png" alt="">
+			  style="z-index: 2">
+			  <img src="img/content/slider/rs-slider4-img2.png" alt="">
 			</div>
 			
+			<div class="tp-caption lft"
+			  data-x="50"
+			  data-y="120"
+			  data-speed="1000"
+			  data-start="1000"
+			  data-easing="Power4.easeOut"
+			  data-endspeed="500"
+			  data-endeasing="Power1.easeIn">
+			  <img src="img/content/slider/rs-slider4-p1.png" alt="">
+			</div>
 			<!-- <div class="tp-caption lfl skewtoleft"
 			  data-x="left"
 			  data-hoffset="-127"
@@ -326,13 +335,13 @@
 			  data-easing="Power0.easeOut"
 			  data-endspeed="1000"
 			  data-endeasing="Power1.easeIn">
-			  <strong>Coconut water with coconut<br> chuncks</strong>
+			  <strong>ALOR Coconut Water</strong>
 			</h2>
 			
 			
 			<div class="tp-caption customin customout description span6"
 			  data-x="509"
-			  data-y="240"
+			  data-y="200"
 			  data-customin="x:0;y:0;z:50;rotationX:90;rotationY:0;rotationZ:0;scaleX:1;scaleY:1;skewX:0;skewY:0;opacity:0;transformPerspective:200;transformOrigin:50% 0;"
 			  data-customout="x:0;y:0;z:0;rotationX:0;rotationY:0;rotationZ:0;scaleX:0.75;scaleY:0.75;skewX:0;skewY:0;opacity:0;transformPerspective:600;transformOrigin:50% 50%;"
 			  data-speed="1000"
@@ -341,19 +350,18 @@
 			  data-endspeed="400"
 			  data-endeasing="Power1.easeIn">
 			  <p>
-			  Is it water or a juice? It’s both! Enjoy the exotic taste of appetizing<br> 
-			  ALOR Coconut Water and bite into its chunks as you sip.<br> 
-			  Enriched with potassium, electrolytes and minerals,<br> 
-			  it’s divinely refreshing and flavorful!<br>
+			  Coconuts are rare fruits that are an excellent<br>
+			   source of nutrients and coconut water is an<br>
+			    amazing thirst quencher. 
 			  </p>
 			  <!-- <p> Is it water or is it juice? It’s both! Enjoy the exotic taste of tasty coconuts<br>
 			   and bite into its chunks as you go. Enriched with potassium, electrolytes<br>
 			   and minerals, it’ll also give you all the hydration you need.</p> -->
 			</div>
 
-			<a href="ALOR-coconut-water-chunks.php" class="tp-caption btn orang lfb skewtobottom"
-			  data-x="509"	
-			  data-y="358"
+			<a href="ALOR-aloevera-coconut-water.php" class="tp-caption btn orang lfb skewtobottom"
+			  data-x="530"	
+			  data-y="308"
 			  data-speed="1000"
 			  data-start="1500"
 			  data-easing="Power3.easeInOut"
@@ -367,7 +375,7 @@
 		<li data-delay="15000" data-transition="fade" data-slotamount="7" data-masterspeed="1000">
 		  <div class="elements">
 			<div class="tp-caption lfl"
-			  data-x="370"
+			  data-x="200"
 			  data-y="160"
 			  data-speed="1000"
 			  data-start="1500"
@@ -379,16 +387,25 @@
 			</div>
 			
 			<div class="tp-caption lft"
-			  data-x="80"
+			  data-x="-20"
 			  data-y="120"
 			  data-speed="1000"
 			  data-start="1000"
 			  data-easing="Power4.easeOut"
 			  data-endspeed="500"
 			  data-endeasing="Power1.easeIn">
-			  <img src="img/content/slider/rs-slider5-p1.png" alt="">
+			  <img src="img/content/slider/rs-slider5-p1.png" alt="" style="height: 300px;">
 			</div>
-			
+			<div class="tp-caption lft"
+			  data-x="180"
+			  data-y="120"
+			  data-speed="1000"
+			  data-start="1000"
+			  data-easing="Power4.easeOut"
+			  data-endspeed="500"
+			  data-endeasing="Power1.easeIn">
+			  <img src="img/content/slider/rs-slider5-p2.png" alt="">
+			</div>
 			<h2 class="tp-caption lft skewtotop title span5"
 			  data-x="550"
 			  data-y="101"
@@ -408,9 +425,9 @@
 			  data-easing="Power4.easeOut"
 			  data-endspeed="500"
 			  data-endeasing="Power1.easeIn">
-			  <p>Coconuts are rare fruits that are an excellent<br>
-			   source of nutrients and coconut water is an<br>
-			    amazing thirst quencher. 
+			  <p>ALOR Coconut Water with Coconut Chunks is one of the<br>
+			   best “super hydrating” drink to beat the tropical summer<br>
+			   thirst.Drink to the active and healthy side of life.
 			  </p>
 			</div>
 
@@ -426,13 +443,13 @@
 			</a>
 		  </div>
 		  
-		  <img src="img/content/slider/rs-slider4-bg.jpg" alt="" data-bgfit="cover" data-bgposition="center top" data-bgrepeat="no-repeat">
+		  <img src="img/content/slider/rs-slider5-bg.jpg" alt="" data-bgfit="cover" data-bgposition="center top" data-bgrepeat="no-repeat">
 		</li>
 		<li data-delay="15000" data-transition="fade" data-slotamount="7" data-masterspeed="1000">
 		  <div class="elements">
-			<div class="tp-caption lfl"
-			  data-x="370"
-			  data-y="160"
+			<div class="tp-caption lft"
+			  data-x="150"
+			  data-y="155"
 			  data-speed="1000"
 			  data-start="1500"
 			  data-easing="Power4.easeOut"
@@ -442,8 +459,8 @@
 			  <img src="img/content/slider/rs-slider4-img1.png" alt="">
 			</div>
 			
-			<div class="tp-caption lft"
-			  data-x="210"
+			<div class="tp-caption lfl"
+			  data-x="-20"
 			  data-y="210"
 			  data-speed="1000"
 			  data-start="1000"
@@ -451,6 +468,16 @@
 			  data-endspeed="500"
 			  data-endeasing="Power1.easeIn">
 			  <img src="img/content/slider/rs-slider6-p1.png" alt="">
+			</div>
+			<div class="tp-caption lft"
+			  data-x="115"
+			  data-y="65"
+			  data-speed="1000"
+			  data-start="1000"
+			  data-easing="Power4.easeOut"
+			  data-endspeed="500"
+			  data-endeasing="Power1.easeIn">
+			  <img src="img/content/slider/rs-slider6-p2.png" alt="">
 			</div>
 			
 			<h2 class="tp-caption lft skewtotop title span5"
@@ -472,9 +499,10 @@
 			  data-easing="Power4.easeOut"
 			  data-endspeed="500"
 			  data-endeasing="Power1.easeIn">
-			  <p>Coconuts are rare fruits that are an excellent<br>
-			   source of nutrients and coconut water is an<br>
-			    amazing thirst quencher. 
+			  <p>Alor presenting nutrients and fiber rich juice<br>
+			  of the incredible aloe-vera plant without compromising<br>
+			  on the taste with no artificial colour or flavour.<br> 
+			  Enjoy the benefit and even the exquisite taste.
 			  </p>
 			</div>
 
@@ -490,13 +518,13 @@
 			</a>
 		  </div>
 		  
-		  <img src="img/content/slider/rs-slider4-bg.jpg" alt="" data-bgfit="cover" data-bgposition="center top" data-bgrepeat="no-repeat">
+		  <img src="img/content/slider/rs-slider6-bg.jpg" alt="" data-bgfit="cover" data-bgposition="center top" data-bgrepeat="no-repeat">
 		</li>
 		<li data-delay="15000" data-transition="fade" data-slotamount="7" data-masterspeed="1000">
 		  <div class="elements">
 			<div class="tp-caption lfl"
-			  data-x="350"
-			  data-y="160"
+			  data-x="230"
+			  data-y="130"
 			  data-speed="1000"
 			  data-start="1500"
 			  data-easing="Power4.easeOut"
@@ -507,7 +535,7 @@
 			</div>
 			
 			<div class="tp-caption lft"
-			  data-x="200"
+			  data-x="100"
 			  data-y="200"
 			  data-speed="1000"
 			  data-start="1000"
@@ -515,6 +543,16 @@
 			  data-endspeed="500"
 			  data-endeasing="Power1.easeIn">
 			  <img src="img/content/slider/rs-slider7-p1.png" alt="" style="height: 200px;">
+			</div>
+			<div class="tp-caption lft"
+			  data-x="255"
+			  data-y="225"
+			  data-speed="1000"
+			  data-start="1000"
+			  data-easing="Power4.easeOut"
+			  data-endspeed="500"
+			  data-endeasing="Power1.easeIn">
+			  <img src="img/content/slider/rs-slider7-p2.png" alt="" style="height: 200px;">
 			</div>
 			
 			<h2 class="tp-caption lft skewtotop title span5"
@@ -536,9 +574,10 @@
 			  data-easing="Power4.easeOut"
 			  data-endspeed="500"
 			  data-endeasing="Power1.easeIn">
-			  <p>Coconuts are rare fruits that are an excellent<br>
-			   source of nutrients and coconut water is an<br>
-			    amazing thirst quencher. 
+			  <p>It's a perfect milk alternative for vegan, lactose intolerant.<br>
+			  This great tasting, nutrition rich milk is devoid of artificial<br>
+			  colors or flavors.Perfectly fine at room temperature which makes<br>
+			   it a convenient, nutritious staple to pack for a trip.
 			  </p>
 			</div>
 
@@ -554,7 +593,7 @@
 			</a>
 		  </div>
 		  
-		  <img src="img/content/slider/rs-slider4-bg.jpg" alt="" data-bgfit="cover" data-bgposition="center top" data-bgrepeat="no-repeat">
+		  <img src="img/content/slider/rs-slider7-bg.jpg" alt="" data-bgfit="cover" data-bgposition="center top" data-bgrepeat="no-repeat">
 		</li>
 	  </ul>
 	  <div class="tp-bannertimer"></div>
