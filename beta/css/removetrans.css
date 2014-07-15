@@ -1,0 +1,6 @@
+@media screen and (max-width: 500px) {
+	.description {
+		visibility: hidden;
+		opacity: 0.2;
+	}
+}
