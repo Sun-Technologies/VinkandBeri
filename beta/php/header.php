@@ -16,7 +16,8 @@
   <link rel='stylesheet' href="css/style.css">
   <link rel='stylesheet' href="css/responsive.css">
   <link rel='stylesheet' href="css/pages.css">
-  <link rel='stylesheet' href="css/style1.css">  
+  <link rel='stylesheet' href="css/style1.css">
+  <link rel='stylesheet' href="css/removetrans.css">  
   <!--[if IE]>
 	<link rel='stylesheet' href="css/ie/ie.css">
     <script src="//html5shiv.googlecode.com/svn/trunk/html5.js"></script>
