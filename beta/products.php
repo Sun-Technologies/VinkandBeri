@@ -95,13 +95,13 @@
 			
 			<h3>Nutrition Facts</h3>
 			 
-			<img width="300" align="right" src="img/content/nutrition-1.png" alt="" style="margin-top:-120px;">
+			<img width="300" align="right" src="img/content/nutrition-1.png" alt="" style="margin-top:-70px;">
 			
 			
 			
 			<div class="description">
-			  ALOE VERA JUICE DRINK WITH ALOE VERA PIECES : Alor Aloe Vera Juice is a All Natural Drink packed with ample benefits and goodness.It made from the real Aloe Vera pieces and contains no artificial colour or flavor. Prepared keeping in mind of providing ultimate taste of the Real Aloe Vera which can boost the energy to the peak.
-Now, pick your favorite since it is an anytime drink- the taste and health which you always look for.
+			  ALOR Aloe Vera Juice is an all-natural drink packed with ample benefits and goodness. Pick your favorite drink and enjoy it anytime you like now - it is endowed with the taste and health you always wanted!<br>
+			  Aloe Vera is cooling to the system and aids in digestion, fights indigestion and has excellent healing properties for the skin. ALOR Aloe Vera Juice with real Aloe Vera pieces contains no artificial color or flavor to make it the perfectly healthy, tasty and fun drink for you!                  
 			</div>
 		  </div>
 		  

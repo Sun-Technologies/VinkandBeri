@@ -5,7 +5,7 @@
 		<li data-delay="15000" data-transition="fade" data-slotamount="7" data-masterspeed="1000">
 		  <div class="elements">
 			<div class="tp-caption lfl"
-			  data-x="120"
+			  data-x="118"
 			  data-y="175"
 			  data-speed="1000"
 			  data-start="1500"
@@ -17,30 +17,32 @@
 			</div>
 			
 			<div class="tp-caption lft"
-			  data-x="328"
-			  data-y="172"
+			  data-x="275"
+			  data-y="175"
 			  data-speed="1000"
 			  data-start="1000"
 			  data-easing="Power4.easeOut"
 			  data-endspeed="500"
-			  data-endeasing="Power1.easeIn">
-			  <img src="img/content/slider/rs-slider4-img20.png" alt="">
+			  data-endeasing="Power1.easeIn"
+			  style="z-index: 10">
+			  <img src="img/content/slider/rs-slider4-img10.png" alt="">
 			</div>
 			
 			<div class="tp-caption lft"
-			  data-x="215"
-			  data-y="172"
+			  data-x="197"
+			  data-y="175"
 			  data-speed="1000"
 			  data-start="1200"
 			  data-easing="Power4.easeOut"
 			  data-endspeed="500"
-			  data-endeasing="Power1.easeIn">
-			  <img src="img/content/slider/rs-slider4-img2.png" alt="">
+			  data-endeasing="Power1.easeIn"
+			  style="z-index: 10">
+			  <img src="img/content/slider/alore-almond-milk.png" alt="">
 			</div>
 			
 			<div class="tp-caption lfb"
 			  data-x="-32"
-			  data-y="400"
+			  data-y="390"
 			  data-speed="1000"
 			  data-start="1000"
 			  data-easing="Power4.easeOut"
@@ -50,7 +52,7 @@
 			</div>
 			
 			<div class="tp-caption lfb"
-			  data-x="429"
+			  data-x="367"
 			  data-y="173"
 			  data-speed="1000"
 			  data-start="1800"
@@ -58,10 +60,10 @@
 			  data-endspeed="500"
 			  data-endeasing="Power1.easeIn"
 			  style="z-index: 4">
-			  <img src="img/content/slider/rs-slider4-img10.png" alt="">
+			  <img src="img/content/slider/rs-slider4-img20.png" alt="">
 			</div>
 			<div class="tp-caption lfb"
-			  data-x="510"
+			  data-x="477"
 			  data-y="175"
 			  data-speed="1000"
 			  data-start="1800"
@@ -69,7 +71,7 @@
 			  data-endspeed="500"
 			  data-endeasing="Power1.easeIn"
 			  style="z-index: 4">
-			  <img src="img/content/slider/alore-almond-milk.png" alt="">
+			  <img src="img/content/slider/rs-slider4-img2.png" alt="">
 			</div>
 			
 			<div class="tp-caption lfl"
@@ -360,7 +362,7 @@
 			  data-easing="Back.easeInOut"
 			  data-endspeed="400"
 			  data-endeasing="Power1.easeIn">
-			  <p style="color: blue;">
+			  <p style="color: maroon;">
 			  Coconuts are rare fruits that are an excellent<br>
 			   source of nutrients and coconut water is an<br>
 			    amazing thirst quencher. 

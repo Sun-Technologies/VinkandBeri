@@ -18,13 +18,16 @@
   </div>
 </div><!-- .breadcrumb-box -->
 <section id="main">
-  <div class="container">
-    <div class="row">
+	<header class="page-header">
+		<div class="container">
+		<h1 class="title">Career opportunities</h1>
+		</div>
+	</header>
+  <div class="container">  
+  	<div class="row">
       <article class="content span12">
 		<div class="row">
-		  
 		  <div class="span6">
-			<h1>Career opportunities</h1>
 			<p>Your Future Starts here. If you are a self motivated, 
 			passionate and willing to share our enthusiasm, you are at the right place. 
 			Vink and Beri is committed to providing employees with the right 
@@ -43,11 +46,11 @@
 		<div class="title-box">
 		  <h2 class="title">Latest jobs openings</h2>
 		</div>
-		
-		  <?php include 'php/career-accordin1.php'; ?>
-		  <?php include 'php/career-accordin2.php'; ?>
-		  <?php include 'php/career-accordin3.php'; ?>
-		  <?php include 'php/career-accordin4.php'; ?>
+		<?php include 'php/career-accordin3.php'; ?>
+		 <!--
+		  <?php/* include 'php/career-accordin1.php'; */?>-->
+		  <!--<?php/* include 'php/career-accordin2.php'; */?>-->
+		  <!--<?php /*include 'php/career-accordin4.php'; */?>-->
 		</div>	
 	  </article><!-- .content -->
     </div>

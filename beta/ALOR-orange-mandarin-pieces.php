@@ -94,18 +94,10 @@
 			</div>-->
 			
 			<h3>Nutrition Facts</h3>
-			<img width="300" align="right" src="img/content/nutrition-2.png" alt="" style="margin-top:-120px;">
+			<img width="300" align="right" src="img/content/nutrition-2.png" alt="" style="margin-top:-70px;">
 			<div class="description">
-			  Presenting Alor Orange Nectar with real mandarin 
-			  orange pieces. Now you can relish the tangy taste 
-			  of luscious oranges and bite into their juicy taste 
-			  too! A rare combination of Brazilian orange with 
-			  South Korean mandarin pieces procured specially 
-			  from Jeju Island enriches the sweety yet delicious 
-			  juicy taste. Now treat yourself to the never before 
-			  exciting blend of Alor Orange Nectar with Real 
-			  Mandarin Orange pieces and feel yourself refreshed, 
-			  all through the day.
+			  ALOR Orange Nectar contains real mandarin and orange pieces. Now you can relish the tangy taste of luscious oranges and bite into their juicy taste too! A rare combination of Brazilian orange with South Korean mandarin pieces procured specially from Jeju Island enriches the sweet yet delicious juicy taste. Now treat yourself to the never before exciting blend of ALOR Orange Nectar with Real Mandarin Orange pieces and feel yourself refreshed, all through the day.<br>
+			  Oranges help prevent cancer and kidney diseases, lowers cholesterol and boosts heart health. Get your daily dose of oranges with ALOR Orange Nectar with Real Mandarin Orange Pieces. 
 			</div>
 		  </div>
 		  

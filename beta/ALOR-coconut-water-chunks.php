@@ -98,17 +98,13 @@
 			
 			<h3>Nutrition Facts</h3>
 			 
-			<img width="300" align="right" src="img/content/nutrition-5.png" alt="" style="margin-top:-120px;">
+			<img width="300" align="right" src="img/content/nutrition-5.png" alt="" style="margin-top:-70px;">
 			
 			
 			
 			<div class="description">
-			  Delicious water and tender coconut pieces together 
-        give you actual burst of energy. Anytime, Anywhere! 
-        This delectable combination has source of potassium, 
-        electrolytes and minerals to replenish hydration 
-        levels with the body. And its totally devoid of fats. 
-        Discover an active you.
+			  Delicious Coconut Water and tender coconut pieces come together to give an actual burst of energy. Drink ALOR Coconut Water with Coconut Chunks anytime and anywhere you like! Pick a can of ALOR Coconut Water with Coconut Chunks and discover an active you!<br>
+			  Coconuts are a rich source of potassium, electrolytes and minerals to replenish hydration levels within the body. Plus, it’s completely devoid of fats and contains coconut chunks for additional benefits. It is a proven fact that those who eat coconuts are some of the healthiest people on earth. So make sure to get your fill of coconuts today! 
 			</div>
 		  </div>
 		  
