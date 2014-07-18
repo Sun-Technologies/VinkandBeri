@@ -55,7 +55,7 @@
 				M11.001,12H5V2h6V12z"/>
 			</svg>
 		  </div>
-          <strong class="title">Call Us:</strong> +1-(215)-614-5252
+          <strong class="title">Call Us:</strong> +1-(215)-654-5252
         </div>
         <div class="span3 address">
           <div class="footer-icon">

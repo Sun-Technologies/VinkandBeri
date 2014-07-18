@@ -5,39 +5,39 @@
 		<li data-delay="15000" data-transition="fade" data-slotamount="7" data-masterspeed="1000">
 		  <div class="elements">
 			<div class="tp-caption lfl"
-			  data-x="118"
-			  data-y="175"
+			  data-x="107"
+			  data-y="160"
 			  data-speed="1000"
 			  data-start="1500"
 			  data-easing="Power4.easeOut"
 			  data-endspeed="500"
 			  data-endeasing="Power1.easeIn"
 			  style="z-index: 2">
-			  <img src="img/content/slider/rs-slider4-img1.png" alt="">
+			  <img src="img/content/slider/rs-slider4-img112.png" alt="" style="height: 250px;">
 			</div>
 			
 			<div class="tp-caption lft"
-			  data-x="275"
-			  data-y="175"
+			  data-x="270"
+			  data-y="160"
 			  data-speed="1000"
 			  data-start="1000"
 			  data-easing="Power4.easeOut"
 			  data-endspeed="500"
 			  data-endeasing="Power1.easeIn"
 			  style="z-index: 10">
-			  <img src="img/content/slider/rs-slider4-img10.png" alt="">
+			  <img src="img/content/slider/rs-slider4-img101.png" alt="" style="height: 250px;">
 			</div>
 			
 			<div class="tp-caption lft"
-			  data-x="197"
-			  data-y="175"
+			  data-x="189"
+			  data-y="160"
 			  data-speed="1000"
 			  data-start="1200"
 			  data-easing="Power4.easeOut"
 			  data-endspeed="500"
 			  data-endeasing="Power1.easeIn"
 			  style="z-index: 10">
-			  <img src="img/content/slider/alore-almond-milk.png" alt="">
+			  <img src="img/content/slider/alore-almond-milk1.png" alt="" style="height: 250px;">
 			</div>
 			
 			<div class="tp-caption lfb"
@@ -52,7 +52,7 @@
 			</div>
 			
 			<div class="tp-caption lfb"
-			  data-x="367"
+			  data-x="369"
 			  data-y="173"
 			  data-speed="1000"
 			  data-start="1800"
@@ -60,7 +60,7 @@
 			  data-endspeed="500"
 			  data-endeasing="Power1.easeIn"
 			  style="z-index: 4">
-			  <img src="img/content/slider/rs-slider4-img20.png" alt="">
+			  <img src="img/content/slider/rs-slider4-img201.png" alt="">
 			</div>
 			<div class="tp-caption lfb"
 			  data-x="477"
@@ -71,19 +71,19 @@
 			  data-endspeed="500"
 			  data-endeasing="Power1.easeIn"
 			  style="z-index: 4">
-			  <img src="img/content/slider/rs-slider4-img2.png" alt="">
+			  <img src="img/content/slider/rs-slider4-img21.png" alt="">
 			</div>
 			
 			<div class="tp-caption lfl"
 			  data-x="10"
-			  data-y="240"
+			  data-y="186"
 			  data-speed="500"
 			  data-start="2000"
 			  data-easing="Power4.easeOut"
 			  data-endspeed="500"
 			  data-endeasing="Power1.easeIn"
 			  style="z-index: 3">
-			  <img src="img/content/slider/rs-slider4-img11.png" alt="">
+			  <img src="img/content/slider/rs-slider4-img111.png" alt="">
 			</div>
 			
 			<h2 class="tp-caption lft skewtotop title span5"
@@ -131,15 +131,15 @@
 		<li data-delay="15000" data-transition="fade" data-slotamount="7" data-masterspeed="1000">
 		  <div class="elements">
 			<div class="tp-caption lfb skewtobottom"
-			  data-x="-20"
-			  data-y="66"
+			  data-x="-10"
+			  data-y="-46"
 			  data-speed="1000"
 			  data-start="500"
 			  data-easing="Power4.easeOut"
 			  data-endspeed="500"
 			  data-endeasing="Power1.easeIn"
 			  style="z-index: 3">
-			  <img src="img/content/slider/rs-slider1-phone.png" alt="">
+			  <img src="img/content/slider/rs-slider1-phone.png" alt="" style="height: 500px;">
 			</div>
 
 			<h2 class="tp-caption sft skewtotop title span5"
@@ -186,37 +186,6 @@
 			  style="z-index: 5; margin-top: -1%;">
 			  Read more
 			</a>
-			
-			<div class="tp-caption lfb skewtobottom customin customout phone-text"
-			  data-x="359"
-			  data-y="325"
-			  data-customin="x:0;y:55;z:0;rotationX:0;rotationY:0;rotationZ:0;scaleX:0;scaleY:0;skewX:0;skewY:0;opacity:0;transformPerspective:600;transformOrigin:50% 50%;"
-			  data-customout="x:0;y:55;z:0;rotationX:0;rotationY:0;rotationZ:0;scaleX:1;scaleY:1;skewX:0;skewY:0;opacity:0;transformPerspective:600;transformOrigin:50% 50%;"
-			  data-speed="1000"
-			  data-start="1000"
-			  data-easing="Power0.easeOut"
-			  data-end="3500"
-			  data-endspeed="400"
-			  data-endeasing="Power0.easeIn"
-			  data-captionhidden="on"
-			  style="z-index: 2">
-			  HTML5
-			</div>
-			
-			<div class="tp-caption lfb skewtobottom customin customout phone-text"
-			  data-x="365"
-			  data-y="325"
-			  data-customin="x:0;y:55;z:0;rotationX:0;rotationY:0;rotationZ:0;scaleX:0;scaleY:0;skewX:0;skewY:0;opacity:0;transformPerspective:600;transformOrigin:50% 50%;"
-			  data-customout="x:0;y:55;z:0;rotationX:0;rotationY:0;rotationZ:0;scaleX:1;scaleY:1;skewX:0;skewY:0;opacity:0;transformPerspective:600;transformOrigin:50% 50%;"
-			  data-speed="1000"
-			  data-start="3600"
-			  data-easing="Power0.easeOut"
-			  data-endspeed="400"
-			  data-endeasing="Power0.easeIn"
-			  data-captionhidden="on"
-			  style="z-index: 2">
-			  CSS3
-			</div>
 		  </div>
 		  
 		  <img src="img/content/slider/rs-slider1-bg.jpg" alt="" data-bgfit="cover" data-bgposition="center top" data-bgrepeat="no-repeat">
@@ -318,14 +287,14 @@
 			</div>
 			
 			<div class="tp-caption lft"
-			  data-x="-50"
-			  data-y="50"
+			  data-x="50"
+			  data-y="110"
 			  data-speed="1000"
 			  data-start="1000"
 			  data-easing="Power4.easeOut"
 			  data-endspeed="500"
 			  data-endeasing="Power1.easeIn">
-			  <img src="img/content/slider/rs-slider5-p1.png" alt="" style="height: 500px; width: 500px;">
+			  <img src="img/content/slider/rs-slider5-p1.png" alt="">
 			</div>
 			<div class="tp-caption lft"
 			  data-x="180"
@@ -372,7 +341,7 @@
 			  data-easing="Back.easeInOut"
 			  data-endspeed="400"
 			  data-endeasing="Power1.easeIn">
-			  <p style="color: maroon;">
+			  <p style="color: maroon; opacity: 1.0;">
 			  Coconuts are rare fruits that are an excellent<br>
 			   source of nutrients and coconut water is an<br>
 			    amazing thirst quencher. 
@@ -398,7 +367,7 @@
 		<li data-delay="15000" data-transition="fade" data-slotamount="7" data-masterspeed="1000">
 		  <div class="elements">
 			<div class="tp-caption lfl"
-			  data-x="200"
+			  data-x="280"
 			  data-y="160"
 			  data-speed="1000"
 			  data-start="1500"
@@ -408,16 +377,16 @@
 			  style="z-index: 2">
 			  <img src="img/content/slider/rs-slider4-img20.png" alt="">
 			</div>
-			<div class="tp-caption lft"
-			  data-x="-100"
-			  data-y="90"
+			<!--<div class="tp-caption lft"
+			  data-x="-60"
+			  data-y="150"
 			  data-speed="1000"
 			  data-start="1000"
 			  data-easing="Power4.easeOut"
 			  data-endspeed="500"
 			  data-endeasing="Power1.easeIn">
 			  <img src="img/content/slider/rs-slider8-p2.png" alt=""style="width: 500px; height: 300px;">
-			</div>
+			</div>-->
 			<h2 class="tp-caption lft skewtotop title span5"
 			  data-x="550"
 			  data-y="101"
@@ -437,7 +406,7 @@
 			  data-easing="Power4.easeOut"
 			  data-endspeed="500"
 			  data-endeasing="Power1.easeIn">
-			  <p>ALOR Coconut Water with Coconut Chunks is one of the<br>
+			  <p style="color: maroon;">ALOR Coconut Water with Coconut Chunks is one of the<br>
 			   best “super hydrating” drink to beat the tropical summer<br>
 			   thirst.Drink to the active and healthy side of life.
 			  </p>

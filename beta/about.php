@@ -38,18 +38,11 @@
   <div class="container">
     <div class="row">
     <article class="content span12">
-		<p>The US arm of Tropical General Investment (TGI) Group, Vink and Beri LLC (V&amp;B) is 
-    involved in the manufacturing of all-natural food products and is dedicated to 
-    shaping and defining the future of the food industry. <br>
-		Headquartered in Montgomeryville, PA, we reach out to major continents across 
-    the globe namely Europe, Asia, Middle East and Africa. With ALOR as our registered 
-    trademark, we’ve succeeded in launching several desirable items in 11 countries, 
-    including the US, which have set all-new benchmarks in the food world.<br>
-		Our primary objective is to present our consumers with a range of food products 
-    they find lip-smashingly tasty without compromising on the health factor. <br>
-		V&amp;B is committed to excellence and offers the best quality products that 
-    consumers find irresistibly delicious. At V&amp;B, we not only believe in consumer 
-    satisfaction but strive for consumer delight!</p>
+		<p>The US arm of Tropical General Investment (TGI) Group, Vink and Beri LLC (V&amp;B) is involved in the manufacturing and marketing of all-natural food products and is dedicated to shaping and 
+      defining the future of the food industry.<br>TGI as a group reaches out to 11 countries across globe covering major continents namely Europe, Asia, Middle East, Africa and the America. Headquartered
+      in Montgomeryville, PA and ALOR as our trademark we have succeeded in launching healthy food products as fun drinks and snacks, which have set benchmark in the food world.<br>
+      Our primary objective is to present our consumers with a range of food products they find lip-smashingly tasty without compromising on the health factor.<br>V&B is committed to excellence and offers
+      the best quality products that consumers find irresistibly delicious. At V&B, we not only believe in consumer satisfaction but strive for consumer delight!</p>
 		<div class="row">
 		  <div class="clearfix"></div>
 		  <div class="span6 bottom-padding">
@@ -198,21 +191,12 @@
             <!-- <img alt="" src="img/content/team-1.jpg" width="160" align="left" hspace="20" vspace="10">	 -->		
             <h6 class="title"><a href="#">Vipul Chander Beri</a></h6>					
             <div class="text-small">
-            Vipul is the founding CEO and President of Vink and Beri. 
-            He has been associated with the TGI Group since 2002 
-            and has four decades of rich corporate working experience.  
+            Vipul is the founding CEO and President of Vink &amp; Beri. He has been associated with the TGI Group since 2002 and has four decades of rich corporate experience. 
             <br> <br> 
-            With a background in chemical engineering, his vision and 
-            leadership has seen TGI emerge as a strong group that is respected world-over. 
-            His journey began in 1980 when he established the first food factory in the 
-            African Continent where the company emerged as a leader. 
-            Thanks to his hard-work, team building and contributions, 
-            he has been personally honored by one of the highest civilian award. 
-            The brands his companies developed have been rated as most 
-            liked and talked about Superbrands. Cornelis values are carried 
-            forward by the respective teams, who are always ready to carry 
-            out numerous social, value-driven and need based projects for 
-            well being of the society in the group companies.</div>			  
+            Prior to shifting his base in the US, Vipul headed CHI Limited, Nigeria for a decade as the Managing Director which emerged as the largest non-carbonated beverage and 
+            snacks food Company in West Africa. He was also the founding CEO of Uncle Chips Company Limited for 13 years and is hailed as the torch bearer of Snacks Food Revolution
+            in India. Vipul firmly believes that nutritional and healthy food products should be easily accessible to everyone. Vipul emphasized availability of products at 'Desire's 
+            arm’s length'. He is a qualified Chemical Engineer and has rare expertise in building up teams and strong brands. </div>			  
             </div> 
 
 						</div>	
@@ -222,23 +206,13 @@
 						<!-- <img alt="" src="img/content/team-2.jpg" width="160" align="left" hspace="20" vspace="10"> -->		
 						<h6 class="title"><a href="#">Cornelis Gerardus Vink</a></h6>					
 						<div class="text-small">
-            Cornelis is the Group Chairman of Tropical General Investment (TGI) 
-            Group as well as Vink &amp; Beri. With more than 40 years of experience, 
-            he has successfully established and run companies across the globe. 
-            As a businessman, Cornelis has always worked with a vision to offer 
-            quality and healthy food products at affordable prices to everyone.
+            Cornelis is the Group Chairman of Tropical General Investment (TGI) Group including Vink &amp; Beri. With more than 40 years of experience, he has successfully established
+            and run companies across the globe. As a businessman, Cornelis has always worked with a vision to offer quality and healthy food products at affordable price.
             <br> <br>
-            With a background in chemical engineering, his vision and leadership 
-            has seen TGI emerge as a strong group that is respected world-over. 
-            His journey began in 1980 when he established the first food factory 
-            in the African Continent where the company emerged as a leader. 
-            Thanks to his hard-work, team building and contributions, 
-            he has been personally honored by one of the highest civilian award. 
-            The brands his companies developed have been rated as most liked and 
-            talked about Superbrands. Cornelis values are carried forward by the 
-            respective teams, who are always ready to carry out numerous social, 
-            value-driven and need based projects for well being of the society 
-            in the group companies. 
+            With a background in Chemical Engineering, his vision and leadership has seen TGI emerge as a strong group that is respected world-over. His journey began in 1980 when the
+            first food factory was established in the African Continent where the company emerged as the leader. Thanks to his hard-work, team building and personal contribution, Cornelis
+            is honored by one of the highest civilian awards. The brands developed by group companies have been most liked and talked about Superbrands. Cornelis values are carried forward
+            by the respective teams, spearheading numerous social, value-driven and need based projects for wellbeing of the society.
             </div>				
             </div>		  
             </div> 

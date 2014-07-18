@@ -78,7 +78,7 @@
         </address>
         <address class="span3">
         <div class="title">Phones</div>
-        <div>Support: +1-(215)-614-5252 </div>
+        <div>Support: +1-(215)-654-5252 </div>
         </address>
         <address class="span3">
         <div class="title">Email Addresses</div>
