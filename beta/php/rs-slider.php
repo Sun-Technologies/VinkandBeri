@@ -240,7 +240,7 @@
 			<div class="tp-caption lfb skewtobottom customin"
 			  data-x="right"
 			  data-hoffset="-300"
-			  data-y="130"
+			  data-y="50"
 			  data-customin="x:0;y:0;z:0;rotationX:0;rotationY:0;rotationZ:-360;scaleX:0;scaleY:0;skewX:0;skewY:0;opacity:0;transformPerspective:600;transformOrigin:50% 50%;"
 			  data-speed="1000"
 			  data-start="1000"
@@ -249,7 +249,7 @@
 			  data-endspeed="500"
 			  data-endeasing="Power1.easeIn"
 			  style="z-index: 3">
-			  <img src="img/content/slider/rs-slider2-img.png" alt="" style="height: 320px;">
+			  <img src="img/content/slider/rs-slider2-img.png" alt="" style="height: 400px;">
 			</div>
 			
 			<div class="tp-caption lfb customout"
@@ -367,8 +367,8 @@
 		<li data-delay="15000" data-transition="fade" data-slotamount="7" data-masterspeed="1000">
 		  <div class="elements">
 			<div class="tp-caption lfl"
-			  data-x="280"
-			  data-y="160"
+			  data-x="100"
+			  data-y="180"
 			  data-speed="1000"
 			  data-start="1500"
 			  data-easing="Power4.easeOut"
@@ -377,16 +377,26 @@
 			  style="z-index: 2">
 			  <img src="img/content/slider/rs-slider4-img20.png" alt="">
 			</div>
-			<!--<div class="tp-caption lft"
-			  data-x="-60"
-			  data-y="150"
+			<div class="tp-caption lft"
+			  data-x="150"
+			  data-y="130"
 			  data-speed="1000"
 			  data-start="1000"
 			  data-easing="Power4.easeOut"
 			  data-endspeed="500"
 			  data-endeasing="Power1.easeIn">
-			  <img src="img/content/slider/rs-slider8-p2.png" alt=""style="width: 500px; height: 300px;">
-			</div>-->
+			  <img src="img/content/slider/rs-slider8-p2.png" alt="" style="width: 300px; height: 300px;">
+			</div>
+			<div class="tp-caption lft"
+			  data-x="-70"
+			  data-y="200"
+			  data-speed="1000"
+			  data-start="1000"
+			  data-easing="Power4.easeOut"
+			  data-endspeed="500"
+			  data-endeasing="Power1.easeIn">
+			  <img src="img/content/slider/rs-slider8-p3.png" alt="" style="width: 300px; height: 200px;">
+			</div>
 			<h2 class="tp-caption lft skewtotop title span5"
 			  data-x="550"
 			  data-y="101"
