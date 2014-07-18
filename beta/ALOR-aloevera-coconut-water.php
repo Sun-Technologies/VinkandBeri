@@ -94,17 +94,14 @@
 			
 			<h3>Nutrition Facts</h3>
 			 
-			<img width="300" align="right" src="img/content/nutrition-4.png" alt="" style="margin-top:-120px;">
+			<img width="300" align="right" src="img/content/nutrition-4.png" alt="" style="margin-top:-70px;">
 			
 			
 			
 			<div class="description">
-			  Now get ready for the real burst of energy. Anytime, 
-        Anywhere with Alor coconut water. It has source of 
-        potassium, electrolytes and minerals to replenish 
-        hydration levels with the body. And its totally devoid 
-        of fats. It has no artificial flavor and color. 
-        It is pure. Discover an active you.
+			  ALOR Coconut Water is an anytime time that can be enjoyed anywhere, with friends at a party or just while you are busy on the go. An anytime refresher, it will invigorate and revitalize you!  
+ALOR Coconut Water is an excellent source of potassium, electrolytes and minerals to replenish hydration levels within the body. Plus, it is totally devoid of fats and contains no artificial flavors or colors. Coconuts improve heart health, prevent obesity and are high in dietary fiber. Coconut water is an excellent thirst quencher and an anytime drink. Try ALOR Coconut Water- Drink absolute purity! 
+
 			</div>
 		  </div>
 		  

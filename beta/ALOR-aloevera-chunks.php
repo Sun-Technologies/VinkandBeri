@@ -85,17 +85,13 @@
 			
 			<h3>Nutrition Facts</h3>
 			 
-			<img width="300" align="right" src="img/content/nutrition-3.png" alt="" style="margin-top:-120px;">
+			<img width="300" align="right" src="img/content/nutrition-3.png" alt="" style="margin-top:-70px;">
 			
 			
 			
 			<div class="description">
-			  Filled with Minerals, vitamins and amino acids, ALOE VERA 
-        DICED PIECES IN SYRUP WITH ADDED HONEY offers a wide range 
-        of health benefits. The delicious syrup with added honer boosts 
-        the taste with Diced Pieces. Get the best of both worlds. Treat 
-        yourself to the great taste and give your body the health benefit 
-        it deserves. Just open the pack and treat yourself to healthy snacks.
+			 A delicious blend of aloe and honey enhances the taste of exotic ALOR Aloe Vera Pieces offers multiple health goodness. Treat yourself now to a gorgeous pack of ALOR Aloe Vera Pieces in Syrup and relish its exquisite taste.<br>
+			 Honey contains flavonoids, antioxidants which help reduce the risk of some cancers and heart disease. It is also anti-bacterial and anti-fungal. Plus, aloe vera pieces are filled with minerals, vitamins and amino acids, to offer you a wide range of health benefits. Get the best of both taste and health now!             
 			</div>
 		  </div>
 		  

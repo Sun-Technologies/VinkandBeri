@@ -17,12 +17,16 @@
   </div>
 </div><!-- .breadcrumb-box -->
 <section id="main">
+  <header class="page-header">
+    <div class="container">
+    <h1 class="title">Social Care</h1>
+    </div>
+  </header>
   <div class="container">
     <div class="row">
       <article class="content span12">
 		<div class="row">
 		  <div class="span8">
-			<h1>Social Care</h1>
 			<p>We believe that every company has a social responsibility they must fulfill and work towards achieving. At Vink &amp; Beri, we are passionate about social care and always endeavor to contribute to society. As manufacturers and marketers of natural food products, we aim to creatively offer natural, nutritious and amazing items that are produced in an environmentally sustainable and socially responsible way.<p>
       <p>We emphasize a great deal on the quality of our products and believe in honesty and fair pricing. We are committed to excellence and this factor clearly reflects across all Vink &amp; Beri products.</p>
       <p>The principles that guide us in delivering the best in social care include transparency, sincerity and fairness. We are always striving hard to initiate new social activities that create value for our consumers as well as society at large.</p>

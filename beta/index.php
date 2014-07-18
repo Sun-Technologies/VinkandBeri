@@ -26,7 +26,7 @@
 					</div>
 					<div class="work-title">
 					<!--<h3 class="title">Aloe Vera Juice</h3>-->
-					<div class="description" style="font-size: 15px;">Explore our products OR Know More</div>
+					<div class="description1" style="font-size: 15px;">Explore our products OR Know More</div>
 					</div>
 				</a>
 				<br>
@@ -61,7 +61,7 @@
 					</div>
 					<div class="work-title">
 					<!--<h3 class="title">Aloe Vera Juice</h3>-->
-					<div class="description" style="font-size: 15px;">Discover simple and delicious recipes </div>
+					<div class="description1" style="font-size: 15px;">Discover simple and delicious recipes </div>
 					</div>
 				</a>
 				<br>
@@ -102,7 +102,7 @@
 					</div>
 					<div class="work-title">
 					<!--<h3 class="title">Aloe Vera Juice</h3>-->
-					<div class="description" style="font-size: 15px;">Explore more about Health &amp; Nutrition</div>
+					<div class="description1" style="font-size: 15px;">Explore more about Health &amp; Nutrition</div>
 					</div>
 				</a>
 				<br>
@@ -156,7 +156,8 @@
 		<h6><a href="http://www.youtube.com/watch?v=z-EaDnVB-po">Vink &amp; Beri Commercial || ALOR Tender</a></h6>				  
 		</div>
 		<div class="computer">				  
-		<iframe scrolling="no" frameborder="0" style="border:none; overflow:hidden; width:574px; height:322px " id="c" allowfullscreen="allowfullscreen" mozallowfullscreen="true" webkitallowfullscreen="true" src="//www.youtube.com/embed/z-EaDnVB-po?wmode=transparent&amp;autoplay=0&amp;theme=dark&amp;controls=1&amp;autohide=0&amp;loop=0&amp;showinfo=0&amp;rel=0"></iframe>
+		<iframe scrolling="no" frameborder="0" style="border:none; overflow:hidden; width:574px; height:322px" id="c" allowfullscreen="allowfullscreen" mozallowfullscreen="true"
+		 webkitallowfullscreen="true" src="http://www.youtube.com/embed/z-EaDnVB-po?wmode=transparent&amp;autoplay=0&amp;theme=dark&amp;controls=1&amp;autohide=0&amp;loop=0&amp;showinfo=0&amp;rel=0"></iframe>
 		</div>				
 		</div>			  
 		</div>			  			  
@@ -165,12 +166,14 @@
 	<div class="header-box">
 	<h6><a href="https://www.youtube.com/watch?v=elMQO9C6o20">Vink &amp; Beri Commercial || ALOR Tropical bliss</a></h6>				  </div>				  
 	<div class="computer">				  
-	<iframe scrolling="no" frameborder="0" style="border:none; overflow:hidden; width:574px; height:322px " id="c" allowfullscreen="allowfullscreen" mozallowfullscreen="true" webkitallowfullscreen="true" src="//www.youtube.com/embed/KEF_1dWy6kE?wmode=transparent&amp;autoplay=0&amp;theme=dark&amp;controls=1&amp;autohide=0&amp;loop=0&amp;showinfo=0&amp;rel=0"></iframe>				  </div>			
+	<iframe scrolling="no" frameborder="0" style="border:none; overflow:hidden; width:574px; height:322px " id="c" allowfullscreen="allowfullscreen" mozallowfullscreen="true"
+	 webkitallowfullscreen="true" src="http://www.youtube.com/embed/KEF_1dWy6kE?wmode=transparent&amp;autoplay=0&amp;theme=dark&amp;controls=1&amp;autohide=0&amp;loop=0&amp;showinfo=0&amp;rel=0"></iframe>				  </div>			
 	</div>			 
 	</div>	
 		<div id="text2" class="tab-pane fade">			  			  				<div class="text-small features-block">				  <div class="header-box">	<h6><a href="#">Vink &amp; Beri Commercial || ALOR Tender</a></h6>				  </div>				  
 		<div class="computer">				  
-		<iframe scrolling="no" frameborder="0" style="border:none; overflow:hidden; width:574px; height:322px " id="c" allowfullscreen="allowfullscreen" mozallowfullscreen="true" webkitallowfullscreen="true" src="//www.youtube.com/embed/z-EaDnVB-po?wmode=transparent&amp;autoplay=0&amp;theme=dark&amp;controls=1&amp;autohide=0&amp;loop=0&amp;showinfo=0&amp;rel=0"></iframe>				  </div>				</div><p></p>			  
+		<iframe scrolling="no" frameborder="0" style="border:none; overflow:hidden; width:574px; height:322px " id="c" allowfullscreen="allowfullscreen" mozallowfullscreen="true"
+		 webkitallowfullscreen="true" src="http://www.youtube.com/embed/Wh7TuDXZCJ0?wmode=transparent&amp;autoplay=0&amp;theme=dark&amp;controls=1&amp;autohide=0&amp;loop=0&amp;showinfo=0&amp;rel=0"></iframe>					  </div>				</div><p></p>			  
 		</div>			  			  			  
 		</div>			<div class="clearfix"></div>		  </div>
 		

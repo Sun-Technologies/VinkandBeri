@@ -5,7 +5,7 @@
 		<li data-delay="15000" data-transition="fade" data-slotamount="7" data-masterspeed="1000">
 		  <div class="elements">
 			<div class="tp-caption lfl"
-			  data-x="120"
+			  data-x="118"
 			  data-y="175"
 			  data-speed="1000"
 			  data-start="1500"
@@ -17,30 +17,32 @@
 			</div>
 			
 			<div class="tp-caption lft"
-			  data-x="328"
-			  data-y="172"
+			  data-x="275"
+			  data-y="175"
 			  data-speed="1000"
 			  data-start="1000"
 			  data-easing="Power4.easeOut"
 			  data-endspeed="500"
-			  data-endeasing="Power1.easeIn">
-			  <img src="img/content/slider/rs-slider4-img20.png" alt="">
+			  data-endeasing="Power1.easeIn"
+			  style="z-index: 10">
+			  <img src="img/content/slider/rs-slider4-img10.png" alt="">
 			</div>
 			
 			<div class="tp-caption lft"
-			  data-x="215"
-			  data-y="172"
+			  data-x="197"
+			  data-y="175"
 			  data-speed="1000"
 			  data-start="1200"
 			  data-easing="Power4.easeOut"
 			  data-endspeed="500"
-			  data-endeasing="Power1.easeIn">
-			  <img src="img/content/slider/rs-slider4-img2.png" alt="">
+			  data-endeasing="Power1.easeIn"
+			  style="z-index: 10">
+			  <img src="img/content/slider/alore-almond-milk.png" alt="">
 			</div>
 			
 			<div class="tp-caption lfb"
 			  data-x="-32"
-			  data-y="400"
+			  data-y="390"
 			  data-speed="1000"
 			  data-start="1000"
 			  data-easing="Power4.easeOut"
@@ -50,7 +52,7 @@
 			</div>
 			
 			<div class="tp-caption lfb"
-			  data-x="429"
+			  data-x="367"
 			  data-y="173"
 			  data-speed="1000"
 			  data-start="1800"
@@ -58,10 +60,10 @@
 			  data-endspeed="500"
 			  data-endeasing="Power1.easeIn"
 			  style="z-index: 4">
-			  <img src="img/content/slider/rs-slider4-img10.png" alt="">
+			  <img src="img/content/slider/rs-slider4-img20.png" alt="">
 			</div>
 			<div class="tp-caption lfb"
-			  data-x="510"
+			  data-x="477"
 			  data-y="175"
 			  data-speed="1000"
 			  data-start="1800"
@@ -69,7 +71,7 @@
 			  data-endspeed="500"
 			  data-endeasing="Power1.easeIn"
 			  style="z-index: 4">
-			  <img src="img/content/slider/alore-almond-milk.png" alt="">
+			  <img src="img/content/slider/rs-slider4-img2.png" alt="">
 			</div>
 			
 			<div class="tp-caption lfl"
@@ -268,8 +270,8 @@
 			
 			<div class="tp-caption lfb skewtobottom customin"
 			  data-x="right"
-			  data-hoffset="-340"
-			  data-y="150"
+			  data-hoffset="-300"
+			  data-y="130"
 			  data-customin="x:0;y:0;z:0;rotationX:0;rotationY:0;rotationZ:-360;scaleX:0;scaleY:0;skewX:0;skewY:0;opacity:0;transformPerspective:600;transformOrigin:50% 50%;"
 			  data-speed="1000"
 			  data-start="1000"
@@ -278,7 +280,7 @@
 			  data-endspeed="500"
 			  data-endeasing="Power1.easeIn"
 			  style="z-index: 3">
-			  <img src="img/content/slider/rs-slider2-img.png" alt="">
+			  <img src="img/content/slider/rs-slider2-img.png" alt="" style="height: 320px;">
 			</div>
 			
 			<div class="tp-caption lfb customout"
@@ -304,7 +306,7 @@
 		<li data-delay="15000" data-transition="fade" data-slotamount="7" data-masterspeed="1000">
 		  <div class="elements">
 			<div class="tp-caption lfl"
-			  data-x="340"
+			  data-x="200"
 			  data-y="160"
 			  data-speed="1000"
 			  data-start="1500"
@@ -316,14 +318,24 @@
 			</div>
 			
 			<div class="tp-caption lft"
-			  data-x="50"
+			  data-x="-50"
+			  data-y="50"
+			  data-speed="1000"
+			  data-start="1000"
+			  data-easing="Power4.easeOut"
+			  data-endspeed="500"
+			  data-endeasing="Power1.easeIn">
+			  <img src="img/content/slider/rs-slider5-p1.png" alt="" style="height: 500px; width: 500px;">
+			</div>
+			<div class="tp-caption lft"
+			  data-x="180"
 			  data-y="120"
 			  data-speed="1000"
 			  data-start="1000"
 			  data-easing="Power4.easeOut"
 			  data-endspeed="500"
 			  data-endeasing="Power1.easeIn">
-			  <img src="img/content/slider/rs-slider4-p1.png" alt="">
+			  <img src="img/content/slider/rs-slider5-p2.png" alt="">
 			</div>
 			<!-- <div class="tp-caption lfl skewtoleft"
 			  data-x="left"
@@ -360,7 +372,7 @@
 			  data-easing="Back.easeInOut"
 			  data-endspeed="400"
 			  data-endeasing="Power1.easeIn">
-			  <p style="color: blue;">
+			  <p style="color: maroon;">
 			  Coconuts are rare fruits that are an excellent<br>
 			   source of nutrients and coconut water is an<br>
 			    amazing thirst quencher. 
@@ -396,26 +408,15 @@
 			  style="z-index: 2">
 			  <img src="img/content/slider/rs-slider4-img20.png" alt="">
 			</div>
-			
 			<div class="tp-caption lft"
-			  data-x="-20"
-			  data-y="120"
+			  data-x="-100"
+			  data-y="90"
 			  data-speed="1000"
 			  data-start="1000"
 			  data-easing="Power4.easeOut"
 			  data-endspeed="500"
 			  data-endeasing="Power1.easeIn">
-			  <img src="img/content/slider/rs-slider5-p1.png" alt="" style="height: 300px;">
-			</div>
-			<div class="tp-caption lft"
-			  data-x="180"
-			  data-y="120"
-			  data-speed="1000"
-			  data-start="1000"
-			  data-easing="Power4.easeOut"
-			  data-endspeed="500"
-			  data-endeasing="Power1.easeIn">
-			  <img src="img/content/slider/rs-slider5-p2.png" alt="">
+			  <img src="img/content/slider/rs-slider8-p2.png" alt=""style="width: 500px; height: 300px;">
 			</div>
 			<h2 class="tp-caption lft skewtotop title span5"
 			  data-x="550"
