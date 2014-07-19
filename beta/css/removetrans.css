@@ -4,13 +4,3 @@
 		opacity: 0.2;
 	}
 }
-@media screen and (max-width: 480px) {
-	.computer {
-		width: 350px;
-	}
-}
-@media screen and (max-width: 320px) {
-	.computer {
-		width: 250px;
-	}
-}
