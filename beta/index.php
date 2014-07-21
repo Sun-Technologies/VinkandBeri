@@ -112,23 +112,13 @@
 				</div>-->
 			</div>
 			<h4 class="title">Recent Tweetes</h4>
-			<div style="border:1px solid #ccc; border-radius:10px; padding:10px;">
-				<!-- <a href="#"> -->
-					<img width="370" height="270" alt="" src="img/content/portfolio-6.jpg">
-					<!--<span class="shadow"></span>
-					<div class="bg-hover"></div>
-					<div class="work-title">
-					<h3 class="title">Sample Headline goes here</h3>
-					<div class="description">vink & beri</div>
-					</div>-->
-				<!-- </a> -->
-				<!--<br>
-				<div data-appear-animation="bounceInLeft" class="text-small appear-animation bounceInLeft appear-animation-visible">
-					<a href="#">Follow us on Twitter</a>
-					<div class="clearfix"></div><br>
-				</div>-->
+			<div style="border:1px solid #ccc; border-radius:10px; padding:0px;">
+				<a class="twitter-timeline" data-dnt="true" href="https://twitter.com/VinkandBeri" 
+				data-widget-id="490599196995485696">Tweets by @VinkandBeri</a>
+				<script>!function(d,s,id){var js,fjs=d.getElementsByTagName(s)[0],p=/^http:/.test(d.location)?'http':'https';if(!d.getElementById(id)){js=d.createElement(s);js.id=id;js.src=p+"://platform.twitter.com/widgets.js";fjs.parentNode.insertBefore(js,fjs);}}(document,"script","twitter-wjs");</script>
 			</div>
 			
+
 		</div>
 		</div></div>
 		<div class="clearfix"></div><br>

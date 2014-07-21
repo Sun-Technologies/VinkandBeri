@@ -30,3 +30,4 @@
 <script src="js/selectBox.js"></script>
 <script src="js/blur.min.js"></script>
 <script src="js/main.js"></script>
+<?php include_once("analyticstracking.php") ?>
