@@ -6,7 +6,7 @@
 		  <div class="elements">
 			<div class="tp-caption lfl"
 			  data-x="107"
-			  data-y="160"
+			  data-y="163"
 			  data-speed="1000"
 			  data-start="1500"
 			  data-easing="Power4.easeOut"
@@ -53,7 +53,7 @@
 			
 			<div class="tp-caption lfb"
 			  data-x="369"
-			  data-y="173"
+			  data-y="168"
 			  data-speed="1000"
 			  data-start="1800"
 			  data-easing="Power4.easeOut"
@@ -64,7 +64,7 @@
 			</div>
 			<div class="tp-caption lfb"
 			  data-x="477"
-			  data-y="175"
+			  data-y="170"
 			  data-speed="1000"
 			  data-start="1800"
 			  data-easing="Power4.easeOut"
@@ -75,15 +75,15 @@
 			</div>
 			
 			<div class="tp-caption lfl"
-			  data-x="10"
-			  data-y="186"
+			  data-x="12"
+			  data-y="216"
 			  data-speed="500"
 			  data-start="2000"
 			  data-easing="Power4.easeOut"
 			  data-endspeed="500"
 			  data-endeasing="Power1.easeIn"
 			  style="z-index: 3">
-			  <img src="img/content/slider/rs-slider4-img111.png" alt="">
+			  <img src="img/content/slider/rs-slider4-img111.png" alt="" style="width: 140px; height: 200px;">
 			</div>
 			
 			<h2 class="tp-caption lft skewtotop title span5"
@@ -367,8 +367,8 @@
 		<li data-delay="15000" data-transition="fade" data-slotamount="7" data-masterspeed="1000">
 		  <div class="elements">
 			<div class="tp-caption lfl"
-			  data-x="100"
-			  data-y="180"
+			  data-x="200"
+			  data-y="150"
 			  data-speed="1000"
 			  data-start="1500"
 			  data-easing="Power4.easeOut"
@@ -378,24 +378,14 @@
 			  <img src="img/content/slider/rs-slider4-img20.png" alt="">
 			</div>
 			<div class="tp-caption lft"
-			  data-x="150"
-			  data-y="130"
+			  data-x="-240"
+			  data-y="-130"
 			  data-speed="1000"
 			  data-start="1000"
 			  data-easing="Power4.easeOut"
 			  data-endspeed="500"
 			  data-endeasing="Power1.easeIn">
-			  <img src="img/content/slider/rs-slider8-p2.png" alt="" style="width: 300px; height: 300px;">
-			</div>
-			<div class="tp-caption lft"
-			  data-x="-70"
-			  data-y="200"
-			  data-speed="1000"
-			  data-start="1000"
-			  data-easing="Power4.easeOut"
-			  data-endspeed="500"
-			  data-endeasing="Power1.easeIn">
-			  <img src="img/content/slider/rs-slider8-p3.png" alt="" style="width: 300px; height: 200px;">
+			  <img src="img/content/slider/rs-slider8-p2.png" alt="" style="width: 800px;">
 			</div>
 			<h2 class="tp-caption lft skewtotop title span5"
 			  data-x="550"

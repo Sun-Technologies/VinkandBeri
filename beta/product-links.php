@@ -34,6 +34,12 @@
 #about-slider img {
   height: 150px;
 }
+#about-slider #third-product img {
+  width: 60px;
+  height: 100px;
+  padding-top: 15%;
+  padding-bottom: 10%;
+}
 #about-slider {
   height: 30%;
   padding-bottom: 2%;
