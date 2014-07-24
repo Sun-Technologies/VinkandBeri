@@ -75,8 +75,8 @@
 			</div>
 			
 			<div class="tp-caption lfl"
-			  data-x="12"
-			  data-y="216"
+			  data-x="5"
+			  data-y="221"
 			  data-speed="500"
 			  data-start="2000"
 			  data-easing="Power4.easeOut"
