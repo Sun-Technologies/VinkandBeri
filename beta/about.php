@@ -42,7 +42,7 @@
       defining the future of the food industry.<br>TGI as a group reaches out to 11 countries across globe covering major continents namely Europe, Asia, Middle East, Africa and the America. Headquartered
       in Montgomeryville, PA and ALOR as our trademark we have succeeded in launching healthy food products as fun drinks and snacks, which have set benchmark in the food world.<br>
       Our primary objective is to present our consumers with a range of food products they find lip-smashingly tasty without compromising on the health factor.<br>V&B is committed to excellence and offers
-      the best quality products that consumers find irresistibly delicious. At V&B, we not only believe in consumer satisfaction but strive for consumer delight!</p>
+      the best quality products that consumers find irresistibly delicious. At V&amp;B, we not only believe in consumer satisfaction but strive for consumer delight!</p>
 		<div class="row">
 		  <div class="clearfix"></div>
 		  <div class="span6 bottom-padding">

@@ -367,7 +367,7 @@
 		<li data-delay="15000" data-transition="fade" data-slotamount="7" data-masterspeed="1000">
 		  <div class="elements">
 			<div class="tp-caption lfl"
-			  data-x="200"
+			  data-x="800"
 			  data-y="150"
 			  data-speed="1000"
 			  data-start="1500"
@@ -377,7 +377,7 @@
 			  style="z-index: 2">
 			  <img src="img/content/slider/rs-slider4-img20.png" alt="">
 			</div>
-			<div class="tp-caption lft"
+			<!--<div class="tp-caption lft"
 			  data-x="-240"
 			  data-y="-130"
 			  data-speed="1000"
@@ -386,9 +386,9 @@
 			  data-endspeed="500"
 			  data-endeasing="Power1.easeIn">
 			  <img src="img/content/slider/rs-slider8-p2.png" alt="" style="width: 800px;">
-			</div>
+			</div>-->
 			<h2 class="tp-caption lft skewtotop title span5"
-			  data-x="550"
+			  data-x="150"
 			  data-y="101"
 			  data-speed="1000"
 			  data-start="1700"
@@ -399,7 +399,7 @@
 			</h2>
 			
 			<div class="tp-caption lfr skewtoright description span6"
-			  data-x="550"
+			  data-x="150"
 			  data-y="220"
 			  data-speed="1000"
 			  data-start="1500"
@@ -413,7 +413,7 @@
 			</div>
 
 			<a href="ALOR-coconut-water-chunks.php" class="btn cherry tp-caption lfb"
-			  data-x="600"
+			  data-x="200"
 			  data-y="332"
 			  data-speed="1000"
 			  data-start="1700"
