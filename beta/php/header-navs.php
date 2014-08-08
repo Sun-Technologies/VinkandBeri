@@ -44,7 +44,6 @@
 		<a href="https://plus.google.com/u/0/102648090428299855578" target="_blank" class="sbtnf sbtnf-rounded color color-hover icon-gplus"></a>
 		<a href="https://www.youtube.com/user/vinkandberi" target="_blank" class="sbtnf sbtnf-rounded color color-hover icon-youtube"></a>
 		<a href="http://instagram.com/vinkandberi" target="_blank" class="sbtnf sbtnf-rounded color color-hover icon-instagram"></a>
-		<span class="store-locator"><h6><a href="store-locator.php" style="text-decoration: none;"><i class="icon-map-marker"></i>&nbsp;Find a Store</a></h6></span>
 	  </div>
 	  </div>
 	  <div class="phone-active span9">
@@ -65,5 +64,6 @@
 		</form>
 	  </div>
 	</div><!--.row -->
+	<span class="store-locator"><h6><a href="store-locator.php" style="text-decoration: none;"><i class="icon-map-marker"></i>&nbsp;Find a Store</a></h6></span>
   </div>
 </header><!-- .header -->

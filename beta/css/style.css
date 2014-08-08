@@ -8172,6 +8172,7 @@ color:#FFF;
 }
 .store-locator {
   padding: 1%;
+  float: right;
 }
 .store-locator a {
   background: whitesmoke;
