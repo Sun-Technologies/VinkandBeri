@@ -1,7 +1,6 @@
 <header class="header header-two">
   <div class="container">
-  	<div class="store-locator"><h6><a href="store-locator.php"><i class="icon-map-marker"></i>&nbsp;store locator</a></h6></div>
-	<div class="row" style="margin-top: 2%;">
+  	<div class="row" style="margin-top: 2%;">
 	  <div class="span3 logo-box">
 		<a href="index.php" class="logo">
 		  <img src="img/logo.svg" class="logo-img" alt="">
@@ -45,6 +44,7 @@
 		<a href="https://plus.google.com/u/0/102648090428299855578" target="_blank" class="sbtnf sbtnf-rounded color color-hover icon-gplus"></a>
 		<a href="https://www.youtube.com/user/vinkandberi" target="_blank" class="sbtnf sbtnf-rounded color color-hover icon-youtube"></a>
 		<a href="http://instagram.com/vinkandberi" target="_blank" class="sbtnf sbtnf-rounded color color-hover icon-instagram"></a>
+		<span class="store-locator"><h6><a href="store-locator.php" style="text-decoration: none;"><i class="icon-map-marker"></i>&nbsp;Find a Store</a></h6></span>
 	  </div>
 	  </div>
 	  <div class="phone-active span9">

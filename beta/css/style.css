@@ -8171,6 +8171,9 @@ color:#FFF;
   width: 600px;
 }
 .store-locator {
-  float: right;
-  margin-bottom: -4%;
+  padding: 1%;
+}
+.store-locator a {
+  background: whitesmoke;
+  padding: 10px;
 }
