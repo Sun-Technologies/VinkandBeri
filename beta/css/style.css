@@ -8171,10 +8171,25 @@ color:#FFF;
   width: 600px;
 }
 .store-locator {
-  padding: 1%;
-  float: right;
+  position: absolute;
+  top:0;
+  right:20%;
+  color: #008642;
 }
-.store-locator a {
-  background: whitesmoke;
-  padding: 10px;
+.store-locator a:visited   {
+    color: #008642;
 }
+
+.store-locator a:hover  {
+   color: #008642; 
+}  
+
+.store-locator a:link  {
+ color: #008642;
+ 
+}
+
+.store-locator a:active {
+    color: #008642;
+}
+

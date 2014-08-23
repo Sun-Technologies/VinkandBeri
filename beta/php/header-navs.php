@@ -1,6 +1,12 @@
 <header class="header header-two">
+  <div>
+	<span class="store-locator">
+	<h8><a href="store-locator.php" style="text-decoration: none;"><i class="icon-map-marker"></i>&nbsp;Find a Store</a></h8>
+	</span>
+  	</div>
   <div class="container">
-  	<div class="row" style="margin-top: 2%;">
+  	
+  	<div class="row">
 	  <div class="span3 logo-box">
 		<a href="index.php" class="logo">
 		  <img src="img/logo.svg" class="logo-img" alt="">
@@ -64,6 +70,5 @@
 		</form>
 	  </div>
 	</div><!--.row -->
-	<span class="store-locator"><h6><a href="store-locator.php" style="text-decoration: none;"><i class="icon-map-marker"></i>&nbsp;Find a Store</a></h6></span>
   </div>
 </header><!-- .header -->
