@@ -147,6 +147,160 @@
 				  </div>
 				</div>
 			  </div>
+			  <div class="accordion-group">
+				<div class="accordion-heading">
+				  <a class="accordion-toggle" data-toggle="collapse" data-parent="#accordion2" href="#collapsesix">
+					Recipe 6: Aloe Vera Chicken Soup 
+				  </a>
+				</div>
+				<div id="collapsesix" class="accordion-body collapse">
+				  <div class="accordion-inner">
+					<h6>Ingredients</h6>
+					<ul style="margin-left: 5%;">
+					 <li>1 canALOR Aloe Vera pieces</li>
+					 <li>1 Chicken (chopped into chunks)</li>
+					 <li>2 dozen Peppercorns ( crushed)</li>
+					 <li>5 Red Dates</li>
+					 <li>2 liters Water</li>
+					 <li>Salt (according to taste)</li>
+					</ul>
+					<h6>Method</h6>
+					<ul style="margin-left: 5%;">
+					 <li>Mix chicken, crushed peppercorns, red dates and water. Double boil this mixture for about 2 hrs.</li>
+					 <li>Once the mixture has boiled properly, add ALOR Aloe Vera pieces and continue boiling for another half an hour</li>
+					 <li>Add salt according to taste and your hot Aloe Vera Chicken soup is ready.</li>
+					</ul>  
+				  </div>
+				</div>
+			  </div>	
+			  <div class="accordion-group">
+				<div class="accordion-heading">
+				  <a class="accordion-toggle" data-toggle="collapse" data-parent="#accordion2" href="#collapseseven">
+					Recipe 7: Poached Aloe Recipe 
+				  </a>
+				</div>
+				<div id="collapseseven" class="accordion-body collapse">
+				  <div class="accordion-inner">
+					<h6>Ingredients</h6>
+					<ul style="margin-left: 5%;">
+					 <li>1 cup ALOR Aloe Vera pieces</li>
+					 <li>1 cup Sugar</li>
+					 <li>1 Lime (juice)</li>
+					</ul>
+					<h6>Method</h6>
+					<ul style="margin-left: 5%;">
+					 <li>Put sugar and lime juice in a saucepan and add ALOR Aloe Vera cubes to it.</li>
+					 <li>Cook the mixture over low heat, until the liquid thickens and the cubes display the texture of hardened grapes.</li>
+					 <li>Allow it to cool and serve over plain yoghurt.</li>
+					</ul>  
+				  </div>
+				</div>
+			  </div>
+			  <div class="accordion-group">
+				<div class="accordion-heading">
+				  <a class="accordion-toggle" data-toggle="collapse" data-parent="#accordion2" href="#collapseegt">
+					Recipe 8: Aloe Vera Curry  
+				  </a>
+				</div>
+				<div id="collapseegt" class="accordion-body collapse">
+				  <div class="accordion-inner">
+					<h6>Ingredients</h6>
+					<ul style="margin-left: 5%;">
+					 <li>½ can Aloe Vera pieces (no syrup)</li>
+					 <li>½ tsp. Red Chili powder</li>
+					 <li>1 tsp. Coriander powder</li>
+					 <li>A pinch of Asafoetida</li>
+					 <li>½ tsp. Fenugreek seeds</li>
+					 <li>½ tsp. Aniseeds</li>
+					 <li>½ tsp. Amchoor powder</li>
+					 <li>½ tsp. Jaggery (a small piece)</li>
+					 <li>1 Black Cardamom</li>
+					 <li>1 Star Anise</li>
+					 <li>1 inch piece Cinnamon stick</li>
+					 <li>1 tbsp. tomato puree</li>
+					 <li>1 tsp. plain yogurt</li>
+					 <li>Salt to taste</li>
+					 <li>Oil for pan (a small amount)</li>
+					</ul>
+					<h6>Method</h6>
+					<ul style="margin-left: 5%;">
+					 <li>Boil ALOR Aloe Vera Pieces with salt – 2 to 3 minutes then set aside.  </li>
+					 <li>In a pan with a little oil, add whole spices, then add the asafetida, red chili powder, jiggery, salt (a pinch) and coriander powder.  </li>
+					 <li>Add a little water and put the ALOR Aloe Vera Pieces in pan. Let simmer for 2 to 3 minutes. </li>
+					 <li>Mix the beaten yogurt to the curry and keep stirring on medium heat for 1 to 2 minutes. Serve with missiroti and plain rice.</li>
+					</ul>  
+				  </div>
+				</div>
+			  </div>
+			  <div class="accordion-group">
+				<div class="accordion-heading">
+				  <a class="accordion-toggle" data-toggle="collapse" data-parent="#accordion2" href="#collapsenine">
+					Recipe 9: Pear, Aloe Vera and Lemon Shooters 
+				  </a>
+				</div>
+				<div id="collapsenine" class="accordion-body collapse">
+				  <div class="accordion-inner">
+					<h6>Ingredients</h6>
+					<ul style="margin-left: 5%;">
+					 <li>1 pear (remove skin) </li>
+					 <li>¼ cup ALOR Aloe Vera Pieces with Syrup</li>
+					 <li>½ lemon </li>
+					</ul>
+					<h6>Method</h6>
+					<ul style="margin-left: 5%;">
+					 <li>Blend 1 pear (remove skin) with ¼ cup aloe vera pieces with syrup. Add a dash or splash of fresh squeezed lemon juice.</li>
+					</ul>  
+				  </div>
+				</div>
+			  </div> 
+			  <div class="accordion-group">
+				<div class="accordion-heading">
+				  <a class="accordion-toggle" data-toggle="collapse" data-parent="#accordion2" href="#collapseten">
+					Recipe 10: Guava Aloe Juice 
+				  </a>
+				</div>
+				<div id="collapseten" class="accordion-body collapse">
+				  <div class="accordion-inner">
+					<h6>Ingredients</h6>
+					<ul style="margin-left: 5%;">
+					 <li>½ cup Guava Juice (found in supermarkets)</li>
+					 <li>1 cup of ALOR Aloe Vera Pieces with syrup</li>
+					 <li>2 tsp. of lemon juice</li>
+					</ul>
+					<h6>Method</h6>
+					<ul style="margin-left: 5%;">
+					 <li>Blend ALOR Aloe Vera Pieces.</li>
+					 <li>Add guava juice and lemon juice. Mix well and drink.</li>
+					</ul>  
+				  </div>
+				</div>
+			  </div> 
+			  <div class="accordion-group">
+				<div class="accordion-heading">
+				  <a class="accordion-toggle" data-toggle="collapse" data-parent="#accordion2" href="#collapseeleven">
+					Recipe 11: Thick ‘n’ Chunky Aloe Vera Salsa 
+				  </a>
+				</div>
+				<div id="collapseeleven" class="accordion-body collapse">
+				  <div class="accordion-inner">
+					<h6>Ingredients</h6>
+					<ul style="margin-left: 5%;">
+					 <li>1 cup ALOR Aloe Vera Pieces</li>
+					 <li>1 cup Fresh Cilantro, Chopped</li>
+					 <li>1 Freshly Squeezed Lemon Juice</li>
+					 <li>1 Fresh Garlic Clove, Chopped</li>
+					 <li>2 Fresh Tomatoes</li>
+					 <li>3 Fresh Baby Marrow</li>
+					 <li>Salt to taste</li>
+					</ul>
+					<h6>Method</h6>
+					<ul style="margin-left: 5%;">
+					 <li>Add the tomatoes, baby marrow, garlic and ALOR Aloe Vera Pieces into a blender and blend it until a thick paste forms.</li>
+					 <li>Add into a bowl and mix the rest of the ingredients for a nice chunky effect.Enjoy!</li>
+					</ul>  
+				  </div>
+				</div>
+			  </div>  
 			</div>	
 		  </div>
 		  <div class="span6 bottom-padding">
