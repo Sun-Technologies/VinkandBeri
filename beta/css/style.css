@@ -8192,4 +8192,12 @@ color:#FFF;
 .store-locator a:active {
     color: #008642;
 }
-
+#location-area {
+  background: whitesmoke;
+  border-bottom: 1px solid #f4801b;
+  padding: 10px;
+}
+#location-area a {
+  text-decoration: none;
+  color: #000;
+}
