@@ -35,7 +35,7 @@
 			  <li class="parent"><a href="careers.php">Career</a></li>
 			  <li class="parent"><a href="contact.php">Contact</a></li>
 			  <li class="parent">
-				<a>Blog</a>
+				<a href="blog.php">Blog</a>
 			  </li>
 			</ul>
 		  </nav>
