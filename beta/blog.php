@@ -27,12 +27,12 @@
       <article class="content span12">
 		<div class="row">
 		  <div class="span12">
-			 <p>3 Healthiest Drinks Drink gallons of these amazing drinks to quench your thirst and improve your health</p>
-       <h3>Water</h3>
+			 <h5>3 Healthiest Drinks Drink gallons of these amazing drinks to quench your thirst and improve your health</h5>
+       <h6>Water</h6>
        <p>Thirsty? Pick a glass of good-old-water! It’s super refreshing, contains zero calories and is loaded with goodness that will improve your overall health like no other. Drink up like a beast to ensure your body gets its required dose of H2O. In case you have difficulty in consuming this heavenly drink, infuse some lime/lemon, cucumber or fresh mint leaves in mint. Go sipping!</p>
-       <h3>Coconut Water</h3>
+       <h6>Coconut Water</h6>
        <p>The ultimate thirst buster and the most-preferred workout drink is none other than coconut water! Did you know that drinking more coconut water can help you get that perfect skin you always wanted as well as aid weight-loss? That’s not all – the next time you have a hangover, get sipping on coconut water to settle your stomach. It will facilitate digestion and also replace those loss nutrients after frequent bouts of urination and vomiting.</p>
-       <h3>Beetroot juice</h3>
+       <h6>Beetroot juice</h6>
        <p>Beat it with beetroots! The gorgeous red juice can help you lower your blood pressure levels and considerably improve your stamina. It is also great for the brain as it increases the blood flow there. Prepare it at home or order it from your local juice bar – whichever way you do it, just make sure to get your fill of beetroots.</p>
 		  </div>
 		</div> <br><br>
