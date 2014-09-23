@@ -3,11 +3,15 @@
 <head>
   <title>Store Locator | Vink &amp; Beri LLC</title>  <meta class="viewport" name="viewport" content="width=device-width, initial-scale=1.0">  <meta charset="utf-8">  <link href="img/favicon.png" rel="shortcut icon">
   <?php include'php/header.php'; ?>
-  <!-- css -->        
-  <link href="css/jlocator.css" rel="stylesheet" type="text/css" />
   <!-- font awesome -->
   <link href="http://netdna.bootstrapcdn.com/font-awesome/4.0.3/css/font-awesome.css" rel="stylesheet" /> 
 </head>
+<style type="text/css">
+  #map img {
+      max-width: none;
+  }
+
+</style>
 <?php include "store-list.php" ?>
 <body class="fixed-header">
 <div class="page-box">
@@ -34,7 +38,7 @@
 		  <div class="span3">
         <div class="span3">
 			   <form class="form-search">
-          <input type="text" class="input-medium search-query span2" placeholder="Search Store...">
+          <input type="text" id="autocomplete" class="input-medium search-query span2" onfocus="geolocate()" placeholder="Search Store...">
           <button type="submit" class="btn" style="float: right;">Go</button>
          </form>
         </div>
@@ -47,7 +51,7 @@
             <option>25 Miles</option>
           </select>
         </div>
-        <div class="span3" style="height: 323px; overflow: scroll;">
+        <div class="span3" style="height: 350px; overflow: scroll;">
           <!--PA-->
           <div id="location-area">
               <a href="#">George's Dreshertown ShopNBag <br>
@@ -455,91 +459,13 @@
           </div>
         </div>
 		  </div>
-      <div class="span9 map-box">
-        <iframe src="https://www.google.com/maps/embed?pb=!1m14!1m8!1m3!1d3046.386408072668!2d-75.2255!3d40.22271!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x89c6a469f12b71c7%3A0x47e745cfdb29cab9!2s140+Domorah+Dr%2C+Montgomeryville%2C+PA+18936%2C+USA!5e0!3m2!1sen!2sin!4v1408812312281" width="98%" height="450" frameborder="0" style="border:0"></iframe>
+      <div class="span9 map-box" >
+        <div id="map" style="width: 100%; height: 500px;"></div>
       </div>
 		</div> <br><br>
 	  </article><!-- .content -->
     </div>
-    <!--
-     STORE LOCATOR DEMO -->
-<!--<div id="jlocator" style="border-style:none">
 
-   <div class="panel" data-type="panel">
-   
-      <div class="controls" data-type="controls">
-      
-         <div class="box">
-        
-            <input 
-               class="autocomplete left"
-               data-control-type="autocomplete" 
-               data-control-name="autocomplete" 
-               data-control-action="filter"
-               data-radius="100000" 
-               type="text"
-               placeholder="Enter a location"
-            />
-         </div>
-         
-        
-         
-         <div class="box">
-         
-            <div 
-               class="paging-results left" 
-               data-type="Page {current} of {pages}" 
-               data-control-type="label" 
-               data-control-name="paging" 
-               data-control-action="paging"></div>
-               
-            <div 
-               class="paging left" 
-               data-control-type="placeholder" 
-               data-control-name="paging" 
-               data-control-action="paging"
-               data-items-per-page="5"></div>
-            </div>
-      </div>
-      
-      <div class="stores box" data-type="stores">
-         <?php 
-          foreach ($store_list as $store) {
-         ?>
-              <div 
-                data-type="store" 
-                class="store box"
-                data-latitude=<?php echo "$store[5]"  ?> 
-                data-longitude=<?php echo "$store[6]"  ?>
-                <p class="art">
-                  <span class="title" data-type="title"><?php echo "$store[0]" ?></span>,<br>
-                  <span data-type="address"><?php echo "$store[1]" ?></span>,<br>
-                  <span data-type="city"><?php echo "$store[2]" ?></span>,<br>
-                  <span data-type="state"> <?php echo "$store[3]" ?></span>,<br>
-                  <span data-type="country"><?php echo "$store[4]" ?></span><br/>
-                </p>
-               </div> 
-        <?php
-          }
-         ?>
-        
-        
-                
-                
-         
-        
-         
-      </div>
-      <div class="box no-results" data-type="no-results">
-         <p>No results found</p>
-      </div>
-      
-   </div>
-   
-   <div class="map" data-type="map"></div>
-   
-</div>
--->
   </div><!-- .container -->
 </section><!-- #main -->
 </div><!-- .page-box -->
@@ -547,30 +473,32 @@
 <?php include 'php/footer.php'; ?>
 <?php include 'php/footer-js.php'; ?>
  <!-- jlocator is based on jplist plugin: http://jplist.no81no.com -->
-  <script src="js/jplist.min.js"></script>  
-
-  <!-- jlocator -->   
-  <script src="http://maps.google.com/maps/api/js?sensor=false&libraries=places,geometry"></script>
-  <script src="js/jlocator.min.js"></script>
-
-  <!-- for IE 7: json support and ie 7 style -->
-  <!--[if lt IE 8]>
-  <script src="js/json2.min.js"></script>
-  <![endif]-->
+ 
+  <!-- jlocator --> 
+  <script src="https://maps.googleapis.com/maps/api/js?v=3.exp&sensor=false&libraries=places"></script>
+  <script src="js/geo-api.js" type="text/javascript"></script>
   <script type='text/javascript'> 
-   $('document').ready(function(){        
-      $('#jlocator').jlocator({
-         startZoom: 7 //initial map zoom (on page load)
-         ,storeZoom: 17 //map zoom on store click
-         ,latitude: 40.1461804 //initial map latitude (on page load)
-         ,longitude: -75.1690698 //initial map longitude (on page load)
-         ,geolocation: true
-         ,markerIcon: '' //marker icon path ('' for default google icon)
-         ,markerText: 'Click to Zoom'
-         ,directionsType: 'DRIVING' //DRIVING, BICYCLING, TRANSIT, WALKING
-         ,mapTypeId: 'ROADMAP' //ROADMAP, SATELLITE, HYBRID, TERRAIN
+    var map;
+    var markers = [];
+    var infoWindow;
+    var locationSelect;
+    $('document').ready(function(){        
+        map = new google.maps.Map(document.getElementById("map"), {
+        center: new google.maps.LatLng(40, -100),
+        zoom: 4,
+        mapTypeId: 'roadmap',
+        mapTypeControlOptions: {style: google.maps.MapTypeControlStyle.DROPDOWN_MENU}
+      }); 
+
+      autocomplete = new google.maps.places.Autocomplete(
+      /** @type {HTMLInputElement} */(document.getElementById('autocomplete')),
+      { types: ['geocode'] , componentRestrictions: {country: 'us'} });
+
+      google.maps.event.addListener(autocomplete, 'place_changed', function() {
+        fillInAddress();
       });
-   });
+      
+    });
 </script>
 </body>
 </html>
