@@ -1,8 +1,17 @@
-<html xmlns="http://www.w3.org/1999/xhtml">
-  <head>
-    <meta http-equiv="content-type" content="text/html; charset=utf-8"/>
-    <meta name="viewport" content="initial-scale=1.0, user-scalable=no" />
-    <title>Google Maps AJAX + mySQL/PHP Example</title>
+<!DOCTYPE html xmlns="http://www.w3.org/1999/xhtml">
+<html>
+<head>
+  <title>Store Locator | Vink &amp; Beri LLC</title>  <meta class="viewport" name="viewport" content="width=device-width, initial-scale=1.0">  <meta charset="utf-8">  <link href="img/favicon.png" rel="shortcut icon">
+  <?php include'php/header.php'; ?>
+  <style type="text/css">
+  .sbtnf:after, .sbtnf:after {
+  content: 'compensation_of_lacking_text';
+  display: none;
+  }
+  .social .sbtnf {
+    padding-top: 5%;
+  }
+  </style>
     <script src="http://maps.google.com/maps/api/js?sensor=false"
             type="text/javascript"></script>
     <script type="text/javascript">
@@ -37,7 +46,7 @@
        if (status == google.maps.GeocoderStatus.OK) {
         searchLocationsNear(results[0].geometry.location);
        } else {
-         alert(address + ' not found');
+         alert(address + 'Please Enter Zip');
        }
      });
    }
@@ -137,9 +146,29 @@
     //]]>
   </script>
   </head>
-  <body style="margin:0px; padding:0px;" onload="load()"> 
-    <div>
-     <input type="text" id="addressInput" size="10"/>
+  <body style="margin:0px; padding:0px;" onload="load()"  class="fixed-header"> 
+  <div class="page-box">
+  <div class="page-box-content">
+  <?php include'php/header-navs.php'; ?>  
+  <div class="breadcrumb-box">
+  <div class="container">
+    <ul class="breadcrumb">
+      <li><a href="index.php">Home</a> <span class="divider">/</span></li>
+      <li class="active">Store Locator</li>
+    </ul> 
+  </div>
+  </div><!-- .breadcrumb-box -->
+  <section id="main">
+  <header class="page-header">
+    <div class="container">
+    <h1 class="title">Store Locator</h1>
+    </div>
+  </header>
+    <div class="row" style="margin-top: 5%; margin-bottom: 5%;">
+    <div class="span3" style="padding-left: 5%;">
+    <form class="form-search">
+    <input type="text" id="addressInput" style="height: 40px;" placeholder="Enter Zip Code"/>
+    <input type="button" class="btn" onclick="searchLocations()" value="Go!"/>
     <select id="radiusSelect">
       <option value="5" selected>5mi</option>
       <option value="10">10mi</option>
@@ -147,9 +176,18 @@
       <option value="20">20mi</option>
       <option value="25">25mi</option>
     </select>
-    <input type="button" onclick="searchLocations()" value="Search"/>
+    </form>
     </div>
-    <div><select id="locationSelect" style="width:100%;visibility:hidden"></select></div>
-    <div id="map" style="width: 100%; height: 80%"></div>
+    <div class="span9" style="padding-left: 5%;">
+    <span id="locationSelect" style="width:60%;visibility:hidden"></span>
+    <div id="map" style="height: 100%"></div>
+    </div>
+  </div>
+  </section>
+  </div>
+  </div>
+  <h1 style="position: absolute;">sdaflkjsdflkkdslfk</h1>
+  <?php include 'php/footer.php'; ?>
+  <?php include 'php/footer-js.php'; ?>
   </body>
 </html>
