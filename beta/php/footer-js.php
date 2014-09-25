@@ -1,7 +1,8 @@
-
+<script src="http://maps.google.com/maps/api/js?sensor=false" type="text/javascript"></script>
 <script src="http://ajax.googleapis.com/ajax/libs/jquery/1.10.2/jquery.min.js"></script>
 <script src="http://code.jquery.com/jquery-migrate-1.2.0.js"></script>
 <script src="js/bootstrap.min.js"></script>
+<!--<script src="js/map.js"></script>-->
 <script src="js/price-regulator/jshashtable-2.1_src.js"></script>
 <script src="js/price-regulator/jquery.numberformatter-1.2.3.js"></script>
 <script src="js/price-regulator/tmpl.js"></script>
