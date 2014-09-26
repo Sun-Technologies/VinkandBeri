@@ -1,5 +1,5 @@
-<script src="http://maps.google.com/maps/api/js?sensor=false" type="text/javascript"></script>
   <script src="http://ajax.googleapis.com/ajax/libs/jquery/1.10.2/jquery.min.js"></script>
+  <script type="text/javascript" src="http://maps.googleapis.com/maps/api/js?libraries=places&sensor=false"></script>
   <script src="http://code.jquery.com/jquery-migrate-1.2.0.js"></script>
   <script src="js/bootstrap.min.js"></script>
   <script src="js/map.js"></script>
@@ -28,6 +28,8 @@
   <script src="js/morris.min.js"></script>
   <script src="js/raphael.min.js"></script>
   <script src="js/video.js"></script>
+  <script src="js/geo-api.js"></script>
   <!--<script src="js/selectBox.js"></script>-->
   <script src="js/blur.min.js"></script>
   <!--<script src="js/main.js"></script>-->
+  <script src="js/geocomplete.js"></script>
