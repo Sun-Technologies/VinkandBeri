@@ -8201,3 +8201,6 @@ color:#FFF;
   text-decoration: none;
   color: #000;
 }
+#map img {
+ max-width: none;
+}

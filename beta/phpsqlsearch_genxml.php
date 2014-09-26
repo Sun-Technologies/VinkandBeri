@@ -24,7 +24,7 @@ if (!$db_selected) {
 }
 
 // Search the rows in the markers table
-$query = sprintf("SELECT address, name, lat, lng, ( 3959 * acos( cos( radians('%s') ) * cos( radians( lat ) ) * cos( radians( lng ) - radians('%s') ) + sin( radians('%s') ) * sin( radians( lat ) ) ) ) AS distance FROM markers HAVING distance < '%s' ORDER BY distance LIMIT 0 , 20",
+$query = sprintf("SELECT name, address, lat, lng, ( 2500 * acos( cos( radians('%s') ) * cos( radians( lat ) ) * cos( radians( lng ) - radians('%s') ) + sin( radians('%s') ) * sin( radians( lat ) ) ) ) AS distance FROM markers HAVING distance < '%s' ORDER BY distance LIMIT 0 , 20",
   mysql_real_escape_string($center_lat),
   mysql_real_escape_string($center_lng),
   mysql_real_escape_string($center_lat),
@@ -35,8 +35,6 @@ $result = mysql_query($query);
 if (!$result) {
   die("Invalid query: " . mysql_error());
 }
-
-header("Content-type: text/xml");
 
 // Iterate through the rows, adding XML nodes for each
 while ($row = @mysql_fetch_assoc($result)){
