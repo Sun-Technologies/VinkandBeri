@@ -40,9 +40,10 @@
     </select>
     </form>
     <div class="map_canvas"></div>
-    <ul>
-      <li id="locationSelect"></li>
-    </ul>
+    <div id="location-height">
+      <div id="locationSelectresults"></div>
+      <div id="locationSelect" style="height: 350px; overflow: auto;"></div>
+    </div>
     </div>
     <div class="span9" style="padding-left: 5%;">
     <div id="map" style="height: 80%"></div>
@@ -53,6 +54,5 @@
   </div>
   <?php include 'php/footer.php'; ?>
   <?php include 'php/footer-map.php' ?>
-<?php include_once("analyticstracking.php") ?>
   </body>
 </html>

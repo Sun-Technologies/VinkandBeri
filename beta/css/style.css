@@ -8192,6 +8192,20 @@ color:#FFF;
 .store-locator a:active {
     color: #008642;
 }
+#result-bg {
+  background: #7FFF00;
+  padding: 10px;
+  margin-bottom: 2%;
+}
+/*#location-height {
+  height: 350px; 
+  overflow: scroll;
+}*/
+#get-location {
+  color: #fff;
+  background: #7FFF00;
+  padding: 5px;
+}
 #location-area {
   background: whitesmoke;
   border-bottom: 1px solid #f4801b;

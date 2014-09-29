@@ -35,12 +35,13 @@
 
   var defaults = {
     bounds: true,
-    country: null,
+    country: "US",
     map: false,
     details: false,
     detailsAttribute: "name",
     autoselect: true,
     location: false,
+
 
     mapOptions: {
       zoom: 14,

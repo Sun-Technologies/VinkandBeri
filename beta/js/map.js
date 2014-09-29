@@ -14,7 +14,7 @@
       infoWindow = new google.maps.InfoWindow();
 
       locationSelect = document.getElementById("locationSelect");
-      locationSelect.innerHTML = "No Results";
+      //locationSelect.innerHTML = "No Results".style.visibility("hidden");
       locationSelect.onchange = function() {
         var markerNum = locationSelect.options[locationSelect.selectedIndex].value;
         if (markerNum != "none"){
@@ -30,7 +30,7 @@
        if (status == google.maps.GeocoderStatus.OK) {
         searchLocationsNear(results[0].geometry.location);
        } else {
-         alert(address + 'Please Enter ZIP');
+         alert(address + 'Please Enter Location');
        }
      });
    }
@@ -41,11 +41,11 @@
        markers[i].setMap(null);
      }
      markers.length = 0;
-     locationSelect.innerHTML = "Search Results";
+     /*locationSelect.innerHTML = "Search Results";
      var option = document.createElement("option");
      option.value = "num";
      option.innerHTML = "Search Results:";
-     locationSelect.appendChild(option);
+     locationSelect.appendChild(option);*/
    }
 
    function searchLocationsNear(center) {
@@ -55,7 +55,15 @@
      var searchUrl = 'phpsqlsearch_genxml.php?lat=' + center.lat() + '&lng=' + center.lng() + '&radius=' + radius;
      downloadUrl(searchUrl, function(data) {
        var xml = parseXml(data);
+       var locationSelectresults = document.getElementById("locationSelectresults");
        var markerNodes = xml.documentElement.getElementsByTagName("marker");
+       if (markerNodes.length === null || markerNodes.length<1) {
+        locationSelectresults.innerHTML = "No Stores Found";
+        return;
+       }
+       locationSelectresults.innerHTML =  "<div id=result-bg>" + "<i class=icon-ok></i> " + markerNodes.length + " Stores Found" + "</div>";
+                    
+
        var bounds = new google.maps.LatLngBounds();
        for (var i = 0; i < markerNodes.length; i++) {
          var name = markerNodes[i].getAttribute("name");
@@ -65,7 +73,10 @@
               parseFloat(markerNodes[i].getAttribute("lat")),
               parseFloat(markerNodes[i].getAttribute("lng")));
 
-         createOption(name, distance, i);
+         var lat = markerNodes[i].getAttribute("lat");
+         var lng = markerNodes[i].getAttribute("lng");
+
+         createOption(name, distance, i, address, lat , lng );
          createMarker(latlng, name, address);
          bounds.extend(latlng);
        }
@@ -90,11 +101,26 @@
       });
       markers.push(marker);
     }
+    function showMarker( lat , lng , name , address) {
+     
+      var html = "<b>" + name + "</b> <br/>" + address;
+      var latlngpos = new google.maps.LatLng(
+              parseFloat(lat),
+              parseFloat(lng));
+      var marker = new google.maps.Marker({
+        map: map,
+        position: latlngpos
+      });
+      infoWindow.setContent(html);
+      infoWindow.open(map, marker);
+    }
 
-    function createOption(name, distance, num) {
-      var option = document.createElement("option");
+    function createOption(name, distance, num, address, lat , lng) {
+      var option = document.createElement("markerNum");
       option.value = num;
-      option.innerHTML = name + "(" + distance.toFixed(1) + ")";
+
+      var jscript = 'javascript:showMarker("' + lat + '","' + lng + '", "' + name + '", " ' + address + '")';
+      option.innerHTML = "<div id=location-area>" + "<a href='"+jscript + "' <b>" + name + "(" + distance.toFixed(1) + " mi)"  + "</b></a><br/>" + address + "<br/><a id=get-location>Get Directions <i class=icon-arrow-right></i></a>" + "</div>";
       locationSelect.appendChild(option);
     }
 
