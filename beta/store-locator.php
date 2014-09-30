@@ -26,8 +26,8 @@
     <h1 class="title">Store Locator</h1>
     </div>
   </header>
-    <div class="row" style="margin-top: 5%; margin-bottom: 5%;">
-    <div class="span3" style="padding-left: 8%;">
+    <div class="row">
+    <div class="span3">
     <form class="form-search">
     <input type="text" id="addressInput"/>
     <select id="radiusSelect" class="span2" style="width: 201px;">
@@ -45,7 +45,7 @@
       <div id="locationSelect" style="height: 350px; overflow: auto;"></div>
     </div>
     </div>
-    <div class="span9" style="padding-left: 5%;">
+    <div class="span9">
     <div id="map" style="height: 80%"></div>
     </div>
   </div>
