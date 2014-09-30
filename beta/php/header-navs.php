@@ -1,5 +1,5 @@
 <header class="header header-two">
-  <div>
+  <div class="container">
 	<span class="store-locator">
 	<h8><a href="store-locator.php" style="text-decoration: none;"><i class="icon-map-marker"></i>&nbsp;Find a Store</a></h8>
 	</span>
