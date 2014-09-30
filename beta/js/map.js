@@ -41,6 +41,10 @@
        markers[i].setMap(null);
      }
      markers.length = 0;
+     while (locationSelect.firstChild) {
+      locationSelect.removeChild(locationSelect.firstChild);
+     }
+
      /*locationSelect.innerHTML = "Search Results";
      var option = document.createElement("option");
      option.value = "num";
@@ -81,6 +85,10 @@
          bounds.extend(latlng);
        }
        map.fitBounds(bounds);
+       var listener = google.maps.event.addListener(map, "idle", function() { 
+           if (map.getZoom() > 16) map.setZoom(16); 
+             google.maps.event.removeListener(listener); 
+       });
        locationSelect.style.visibility = "visible";
        locationSelect.onchange = function() {
          var markerNum = locationSelect.options[locationSelect.selectedIndex].value;
