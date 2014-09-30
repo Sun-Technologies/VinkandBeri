@@ -28,7 +28,6 @@
   <script src="js/morris.min.js"></script>
   <script src="js/raphael.min.js"></script>
   <script src="js/video.js"></script>
-  <script src="js/geo-api.js"></script>
   <!--<script src="js/selectBox.js"></script>-->
   <script src="js/blur.min.js"></script>
   <!--<script src="js/main.js"></script>-->
