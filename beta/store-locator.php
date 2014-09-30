@@ -26,9 +26,8 @@
     <h1 class="title">Store Locator</h1>
     </div>
   </header>
-  <div class="container">
-    <div class="row" style="">
-    <div class="span3" >
+    <div class="row" style="margin-top: 5%; margin-bottom: 5%;">
+    <div class="span3" style="padding-left: 8%;">
     <form class="form-search">
     <input type="text" id="addressInput"/>
     <select id="radiusSelect" class="span2" style="width: 201px;">
@@ -40,16 +39,15 @@
     </select>
     <input type="button" class="btn" onclick="searchLocations()" value="Go!" id="go-button"/>
     </form>
-    
+    <div class="map_canvas"></div>
     <div class="location-hide">
       <div id="locationSelectresults"></div>
       <div id="locationSelect" style="height: 350px; overflow: auto;"></div>
     </div>
     </div>
-    <div class="span9" style="">
+    <div class="span9" style="padding-left: 5%;">
     <div id="map" style="height: 80%"></div>
     </div>
-  </div>
   </div>
   </section>
   </div>
