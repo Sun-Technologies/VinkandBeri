@@ -119,8 +119,9 @@
       var option = document.createElement("markerNum");
       option.value = num;
 
+      var direction = 'javascript:directions("' + lat + '","' + lng + '")';
       var jscript = 'javascript:showMarker("' + lat + '","' + lng + '", "' + name + '", " ' + address + '")';
-      option.innerHTML = "<div id=location-area>" + "<a href='"+jscript + "' <b>" + name + "(" + distance.toFixed(1) + " mi)"  + "</b></a><br/>" + address + "<br/><a id=get-location>Get Directions <i class=icon-arrow-right></i></a>" + "</div>";
+      option.innerHTML = "<div id=location-area>" + "<a href='" + jscript + "' <b>" + name + "(" + distance.toFixed(1) + " mi)"  + "</b></a><br/>" + address + "<br/><a href='http://maps.google.com/?q="+name+"' target='_blank' id='get-location'>Get Directions <i class=icon-arrow-right></i></a>" + "</div>";
       locationSelect.appendChild(option);
     }
 
@@ -156,14 +157,15 @@
 
     $(function(){
         
-        var options = {
+        var canvas = {
           map: ".map_canvas"
         };
         
-        $("#addressInput").geocomplete(options)
-          .bind("geocode:result", function(event, result){
-            $.log("Result: " + result.formatted_address);
+        $("#addressInput").geocomplete(canvas);
+        /*
+          .bind("geocode:result", function(event){
           })
+          /*
           .bind("geocode:error", function(event, status){
             $.log("ERROR: " + status);
           })
@@ -173,5 +175,5 @@
         
         $("#find").click(function(){
           $("#addressInput").trigger("geocode");
-        });        
+        }); */       
       });

@@ -27,20 +27,20 @@
     </div>
   </header>
     <div class="row" style="margin-top: 5%; margin-bottom: 5%;">
-    <div class="span3" style="padding-left: 5%;">
+    <div class="span3" style="padding-left: 8%;">
     <form class="form-search">
-    <input type="text" id="addressInput" style="height: 40px;"/>
-    <input type="button" class="btn" onclick="searchLocations()" value="Go!"/><br><br>
-    <select id="radiusSelect" class="span3">
+    <input type="text" id="addressInput"/>
+    <select id="radiusSelect" class="span2" style="width: 201px;">
       <option value="5" selected>5mi</option>
       <option value="10">10mi</option>
       <option value="15">15mi</option>
       <option value="20">20mi</option>
       <option value="25">25mi</option>
     </select>
+    <input type="button" class="btn" onclick="searchLocations()" value="Go!" id="go-button"/>
     </form>
     <div class="map_canvas"></div>
-    <div id="location-height">
+    <div class="location-hide">
       <div id="locationSelectresults"></div>
       <div id="locationSelect" style="height: 350px; overflow: auto;"></div>
     </div>

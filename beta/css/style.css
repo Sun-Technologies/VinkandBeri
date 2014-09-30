@@ -8193,28 +8193,41 @@ color:#FFF;
     color: #008642;
 }
 #result-bg {
-  background: #7FFF00;
+  background: #028C3F;
+  color: #fff;
   padding: 10px;
   margin-bottom: 2%;
 }
-/*#location-height {
-  height: 350px; 
-  overflow: scroll;
-}*/
 #get-location {
   color: #fff;
-  background: #7FFF00;
+  background: #028C3F;
+  margin-top: 10px;
   padding: 5px;
+  line-height: 50px;
+}
+#get-location i {
+  color: #fff;
 }
 #location-area {
   background: whitesmoke;
   border-bottom: 1px solid #f4801b;
-  padding: 10px;
-}
-#location-area a {
-  text-decoration: none;
-  color: #000;
+  padding: 5px;
 }
 #map img {
  max-width: none;
+}
+#addressInput {
+  width: 270px; 
+  height: 40px;
+  margin-bottom: 10%;
+}
+
+
+@media screen and (max-width: 1024px) {
+  .location-hide {
+    display: none;
+  }
+  #go-button {
+    margin-top: 2%;
+  }
 }
