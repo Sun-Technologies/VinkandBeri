@@ -1,81 +1,107 @@
 id,name,address,lat,lng
-1,George's Dreshertown ShopNBag,"1650 Limekiln Pike Dresher, PA 19025",40.146967,-75.167696
-2,DeKalb Supermarket,"815 DeKalb Street Norristown, PA 19401",40.118859,-75.339784
-3,Dublin Shop N Bag,"161 N. Main Street Dublin, PA 18917",40.375928,-75.206054
-4,Richboro Shop N Bag,"1025 N. Second Street Pike Richboro, PA 18954",40.216383,-75.010574
-5,West Norriton Farmers Market,"1930 W. Main Street Norristown, PA 19401",40.131695,-75.37695
-6,The Market of Lafayette Hill,"531 Germantown Pike Lafayette Hill, PA 19444",40.087086,-75.251769
-7,Tanner Brother's & Sons Inc.,"1070 Hatboro Road Warminster, PA 18974",40.220257,-75.029733
-8,Assi Plaza,"1222 North Wales Road North Wales, PA 19454",40.225605,-75.254537
-9,Landis Supermarket Inc. #20,"2685 County Line Road Telford, PA 18969",40.330954,-75.334124
-10,Landis Supermarket Inc. #30,"543 Constitution Ave. Perkasie, PA 18944",40.3675,-75.298572
-11,Landis Supermarket Inc. #40,"841 Gravel Pike Schwenksville, PA 19473",40.29859,-75.414282
-12,Landis Supermarket Inc. #50,"2700 Shelly Road Harleysville, PA 19438",40.298549,-75.41426
-13,Freed's Supermarket,"2024 Swamp Pike Gilbertsville, PA 19525",40.29693,-75.585414
-14,Net Cost Market,"11701 Bustleton Avenue Philadelphia, 19116",40.11927,-75.016889
-15,McMenamin Family Shop Rite,"9910 Frankford Ave. Suite 240 Philadelphia, PA 19114",40.072522,-74.985647
-16,Hatboro Market & Deli,"101 Fitch Road Hatboro, PA 19040",40.171911,-75.096327
-17,Foresta's Country Meat Mart Inc.,"1098 W. Bridge Street Phoenixville, PA 19460",40.123304,-75.53596
-18,Corropolese Bakery & Deli,"541 S. Broad Street Lansdale, PA 19446",40.234941,-75.290219
-19,Super 7 Supermarket,"317 Bridge Street Phoenixville, PA 19460",40.099964,-75.087952
-20,Marshall Food Mart,"724 W. Marshall Street Norristown, PA 19401",40.181564,-75.352008
-21,Sam's Italian Market,"3504 W. Moreland Rd Willow Grove, PA 19090",40.151208,-75.133853
-22,Rich's Deli,"430 S. Bethlehem Pike Ft. Washington, PA 19034",40.136134,-75.213532
-23,309 Deli,"1618 Bethlehem Pike Hatfield, PA 19440",40.290189,-75.270451
-24,B.P. Lansdale,"868 Sumneytown Pike Lansdale, PA 19446",40.225561,-75.307049
-25,West Point Deli Plus,"794 Sumneytown Pike Lansdale, PA 19447",40.221462,-75.302253
-26,Merry Mead Farm,"2222 S. Valley Forge Rd Lansdale, PA 19448",40.208265,-75.335592
-27,Lansdale Food Mart & Deli,"291 N. Broad Street Lansdale, PA 19449",40.242642,-75.282356
-28,7-Eleven,"919 Horsham Road Montgomeryville, PA 18936",40.238905,-75.229948
-29,Guiliano's Deli,"429 N. Chestnut Street Lansdale, PA 19446",40.243441,-75.278882
-30,Citgo Market,"1703 Markley Street Norristown, PA 19401",40.13219,-75.334518
-31,Sister Mini Market,"601 Arch Street Norristown, PA 19402",40.115814,-75.337651
-32,7-Eleven,"226 Germantown Pike Norristown, PA 19403",40.14173,-75.311451
-33,El Changaroo Supermarket,"637 Markley Street Norristown, PA 19404",40.119367,-75.346489
-34,La Mexicana,"225 E. County Line Road Hatboro, PA 19040",40.177352,-75.081192
-35,Jacksonville Food Mart,"40 E. Street Road Warminster, PA 18974",40.198653,-75.081866
-36,San Antonio Mexican Deli & Grocery,"221 W. Broad Street Quakertown, PA 18951",40.441352,-75.335997
-37,Sellersville Gas & Mart,"396 N. Main Street Sellersville, PA 18960",40.363809,-75.312672
-38,Carroll's Seafood & Produce,"5840 Easton Road Plumsteadville, PA 18949",40.385807,-75.146488
-39,B.P. Norristown,"223 W Main St Norristown, PA 19401",40.116536,-75.347774
-40,Lukoil ,"681 E Broad St Souderton, PA 18964",40.315121,-75.311846
-41,Lukoil ,"1099 Easton Rd Abington, PA 19001",40.121182,-75.133205
-42,Sanatoga Thriftway,"2190 E. High Street Pottstown, PA 19464",40.244226,-75.599032
-43,Village Market,"300 S Main St Sellersville, PA 18960",40.353786,-75.3059
-44,7-Eleven,"523 Richlandtown Pike Richlandtown, PA 18955",40.463561,-75.323338
-45,Stop N Shop,"615 E High Street Pottstown, PA 19464",40.24475,-75.639047
-46,One Stop Daily,"315 E High St Pottstown, PA 19464",40.245522,-75.647122
-47,Yohns Grocery,"78N York St Pottstown, PA 19464",40.248059,-75.652361
-48,Rainbow Mart,"1574 Bristol Pike Bensalem, PA 19020",40.075126,-74.960034
-49,Country Food Market,"203 W State Street Doylestown, PA 18901",40.308374,-75.135714
-50,Masons Grocery Market,"353 Lyceum Avenue Philadelphia, PA 19128",40.030122,-75.218829
-51,Sorrentinos Deli,"4361 Cressan Street Philadelphia, PA 19127",40.026707,-75.223878
-52,Commissari Food Market,"5255 Ridge Avenue Philadelphia, PA 19128",40.020246,-75.210027
-53,Green Farm Fresh,"842 Red Lion Rd Philadelphia, PA 19115",40.103013,-75.030571
-54,Joa Mart,"361 W. Hortter Street Philadelphia, PA 19119",40.044385,-75.191131
-55,Palm Tree Gourmet,"901 S 2nd St Philadelphia, PA 19147",39.93609,-75.146733
-56,Crystal Lake Thriftway,650 West Cuthbert Blvd Collingswood NJ 08108,39.901531,-75.053119
-57,Incollingo's Smithville,45 South New York Rd Galloway NJ 08205,39.527055,-74.644894
-58,Incollingo's EHC,810 White Horse Pike Egg Harbor City NJ 08215,39.527113,-74.644894
-59,Elmer IGA,201 Front St Elmer NJ 08318,39.593371,-75.17538
-60,Eatmor,856 Landis Ave Vineland NJ 08318,39.485032,-75.123367
-61,Deterdings,506 East Gibbsboro Rd Lindenwold NJ 08021,39.820204,-74.980087
-62,M & S Produce,6020 Black Horse Pike Egg Harbor Twp. NJ 08234,39.439262,-74.614985
-63,Verchio's Turnersville,272 Hurfville Crosskeys Rd  Sewell NJ 08080,39.724311,-75.049469
-64,Verchio's Brooklawn,123 South New Broadway  Brooklawn NJ 08030,39.8772,-75.125338
-65,Meadowbrook Mkt.,3012 Union Ave Pennsauken Twp. NJ 08109,39.963018,-75.035364
-66,Duffields Farm Mkt.,280 Chapel Heights Rd Sewell NJ 08080,39.736242,-75.09213
-67,Fresh Mart,681 Crosskeys Rd Sicklerville NJ 08081,39.727732,-75.014133
-68,Yogi's Quick Shop,"192 Fries Mill Rd Turnersville, NJ 08012",39.736222,-75.047617
-69,Country Farms,"2911 Rt. 73 South  Maple Shade, NJ 08052",39.949624,-74.986647
-70,Subzi Mandi,"1400 Berlin Rd Cherry Hill, NJ 08003",39.879985,-75.00477
-71,La Villita Farm Mkt.,"3005 Atlantic Ave Atlantic City, NJ 08401",39.354647,-74.448372
-72,Ananda Bazar Grocery,"2929 Atlantic Ave Atlantic City, NJ 08401",39.354602,-74.447302
-73,Saibaba Food Mkt.,"2414 Atlantic Ave Atlantic City, NJ 08401",39.356989,-74.441067
-74,Haars Health Food Center,"1437 South Delsea Dr Vineland, NJ 08360",39.466386,-75.044704
-75,Gulf Mini Mart,"1001 North Tuchahoe Rd Williamstown, NJ 08094",39.69022,-75.01866
-76,Avalon Supermarket,"2868 Dunne Dr Avalon, NJ 08202",39.09718,-74.72236
-77,Bud's Market,"8302 Third Ave Stone Harbor, NJ 08247",39.062947,-74.753687
-78,Avalon Seafood & Produce,"29th & Ocean Dr Avalon, NJ 08202",39.097643,-74.724465
-79,A & F Market,"416 South West Vineland, NJ 08360",39.489067,-75.035291
-80,Incollingo's EHC,"810 White Horse Pike Egg Harbor City, NJ 08215",39.527052,-74.644929
+1,Geo Supermarket,"234 S 69th Street Upper Darby, PA 19082",39.955829,-75.258513
+2,C-Town Supermkt ,401 North Tilghman Street Allentown PA 18102,40.613963,-75.469892
+3,C-Town Supermkt ,"226 East 3rd Street Bethlehem, PA 18015",40.612311,-75.375686
+4,Shoprite of Warminster,"942 West Street Road Warminster, PA 18974",40.209573,-75.108289
+5,Suelke's Roadstand,"1912 Bethlehem Pike Sellersville, PA 18960",40.377338,-75.330414
+6,Landsdale Meats & Deli,"1801 N Broad Street Landsdale, PA 19446",40.257604,-75.266547
+7,Shell ,"371 East Butler Pike Ambler, PA 19002",40.187582,-75.184655
+8,Quick Stop,"1000 E. Walnut Street Perkasie, PA 18944",40.420555,-75.274477
+9,Garden Farm Market,"1 East  Trenton Avenue Morrisville, PA 19067",40.21604,-74.781889
+10,Pumpernicks Deli & Restaurant," 917 Betlehem Pike Northwales, PA 19007",40.234951,-75.239031
+11,Shell ,"1807 S Easton Rd Doylestown, PA 18901",40.281535,-75.125573
+12,Selecto Market,"320 Pond Street Bristol, PA 19007",40.098393,-74.856282
+13,London Beverage LLC,"180 Talmadge Road Edison, NJ 08817",40.537211,-74.395884
+14,Palm Tree Gourmet,"901 S 2nd street Philadelphia, PA 19147",39.936131,-75.146765
+15,Joa Mart,"361 W Hartter St Philadelphia, PA 19119",40.044409,-75.191163
+16,Net Cost Market,"11701 Bustleton Avenue Philadelphia, PA 19116",40.11925,-75.016849
+17,Green Farm Fresh,"842 Red Lion Rd Philadelphia, PA 19115",40.168253,-75.025144
+18,Commissari Food Market,"5255 Ridge Avenue Philadelphia, PA 19128",40.020188,-75.21007
+19,Sorrentinos Deli,"4361 Cresson Street Philadelphia, PA 19127",40.026707,-75.223878
+20,Masons Grocery Market,"353 Lyceum Avenue Philadelphia, PA 19128",40.030122,-75.218851
+21,Country Food Market,"203 W State Street Doylestown, PA 18901",40.308342,-75.13566
+22,Rainbow Mart,"1574 Bistrol Pike Bensalem, PA 19020",40.075183,-74.960077
+23,McMenamin FamilyShoprit of Roosevelt Blvd,"11000 Roosevelt Blvd Philadelphia, PA 19116",40.102868,-75.008928
+24,Yohns Grocery,"78N York St Pottstown, PA 19464",40.248051,-75.65235
+25,One Stop Daily,"315 E High St Pottstown, PA 19464",40.245539,-75.647208
+26,Stop N Shop,"615 E High Street Pottstown, PA 19464",40.244791,-75.63908
+27,Lukoil ,"1099 Easton Rd Abington, PA 19001",40.121125,-75.133195
+28,Lukoil,"681E Broad Street Souderton, PA 18964",40.315113,-75.31176
+29,The Village Market,"300 South Main Street Sellersville, PA 18960",40.353745,-75.305911
+30,7 - Eleven ,"523 Richlandtown Pike Richlandtown, PA 18955",40.463586,-75.323306
+31,Freed's Supermarket,"2024 Swamp Pike Gilbertsville, PA 19525",40.296898,-75.585436
+32,Sanatoga Thriftway,"2190 E. High Street Pottstown, PA 19464",40.244267,-75.599064
+33,B.P. Norristown,"223 W Main St Norristown, PA 19401",40.116528,-75.347742
+34,Jacksonville Food Mart,"40 E. Street Road Warminster, PA 18974",40.196958,-75.082286
+35,La Mexicana,"225 E. County Line Road	 Hatboro, PA",40.177319,-75.081203
+36,San Antonio Mexican Deli & Grocery,"221 W. Broad Street Quakertown, PA 18951",40.441409,-75.335955
+37,Sellersville Gas & Mart,"396 N. Main Street Sellersville, PA 18960",40.363792,-75.312597
+38,Carroll's Seafood & Produce,"5840 Easton Road Plumsteadville, PA 18949",40.385823,-75.146478
+39,"Landis Supermarket, Inc. ","2685 County Line Road	 Teleford, PA 18969",40.33092,-75.334631
+40,"Landis Supermarket, Inc. ","543 Constitution Ave. Perkasie	, PA 18944",40.36344,-75.297275
+41,"Landis Supermarket, Inc. ","841 Gravel Pike Schwenksville	, PA 19473",40.23765,-75.457231
+42,"Landis Supermarket, Inc. ","2700 Shelly Road Harleysville	, PA 19438",40.298541,-75.414271
+43,Kolb's Farm Store,"151 Kolb Road Spring City, PA 19475",40.195765,-75.595333
+44,7-Eleven ,"919 Horsham Road Montgomeryville, PA 18936",40.238889,-75.229916
+45,Sam's Italian Market,"3504 W. Moreland Rd. Willow Grove, PA 19090",40.151208,-75.133821
+46,Rich's Deli,"430 S. Bethlehem Pike Ft. Washington, PA 19034",40.136085,-75.213575
+47,309 Deli,"1618 Bethlehem Pike Hatfield, PA 19440",40.290189,-75.270462
+48,B.P. Lansdale,"868 Sumneytown Pike Lansdale, PA 19446",40.22543,-75.306877
+49,West Point Deli Plus,"794 Sumneytown Pike Lansdale, PA 19446",40.221453,-75.302253
+50,Merry Mead Farm,"2222 S. Valley Forge Rd. Lansdale, PA 19446",40.208273,-75.335571
+51,Lansdale Food Mart & Deli,"291 N. Broad Street Lansdale, PA 19446",40.242446,-75.282313
+52,Guiliano's Deli,"429 N. Chestnut Street Lansdale, PA 19446",40.243474,-75.27885
+53,Citgo Market,"1703 Markley Street Norristown, PA 19401",40.132165,-75.334464
+54,El Changaroo Supermarket,"637 Markley Street Norristown, PA 19401",40.119773,-75.346078
+55,Sister Mini Market,"601 Arch Street Norristown, PA 19401",40.115617,-75.337705
+56,7-Eleven ,"226 Germantown Pike Norristown, PA 19401",40.142294,-75.312871
+57,Super 7 Super Market,"317 Bridge Street Phoenixville, PA 19460",40.134181,-75.519247
+58,Corropolese Bakery & Deli,"541 S. Broad Street Landsdale, PA 19446",40.234941,-75.290198
+59,Marshall Food Mart,"724 W Marshall St Norristown, PA 19401",40.121642,-75.351449
+60,Foresta's Country Meat Market,"1098 W. Bridge St Phoenixville, PA 19460",40.123296,-75.535971
+61,Assi Plaza,"1222 Welsh Road North Wales, PA 19454",40.225578,-75.254435
+62,"Tanner Brother's & Sons, Inc","1070 Hatboro Rd Warminster, PA 18974",40.220257,-75.02969
+63,The Market of Lafayette Hill,"531 Germantown Pike Lafayette Hill, PA 19444",40.087053,-75.251877
+64,Richboro Shop N Bag,"1025 N. Second Street Pike Richboro, PA 18954",40.216366,-75.010617
+65,George's Dreshertown ShopnBag,"1650 Limekiln Pike Dresher, PA 19025",40.146942,-75.167761
+66,Dekalb Super Market,"815 Dekalb Street Norristown, PA 19401",40.1189,-75.339816
+67,DUBLIN SHOP N BAG,"161 N MAIN STREET DUBLIN, PA 18917",40.375892,-75.206018
+68,West Norriton Farmers Market,"1930 W Main Street Norristown, PA 19403",40.131687,-75.376982
+69,A & F Market,"416 South West. Vineland,  NJ 08360",39.48178,-75.026976
+70,Ananda Bazar Grocery,"2929 Atlantic Ave,  Atlantic City, NJ 08401",39.35473,-74.447745
+71,Avalon Seafood & Produce,"29th & Ocean Dr,  Avalon, NJ 08202",39.097643,-74.72438
+72,Avalon Supermarket,"2868 Dunne Dr, Avalon, NJ 08202",39.097205,-74.722456
+73,Bud's Market,"8302 Third Ave, Avalon, NJ 08202",39.111978,-74.712506
+74,Citgo,"174 S Broadway, Gloucester City, NJ 08030",39.893303,-75.120187
+75,Country Farms,"2911 Rt. 73 South Maple Shade, NJ 08052",39.949624,-74.986636
+76,Crystal Lake Thriftway,"650 West Cuthbert Blvd, Collingswood, NJ 08108",39.901511,-75.062994
+77,Deterdings,"506 East Gibbsboro Rd, Lindenwold, NJ 0802",39.820167,-74.980202
+78,Duffields Farm Mkt.,"280 Chapel Heights Rd, Sewell, NJ 08080",39.736193,-75.092077
+79,Eatmor,"856 Landis Ave, Vineland, NJ 08318",39.485032,-75.123378
+80,Elmer IGA,"201 Front St, Elmer, NJ 08318",39.593388,-75.175401
+81,Exxon Mobil Mart,"339 White Horse Pike, Magnolia, NJ 08049",39.858458,-75.030014
+82,Fresh Mart,"681 Crosskeys Rd, Sicklerville NJ 08081",39.727724,-75.014091
+83,Friendly Food Mart,"1900 Greentree Rd, Cherry Hill, NJ 08003",39.905654,-74.966771
+84,Gulf Food Mart,"136 S Delsea Dr, Glassboro, NJ 08028",39.692534,-75.101733
+85,Gulf Mini Mart,"1001 North Tuchahoe Rd, Williamstown NJ 08094",39.69022,-75.01866
+86,Haars Health Food Center,"1437 South Delsea Dr, Vineland NJ 08360",39.466328,-75.044758
+87,Incollingo's EHC,"810 White Horse Pike, Egg Harbor City NJ 08215",39.528696,-74.644984
+88,Incollingo's Smithville,"45 South New York Rd, Galloway, NJ 08205",39.527079,-74.644937
+89,Kam Man Food,"511 Old Post Rd, Edison, NJ 08817",40.515341,-74.377461
+90,La Villita Farm Mkt.,"3005 Atlantic Ave, Atlantic City, NJ 08401",39.361979,-74.437757
+91,M & S Produce,"6020 Black Horse Pike, Egg Harbor Twp,  NJ 08234",39.439254,-74.614974
+92,Meadowbrook Mkt.,"3012 Union Ave, Pennsauken Twp, NJ 08109",39.963018,-75.035428
+93,Pantry 1 Food Mart ,"1400 Black Horse Pike, Hammonton, NJ 08037",39.573936,-74.824113
+94,Pantry 1 Food Mart ,"2947 New Brooklyn/Erial Rd, Sicklerville, NJ",39.773791,-75.007164
+95,Rastelli Fresh Market,"710 Rt. 73 Marlton, NJ 08053",39.828548,-75.113482
+96,Roebling Market,"1275 Hornberger Ave, Roebling NJ 08554",40.116454,-74.7849
+97,Rt. 130 Food Mart,"201 U.S. 130 Delran, NJ 08075",39.986216,-75.014399
+98,Saibaba Food Mkt.,"2414 Atlantic Ave, Atlantic City, NJ 08401",39.356998,-74.441099
+99,Sam's Super Service,"290 Route 40, Elmer, NJ 08318",39.599328,-75.137417
+100,Sav A Lot,"700 N Second St, Millville, NJ 08332",39.403337,-75.037688
+101,Subzi Mandi,"1400 Berlin Rd, Cherry Hill, NJ 08003",39.879952,-75.004824
+102,Take A Break Vending,"2202 Black Horse Pike, Williamstown, NJ 08094",39.68649,-74.9952
+103,Valero Food Mart,"345 White Horse Pike, Magnolia, NJ 08049",39.859325,-75.030691
+104,Verchio's Brooklawn,"123 South New Broadway,  Brooklawn, NJ 08030",39.877249,-75.125338
+105,Verchio's Turnersville,"272 Hurfville Crosskeys Rd,  Sewell, NJ 08080",39.724391,-75.049585
+106,Yogi's Quick Shop,"192 Fries Mill Rd, Blackwood, NJ 08012",39.736213,-75.047649
