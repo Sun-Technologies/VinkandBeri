@@ -26,6 +26,7 @@
     <h1 class="title">Store Locator</h1>
     </div>
   </header>
+  <div class="container">
     <div class="row">
     <div class="span3">
     <form class="form-search">
@@ -42,12 +43,13 @@
     <div class="map_canvas"></div>
     <div class="location-hide">
       <div id="locationSelectresults"></div>
-      <div id="locationSelect" style="height: 350px; overflow: auto;"></div>
+      <div id="locationSelect" style="height: 550px; overflow: auto;"></div>
     </div>
     </div>
     <div class="span9">
-    <div id="map" style="height: 80%"></div>
+    <div id="map" style="height: 725px"></div>
     </div>
+  </div>
   </div>
   </section>
   </div>
