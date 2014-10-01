@@ -2,13 +2,13 @@
   <html>
 <head>
   <title>Store Locator | Vink &amp; Beri LLC</title>  
-  <meta name="viewport" content="width=device-width, initial-scale=1 maximum-scale=1, user-scalable=0">
+  <meta class="viewport" name="viewport" content="width=device-width, initial-scale=1.0">  
   <meta charset="utf-8">  
   <link href="img/favicon.png" rel="shortcut icon">
   <?php include'php/header.php'; ?>
   <link rel='stylesheet' href="css/mapstyle.css">
   </head>
-  <body class="fixed-header"> 
+  <body style="margin:0px; padding:0px;" class="fixed-header"> 
   <div class="page-box">
   <div class="page-box-content">
   <?php include'php/header-navs.php'; ?>  
@@ -28,7 +28,7 @@
   </header>
   <div class="container">
     <div class="row">
-    <div class="span3" id="map-details">
+    <div class="span3">
     <form class="form-search">
     <input type="text" id="addressInput"/>
     <select id="radiusSelect" class="span2" style="width: 201px;">
@@ -47,7 +47,7 @@
     </div>
     </div>
     <div class="span9">
-    <div id="map" class="location-height"></div>
+    <div id="map" style="height: 725px"></div>
     </div>
   </div>
   </div>
