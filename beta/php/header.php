@@ -1,7 +1,8 @@
-  <meta class="viewport" name="viewport" content="width=device-width, initial-scale=1.0">
+  <meta name="viewport" content="width=device-width, initial-scale=1 maximum-scale=1, user-scalable=0">
   <meta charset="utf-8">
   <link href="img/favicon.png" rel="shortcut icon">
   <link href='http://fonts.googleapis.com/css?family=Oswald' rel='stylesheet' type='text/css'>
+  <link href='http://fonts.googleapis.com/css?family=Arimo' rel='stylesheet' type='text/css'>
   <link rel='stylesheet' href="css/docs.css">
   <link rel='stylesheet' href="css/buttons/social-icons.css">
   <link rel='stylesheet' href="css/buttons/animation.css">
