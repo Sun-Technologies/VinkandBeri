@@ -9,7 +9,7 @@
   	<div class="row">
 	  <div class="span3 logo-box">
 		<a href="index.php" class="logo">
-		  <img src="img/logo.svg" class="logo-img" alt="">
+		  <img src="img/logo.png" class="logo img" alt="">
 		</a>
 	  </div>
 	  <div class="span7 primary">
