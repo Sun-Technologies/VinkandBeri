@@ -2,7 +2,7 @@
     var map;
     var markers = [];
     var infoWindow;
-    var locationSelect;
+    var locationhide;
 
     $(document).ready(function () {
         map = new google.maps.Map(document.getElementById("map"), {
@@ -13,12 +13,13 @@
       });
       infoWindow = new google.maps.InfoWindow();
 
-      locationSelect = document.getElementById("locationSelect");
+      locationhide = document.getElementById("locationSelect");
+
       //locationSelect.innerHTML = "No Results".style.visibility("hidden");
       locationSelect.onchange = function() {
-        var markerNum = locationSelect.options[locationSelect.selectedIndex].value;
-        if (markerNum != "none"){
-          google.maps.event.trigger(markers[markerNum], 'click');
+        var locationhide = locationSelect.value + locationSelectresults;
+        if (locationhide != "none"){
+          $("#locationhide").style.visibility.show();
         }
       };
    });
