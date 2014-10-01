@@ -40,7 +40,7 @@
     <input type="button" class="btn" onclick="searchLocations()" value="Go!" id="go-button"/>
     </form>
     <div class="map_canvas"></div>
-    <div class="location-hide">
+    <div class="locationhide">
       <div id="locationSelectresults"></div>
       <div id="locationSelect" style="height: 550px; overflow: auto;"></div>
     </div>
