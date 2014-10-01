@@ -2,7 +2,6 @@
   <html>
 <head>
   <title>Store Locator | Vink &amp; Beri LLC</title>  
-  <meta name="viewport" content="width=device-width, initial-scale=1 maximum-scale=1, user-scalable=0">
   <meta charset="utf-8">  
   <link href="img/favicon.png" rel="shortcut icon">
   <?php include'php/header.php'; ?>
