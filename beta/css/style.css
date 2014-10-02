@@ -8217,10 +8217,10 @@ color:#FFF;
   height: 725px;
 }
 
+
+
 @media screen and (max-width: 1024px) {
-  .locationhide {
-    display: none;
-  }
+  
   #go-button {
     margin-top: 2%;
   }

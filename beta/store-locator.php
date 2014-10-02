@@ -42,7 +42,7 @@
     <div class="map_canvas"></div>
     <div class="locationhide">
       <div id="locationSelectresults"></div>
-      <div id="locationSelect" style="height: 550px; overflow: auto;"></div>
+      <div id="locationSelect" style="max-height: 550px; overflow: auto;"></div>
     </div>
     </div>
     <div class="span9">
