@@ -64,15 +64,6 @@
 				  <a href="#" data-image="img/content/almondmilk.jpg" data-zoom-image="img/content/almondmilk.jpg">
 					<img alt="" src="img/content/almondmilk.jpg" width="700" height="700">
 				  </a>
-				  <a href="#" data-image="img/content/almondmilk.jpg" data-zoom-image="img/content/almondmilk.jpg">
-					<img alt="" src="img/content/almondmilk.jpg" width="700" height="700">
-				  </a>
-				  <a href="#" data-image="img/content/almondmilk1.jpg" data-zoom-image="img/content/almondmilk1.jpg">
-					<img alt="" src="img/content/almondmilk1.jpg" width="700" height="700">
-				  </a>
-				  <a href="#" data-image="img/content/almondmilk.jpg" data-zoom-image="img/content/almondmilk.jpg">
-					<img alt="" src="img/content/almondmilk.jpg" width="700" height="700">
-				  </a>
 				</div><!-- #thumblist -->
 			  </div><!-- .thumblist -->
 			</div>
@@ -86,25 +77,7 @@
 			  <p>Since it does not contain any dairy, lactose, soy, eggs, cholesterol, gluten, casein, MSG or whey (milk protein), it is a safer option compared to traditional dairy milk. It’s healthier, it’s tastier, it’s divine – and now easily accessible too! </p>
 			  <p>With these many goodness, meet and greet almonds in an all new way and enjoy this refreshingly silky drink in the form of ALOR Almond Milk. It’s always fresh, heart-healthy, low-calorie and a nutrient-dense beverage that can be relished at a party, casual-meet with friends or as a drink post a workout. </p>
 			  <p>Our milk is made using responsibly grown almonds that are fresh and natural – just as nature intended. Go ahead and enjoy! </p>
-			</div>
-			
-			<!--<div class="price-box">
-			  <span class="price-old">$150</span> 
-			  <span class="price">$119.00</span>
-			</div>-->
-			
-			<!-- <h3>Nutrition Facts</h3>
-			 
-			<img width="300" align="right" src="img/content/Facts.png" alt="" style="margin-top:-120px;">
-			 -->
-			
-			
-			<!-- <div class="description">
-			  ALOE VERA JUICE DRINK WITH ALOE VERA PIECES : Alor Aloe Vera Juice is a All Natural Drink packed with ample benefits and goodness.It made from the real Aloe Vera pieces and contains no artificial colour or flavor. Prepared keeping in mind of providing ultimate taste of the Real Aloe Vera which can boost the energy to the peak.
-Now, pick your favorite since it is an anytime drink- the taste and health which you always look for.
-			</div>
-		  </div> -->
-		  
+			</div>		  
 		  <div class="clearfix"></div>
 		 
 		</div>

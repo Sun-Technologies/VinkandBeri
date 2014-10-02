@@ -64,15 +64,6 @@
 				  <a href="#" data-image="img/content/coconut_chunks_latest.png" data-zoom-image="img/content/coconut_chunks_latest.png">
 					<img alt="" src="img/content/coconut_chunks_latest.png" width="700" height="700">
 				  </a>
-				  <a href="#" data-image="img/content/coconut_chunks_latest11.png" data-zoom-image="img/content/coconut_chunks_latest11.png">
-					<img alt="" src="img/content/coconut_chunks_latest11.png" width="700" height="700">
-				  </a>
-				  <a href="#" data-image="img/content/coconut_chunks_latest2.jpg" data-zoom-image="img/content/coconut_chunks_latest2.jpg">
-					<img alt="" src="img/content/coconut_chunks_latest2.jpg" width="700" height="700">
-				  </a>
-				  <a href="#" data-image="img/content/coconut_chunks_latest.png" data-zoom-image="img/content/coconut_chunks_latest.png">
-					<img alt="" src="img/content/coconut_chunks_latest.png" width="700" height="700">
-				  </a>
 				</div><!-- #thumblist -->
 			  </div><!-- .thumblist -->
 			</div>

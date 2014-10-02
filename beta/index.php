@@ -163,7 +163,7 @@
 		<div id="text2" class="tab-pane fade">			  			  				<div class="text-small features-block">				  <div class="header-box">	<h6><a href="#">Vink &amp; Beri Commercial || ALOR Tender</a></h6>				  </div>				  
 		<div class="computer">				  
 		<iframe scrolling="no" frameborder="0" style="border:none; overflow:hidden; width:574px; height:322px " id="c" allowfullscreen="allowfullscreen" mozallowfullscreen="true"
-		 webkitallowfullscreen="true" src="http://www.youtube.com/embed/Wh7TuDXZCJ0?wmode=transparent&amp;autoplay=0&amp;theme=dark&amp;controls=1&amp;autohide=0&amp;loop=0&amp;showinfo=0&amp;rel=0"></iframe>					  </div>				</div><p></p>			  
+	 webkitallowfullscreen="true"  src="//www.youtube.com/embed/iw-MqXJYXz0?wmode=transparent&amp;autoplay=0&amp;theme=dark&amp;controls=1&amp;autohide=0&amp;loop=0&amp;showinfo=0&amp;rel=0"></iframe></div>				</div><p></p>			  
 		</div>			  			  			  
 		</div>			<div class="clearfix"></div>		  </div>
 		

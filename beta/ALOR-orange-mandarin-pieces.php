@@ -64,15 +64,6 @@
 				  <a href="#" data-image="img/content/Orange-nector-3.jpg" data-zoom-image="img/content/Orange-nector-3.jpg">
 					<img alt="" src="img/content/Orange-nector-3.jpg" width="700" height="700">
 				  </a>
-				  <a href="#" data-image="img/content/ALOR_orange_mandarin_pieces.jpg" data-zoom-image="img/content/ALOR_orange_mandarin_pieces.jpg">
-					<img alt="" src="img/content/ALOR_orange_mandarin_pieces.jpg" width="700" height="700">
-				  </a>
-				  <a href="#" data-image="img/content/Orange-nector-2.jpg" data-zoom-image="img/content/Orange-nector-2.jpg">
-					<img alt="" src="img/content/Orange-nector-2.jpg" width="700" height="700">
-				  </a>
-				  <a href="#" data-image="img/content/Orange-nector-3.jpg" data-zoom-image="img/content/Orange-nector-3.jpg">
-					<img alt="" src="img/content/Orange-nector-3.jpg" width="700" height="700">
-				  </a>
 				</div><!-- #thumblist -->
 			  </div><!-- .thumblist -->
 			</div>

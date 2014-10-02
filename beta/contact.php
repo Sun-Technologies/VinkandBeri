@@ -29,41 +29,10 @@
     <div class="row">    
       <div class="content span12">
     <div class="row">             <div class="span6" style="background: whitesmoke;"> 
-        <!--<form id="contactform" class="register-form contact-form" method="POST" action="email-submit.php">
-            <h3 class="title">Quick Contact</h3>
-                    <div id="success"></div>
-                            <label>Name: <span class="required">*</span></label>
-                                    <input class="input-block-level" type="text" name="name">
-                            <label>Email Address: <span class="required">*</span></label>
-                                    <input class="input-block-level" type="email" name="email">
-                            <label>Telephone:</label>
-                                    <input class="input-block-level" type="text" name="phone">
-                            <label>Subject:</label>
-                                    <input class="input-block-level" type="text" name="message">                            
-                            <label>Comment:</label>
-                                    <textarea class="input-block-level" name="comment" maxlength="200"></textarea>
-                                            <div class="clearfix"></div> 
-                                                   <div class="buttons-box clearfix">
-                                                           <button name="submit" class="btn pull-left" data-toggle="modal" data-target="#myModal">Submit</button>       <span class="required"><b>*</b> Required Field</span>  
-         
-<div class="modal fade" id="myModal" tabindex="-1" role="dialog" aria-labelledby="myModalLabel" aria-hidden="true">
-  <div class="modal-dialog">
-    <div class="modal-content">
-      <div class="modal-body">
-        <h6 style="text-align: center; padding: 50px;">Your Data Successfully Submitted!</h6>
-      </div>
-      <div class="modal-footer">
-        <button type="button" class="btn btn-default" data-dismiss="modal">Close</button>
-      </div>
-    </div>
-  </div>
-</div>
-         </div>
-      </form>-->  
       <form method="post" action="contact-send.php" id="contactform" class="form-signin" role="form" style="padding: 30px;">
         <h2 class="form-signin-heading">Quick Contact</h2>
         <label>Name: <span class="required">*</span></label><input type="text" class="span5 form-control" id="name" name="name" required autofocus>
-        <label>Email Address: <span class="required">*</span></label><input type="email" class="span5 form-control" id="email" name="email" required autofocus>
+        <label>Email Address: <span class="required">*</span></label><input type="email" class="span5 form-control" id="email" name="email" required>
         <label>Telephone:</label><input type="text"  class="span5 form-control" id="phone" name="phone">
         <label>Subject:</label><input type="text" class="span5 form-control" id="subject" name="subject">
         <label>Comment:</label><textarea class="span5 form-control" id="comment" name="comment" ></textarea><br>
@@ -87,7 +56,6 @@
       </div>
       <hr>
       </div>
-
       <div class="span12 map-box" style="margin-top: 1%;">      <iframe src="https://www.google.com/maps/embed?pb=!1m14!1m8!1m3!1d3046.386408072668!2d-75.2255!3d40.22271!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x89c6a469f12b71c7%3A0x47e745cfdb29cab9!2s140+Domorah+Dr!5e0!3m2!1sen!2sin!4v1395740924493" height="270" frameborder="0" style="border:0"></iframe>     </div>
       
 
