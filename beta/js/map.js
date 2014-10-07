@@ -133,7 +133,7 @@
       var enname =  htmlEntities(name);
 
       var jscript = 'javascript:showMarker("' + lat + '","' + lng + '", "' + enname + '", " ' + address + '")';
-      option.innerHTML = "<div id=location-area>" + "<a href='" + jscript + "'><b>" + name + "(" + distance.toFixed(1) + " mi)"  + "</b></a><br/>" + address + "<br/><a href='http://maps.google.com/?q="+name+"' target='_blank' id='get-location'>Get Directions <i class=icon-arrow-right></i></a>" + "</div>";
+      option.innerHTML = "<div id=location-area>" + "<a href='" + jscript + "'><b>" + name + "(" + distance.toFixed(1) + " mi)"  + "</b></a><br/>" + address + "<br/><a href='https://maps.google.com/?saddr="+addressInput.value+"&daddr="+enname+ "+"+address+"' target='_blank' id='get-location'>Get Directions <i class=icon-arrow-right></i></a>" + "</div>";
       locationSelect.appendChild(option);
     }
 
