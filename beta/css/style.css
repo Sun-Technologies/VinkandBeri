@@ -8216,7 +8216,14 @@ color:#FFF;
 .location-height {
   height: 725px;
 }
-
+#sales-image {
+  width: 90%;
+  margin-top: 5%;
+  -webkit-box-shadow: 0px 52px 102px -24px rgba(0,0,0,0.75);
+  -moz-box-shadow: 0px 52px 102px -24px rgba(0,0,0,0.75);
+  box-shadow: 0px 52px 102px -24px rgba(0,0,0,0.75);
+  border: 1px solid #000;
+}
 
 
 @media screen and (max-width: 1024px) {

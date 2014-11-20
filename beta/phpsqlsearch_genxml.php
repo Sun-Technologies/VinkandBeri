@@ -12,13 +12,13 @@ $node = $dom->createElement("markers");
 $parnode = $dom->appendChild($node);
 
 // Opens a connection to a mySQL server
-$connection=mysql_connect ('localhost', 'vandbllc_admin', 'Pi05W$&9ho-(');
+$connection=mysql_connect ('localhost', 'root', '');
 if (!$connection) {
   die("Not connected : " . mysql_error());
 }
 
 // Set the active mySQL database
-$db_selected = mysql_select_db('vandbllc_store_locator', $connection);
+$db_selected = mysql_select_db('store-locator', $connection);
 if (!$db_selected) {
   die ("Can\'t use db : " . mysql_error());
 }

@@ -72,9 +72,24 @@
 			-->
 			</div>
 		<h4 class="title">Sales &amp; Promotions</h4>
-			<div style="border:1px solid #ccc; border-radius:10px; padding:10px;">
-				<!--<a class="work">-->
+		<div>
+				<a class="work" href="sales-and-promotions.php">
 					<img width="370" height="270" alt="" src="img/content/portfolio-3.jpg">
+					<div class="bg-hover">
+						<button type="button" class="btn btn-primary" style="position: relative; margin-top: 180px;">Sales &amp; Promotions</button>
+					</div>
+				</a>
+				<br>
+				<!--<div data-appear-animation="bounceInLeft" class="text-small appear-animation bounceInLeft appear-animation-visible">
+					Discover simple healthy recipes <a href="#">Read more</a>
+					<div class="clearfix"></div><br>
+				</div>
+			-->
+			</div>
+			<!--
+			<div style="border:1px solid #ccc; border-radius:10px; padding:10px;">
+				<a class="work">
+					<img width="370" height="270" alt="" src="img/content/portfolio-3.jpg">-->
 					<!--<span class="shadow"></span>
 					<div class="bg-hover"></div>
 					<div class="work-title">
@@ -87,7 +102,7 @@
 					Stay Tuned for sales and promotions
 					<div class="clearfix"></div><br>
 				</div>-->
-			</div>
+			<!--</div>-->
 		</div><!-- .services-box-two -->
 		<div class="span4">
 		<h4 class="title">Health &amp; Nutrition</h4>
