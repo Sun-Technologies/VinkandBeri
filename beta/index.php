@@ -73,13 +73,27 @@
 			</div>
 		<h4 class="title">Sales &amp; Promotions</h4>
 		<div>
+				<div>
 				<a class="work" href="sales-and-promotions.php">
 					<img width="370" height="270" alt="" src="img/content/portfolio-3.jpg">
+					<span class="shadow">
+						<button type="button" class="btn btn-primary" style="position: relative; margin-top: 180px;">Sales &amp; Promotions</button>
+					</span>
 					<div class="bg-hover">
 						<button type="button" class="btn btn-primary" style="position: relative; margin-top: 180px;">Sales &amp; Promotions</button>
 					</div>
+					<div class="work-title">
+					<!--<h3 class="title">Aloe Vera Juice</h3>-->
+					<div class="description1" style="font-size: 15px;">To buy our products online</div>
+					</div>
 				</a>
 				<br>
+				<!--<div data-appear-animation="bounceInLeft" class="text-small appear-animation bounceInLeft appear-animation-visible">
+					Discover simple healthy recipes <a href="#">Read more</a>
+					<div class="clearfix"></div><br>
+				</div>
+			-->
+			</div>
 				<!--<div data-appear-animation="bounceInLeft" class="text-small appear-animation bounceInLeft appear-animation-visible">
 					Discover simple healthy recipes <a href="#">Read more</a>
 					<div class="clearfix"></div><br>
