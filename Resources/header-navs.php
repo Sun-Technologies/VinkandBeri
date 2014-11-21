@@ -50,8 +50,6 @@
 		<a href="https://plus.google.com/u/0/102648090428299855578" target="_blank" class="sbtnf sbtnf-rounded color color-hover icon-gplus"></a>
 		<a href="https://www.youtube.com/user/vinkandberi" target="_blank" class="sbtnf sbtnf-rounded color color-hover icon-youtube"></a>
 		<a href="http://instagram.com/vinkandberi" target="_blank" class="sbtnf sbtnf-rounded color color-hover icon-instagram"></a>
-		<a href="http://www.amazon.com/gp/aag/main?ie=UTF8&asin=&isAmazonFulfilled=&isCBA=&marketplaceID=ATVPDKIKX0DER&orderID=&seller=AB6LLZOXWA0T2" target="_blank" class="sbtnf sbtnf-rounded color color-hover icon-amazon"></a>
-		<a href="http://www.pinterest.com/vinkandberi" target="_blank" class="sbtnf sbtnf-rounded color color-hover icon-pinterest"></a>
 	  </div>
 	  </div>
 	  <div class="phone-active span9">
